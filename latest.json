@@ -1,48 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.2-1.0.9/Zenfik-Setup.exe",
-                                    "version":  "1.1.2",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.3-1.0.10/Zenfik-Setup.exe",
+                                    "version":  "1.1.3",
                                     "notes":  {
                                                   "en":  [
-                                                             "Thinking Zenfik now shows a question mark",
-                                                             "Zenfik holds your drive in the Disks tab"
+                                                             "Fixed Zenfik freezing on the shelf after dragging a file or link out of it"
                                                          ],
                                                   "pl":  [
-                                                             "Myślący Zenfik pokazuje teraz znak zapytania",
-                                                             "Zenfik trzyma dysk w łapkach w zakładce Dyski"
+                                                             "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku"
                                                          ],
                                                   "es":  [
-                                                             "Zenfik pensativo ahora muestra un signo de interrogación",
-                                                             "Zenfik sostiene tu disco en la pestaña Discos"
+                                                             "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace"
                                                          ],
                                                   "de":  [
-                                                             "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen",
-                                                             "Zenfik hält dein Laufwerk im Tab Laufwerke"
+                                                             "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.2-1.0.9/Zenfik-Setup.exe",
-                                  "version":  "1.1.2",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.3-1.0.10/Zenfik-Setup.exe",
+                                  "version":  "1.1.3",
                                   "notes":  {
                                                 "en":  [
-                                                           "Thinking Zenfik now shows a question mark",
-                                                           "Zenfik holds your drive in the Disks tab"
+                                                           "Fixed Zenfik freezing on the shelf after dragging a file or link out of it"
                                                        ],
                                                 "pl":  [
-                                                           "Myślący Zenfik pokazuje teraz znak zapytania",
-                                                           "Zenfik trzyma dysk w łapkach w zakładce Dyski"
+                                                           "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku"
                                                        ],
                                                 "es":  [
-                                                           "Zenfik pensativo ahora muestra un signo de interrogación",
-                                                           "Zenfik sostiene tu disco en la pestaña Discos"
+                                                           "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace"
                                                        ],
                                                 "de":  [
-                                                           "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen",
-                                                           "Zenfik hält dein Laufwerk im Tab Laufwerke"
+                                                           "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen"
                                                        ]
                                             }
                               }
