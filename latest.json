@@ -1,48 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.2-1.3.2/Zenfik-Setup.exe",
-                                    "version":  "1.2.2",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.3-1.3.3/Zenfik-Setup.exe",
+                                    "version":  "1.2.3",
                                     "notes":  {
                                                   "en":  [
-                                                             "Minimizing a window you watch in Screen (e.g. YouTube) keeps the video playing, the window just slides out of sight",
-                                                             "Removed the colored circles behind icons in notifications and reminders"
+                                                             "The mini window keeps its size and shape when you minimize a maximized window, like a full-screen browser"
                                                          ],
                                                   "pl":  [
-                                                             "Zminimalizowanie okna z Podglądu (np. YouTube) nie zatrzymuje już filmu, okno chowa się za krawędź ekranu",
-                                                             "Usunięto kolorowe kółka za ikonami w powiadomieniach i przypomnieniach"
+                                                             "Mini okienko zachowuje rozmiar i proporcje po zminimalizowaniu zmaksymalizowanego okna, np. przeglądarki na cały ekran"
                                                          ],
                                                   "es":  [
-                                                             "Minimizar una ventana que ves en Pantalla (p. ej. YouTube) ya no detiene el vídeo, la ventana se esconde tras el borde",
-                                                             "Quitados los círculos de color detrás de los iconos en notificaciones y recordatorios"
+                                                             "La mini ventana mantiene su tamaño y forma al minimizar una ventana maximizada, como un navegador a pantalla completa"
                                                          ],
                                                   "de":  [
-                                                             "Ein minimiertes Fenster aus der Bildschirm-Seite (z. B. YouTube) läuft weiter, das Fenster verschwindet nur hinter dem Rand",
-                                                             "Farbige Kreise hinter Symbolen in Mitteilungen und Erinnerungen entfernt"
+                                                             "Das Mini-Fenster behält Größe und Form, wenn ein maximiertes Fenster wie ein Vollbild-Browser minimiert wird"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.2-1.3.2/Zenfik-Setup.exe",
-                                  "version":  "1.2.2",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.3-1.3.3/Zenfik-Setup.exe",
+                                  "version":  "1.2.3",
                                   "notes":  {
                                                 "en":  [
-                                                           "Minimizing a window you watch in Screen (e.g. YouTube) keeps the video playing, the window just slides out of sight",
-                                                           "Removed the colored circles behind icons in notifications and reminders"
+                                                           "The mini window keeps its size and shape when you minimize a maximized window, like a full-screen browser"
                                                        ],
                                                 "pl":  [
-                                                           "Zminimalizowanie okna z Podglądu (np. YouTube) nie zatrzymuje już filmu, okno chowa się za krawędź ekranu",
-                                                           "Usunięto kolorowe kółka za ikonami w powiadomieniach i przypomnieniach"
+                                                           "Mini okienko zachowuje rozmiar i proporcje po zminimalizowaniu zmaksymalizowanego okna, np. przeglądarki na cały ekran"
                                                        ],
                                                 "es":  [
-                                                           "Minimizar una ventana que ves en Pantalla (p. ej. YouTube) ya no detiene el vídeo, la ventana se esconde tras el borde",
-                                                           "Quitados los círculos de color detrás de los iconos en notificaciones y recordatorios"
+                                                           "La mini ventana mantiene su tamaño y forma al minimizar una ventana maximizada, como un navegador a pantalla completa"
                                                        ],
                                                 "de":  [
-                                                           "Ein minimiertes Fenster aus der Bildschirm-Seite (z. B. YouTube) läuft weiter, das Fenster verschwindet nur hinter dem Rand",
-                                                           "Farbige Kreise hinter Symbolen in Mitteilungen und Erinnerungen entfernt"
+                                                           "Das Mini-Fenster behält Größe und Form, wenn ein maximiertes Fenster wie ein Vollbild-Browser minimiert wird"
                                                        ]
                                             }
                               }
