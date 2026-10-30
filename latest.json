@@ -1,56 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.9-1.4.1/Zenfik-Setup.exe",
-                                    "version":  "1.2.9",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.0-1.4.2/Zenfik-Setup.exe",
+                                    "version":  "1.3.0",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass ported from liquid-glass-vue: Zenfik now draws its own glass, with the same blur, saturation, refraction with RGB split and the light on the edge that turns with your mouse",
-                                                             "No more system blur, so no grey boxes or gaps",
-                                                             "Note: with Liquid Glass on, Zenfik is hidden from screenshots, recordings and streams"
+                                                             "Liquid Glass now shows the glow color from the bottom when the glow is on"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass przeniesione z liquid-glass-vue: Zenfik rysuje własne szkło, z tym samym rozmyciem, nasyceniem, załamaniem światła z rozszczepieniem RGB i światłem na krawędzi, które obraca się za myszką",
-                                                             "Bez systemowego rozmycia, więc bez szarych prostokątów i przerw",
-                                                             "Uwaga: przy włączonym Liquid Glass Zenfika nie widać na zrzutach ekranu, nagraniach i streamach"
+                                                             "Liquid Glass pokazuje teraz kolor poświaty od dołu, gdy poświata jest włączona"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass portado de liquid-glass-vue: Zenfik dibuja su propio cristal, con el mismo desenfoque, saturación, refracción con separación RGB y luz en el borde que gira con el ratón",
-                                                             "Sin el desenfoque del sistema, así que sin recuadros grises ni huecos",
-                                                             "Nota: con Liquid Glass activado, Zenfik no aparece en capturas, grabaciones ni streams"
+                                                             "Liquid Glass ahora muestra el color del brillo desde abajo cuando el brillo está activado"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass aus liquid-glass-vue übernommen: Zenfik zeichnet sein eigenes Glas mit gleicher Unschärfe, Sättigung, Lichtbrechung mit RGB-Versatz und Licht an der Kante, das der Maus folgt",
-                                                             "Keine System-Unschärfe mehr, also keine grauen Felder oder Lücken",
-                                                             "Hinweis: Mit Liquid Glass ist Zenfik auf Screenshots, Aufnahmen und Streams unsichtbar"
+                                                             "Liquid Glass zeigt jetzt die Leuchtfarbe von unten, wenn das Leuchten an ist"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.9-1.4.1/Zenfik-Setup.exe",
-                                  "version":  "1.2.9",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.0-1.4.2/Zenfik-Setup.exe",
+                                  "version":  "1.3.0",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass ported from liquid-glass-vue: Zenfik now draws its own glass, with the same blur, saturation, refraction with RGB split and the light on the edge that turns with your mouse",
-                                                           "No more system blur, so no grey boxes or gaps",
-                                                           "Note: with Liquid Glass on, Zenfik is hidden from screenshots, recordings and streams"
+                                                           "Liquid Glass now shows the glow color from the bottom when the glow is on"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass przeniesione z liquid-glass-vue: Zenfik rysuje własne szkło, z tym samym rozmyciem, nasyceniem, załamaniem światła z rozszczepieniem RGB i światłem na krawędzi, które obraca się za myszką",
-                                                           "Bez systemowego rozmycia, więc bez szarych prostokątów i przerw",
-                                                           "Uwaga: przy włączonym Liquid Glass Zenfika nie widać na zrzutach ekranu, nagraniach i streamach"
+                                                           "Liquid Glass pokazuje teraz kolor poświaty od dołu, gdy poświata jest włączona"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass portado de liquid-glass-vue: Zenfik dibuja su propio cristal, con el mismo desenfoque, saturación, refracción con separación RGB y luz en el borde que gira con el ratón",
-                                                           "Sin el desenfoque del sistema, así que sin recuadros grises ni huecos",
-                                                           "Nota: con Liquid Glass activado, Zenfik no aparece en capturas, grabaciones ni streams"
+                                                           "Liquid Glass ahora muestra el color del brillo desde abajo cuando el brillo está activado"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass aus liquid-glass-vue übernommen: Zenfik zeichnet sein eigenes Glas mit gleicher Unschärfe, Sättigung, Lichtbrechung mit RGB-Versatz und Licht an der Kante, das der Maus folgt",
-                                                           "Keine System-Unschärfe mehr, also keine grauen Felder oder Lücken",
-                                                           "Hinweis: Mit Liquid Glass ist Zenfik auf Screenshots, Aufnahmen und Streams unsichtbar"
+                                                           "Liquid Glass zeigt jetzt die Leuchtfarbe von unten, wenn das Leuchten an ist"
                                                        ]
                                             }
                               }
