@@ -1,40 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.5-1.4.7/Zenfik-Setup.exe",
-                                    "version":  "1.3.5",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.6-1.4.8/Zenfik-Setup.exe",
+                                    "version":  "1.3.6",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass fixes: no more black band at the top, clean edges after opening the notch and a background that keeps up while you move the mouse"
+                                                             "Liquid Glass is now stable: no leftover square from the small notch, no odd colors and clean corners"
                                                          ],
                                                   "pl":  [
-                                                             "Poprawki Liquid Glass: bez czarnego pasa u góry, czyste krawędzie po rozwinięciu notcha i tło, które nadąża przy ruchu myszką"
+                                                             "Liquid Glass jest teraz stabilne: bez prostokąta po małym notchu, bez dziwnych kolorów i z czystymi rogami"
                                                          ],
                                                   "es":  [
-                                                             "Arreglos de Liquid Glass: sin franja negra arriba, bordes limpios al abrir el notch y un fondo que acompaña al mover el ratón"
+                                                             "Liquid Glass ahora es estable: sin el recuadro del notch pequeño, sin colores raros y con esquinas limpias"
                                                          ],
                                                   "de":  [
-                                                             "Liquid-Glass-Korrekturen: kein schwarzer Streifen oben, saubere Kanten nach dem Öffnen der Notch und ein Hintergrund, der bei Mausbewegung mithält"
+                                                             "Liquid Glass ist jetzt stabil: kein Rest-Quadrat der kleinen Notch, keine seltsamen Farben und saubere Ecken"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.5-1.4.7/Zenfik-Setup.exe",
-                                  "version":  "1.3.5",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.6-1.4.8/Zenfik-Setup.exe",
+                                  "version":  "1.3.6",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass fixes: no more black band at the top, clean edges after opening the notch and a background that keeps up while you move the mouse"
+                                                           "Liquid Glass is now stable: no leftover square from the small notch, no odd colors and clean corners"
                                                        ],
                                                 "pl":  [
-                                                           "Poprawki Liquid Glass: bez czarnego pasa u góry, czyste krawędzie po rozwinięciu notcha i tło, które nadąża przy ruchu myszką"
+                                                           "Liquid Glass jest teraz stabilne: bez prostokąta po małym notchu, bez dziwnych kolorów i z czystymi rogami"
                                                        ],
                                                 "es":  [
-                                                           "Arreglos de Liquid Glass: sin franja negra arriba, bordes limpios al abrir el notch y un fondo que acompaña al mover el ratón"
+                                                           "Liquid Glass ahora es estable: sin el recuadro del notch pequeño, sin colores raros y con esquinas limpias"
                                                        ],
                                                 "de":  [
-                                                           "Liquid-Glass-Korrekturen: kein schwarzer Streifen oben, saubere Kanten nach dem Öffnen der Notch und ein Hintergrund, der bei Mausbewegung mithält"
+                                                           "Liquid Glass ist jetzt stabil: kein Rest-Quadrat der kleinen Notch, keine seltsamen Farben und saubere Ecken"
                                                        ]
                                             }
                               }
