@@ -1,108 +1,108 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/Zenfik-Setup.exe",
-                                    "version":  "1.0.0",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/Zenfik-Setup.exe",
+                                    "version":  "1.0.1",
                                     "notes":  {
                                                   "en":  [
-                                                             "Glow follows the open app and album art",
-                                                             "New idle looks: face with emotes, status, clock",
-                                                             "Links and browser tabs on the shelf"
+                                                             "The launcher opens only once, a second start brings the window forward",
+                                                             "Tabs in the launcher never stay blank",
+                                                             "Safer updates that always keep your settings"
                                                          ],
                                                   "pl":  [
-                                                             "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
-                                                             "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
-                                                             "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                             "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
+                                                             "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
+                                                             "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
                                                          ],
                                                   "es":  [
-                                                             "El brillo sigue a la app abierta y a la portada",
-                                                             "Nuevos aspectos en reposo: carita, estado, reloj",
-                                                             "Enlaces y pestaĂ±as en el estante"
+                                                             "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
+                                                             "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
+                                                             "Actualizaciones mĂˇs seguras que conservan tus ajustes"
                                                          ],
                                                   "de":  [
-                                                             "Das Leuchten folgt der offenen App und dem Cover",
-                                                             "Neue Ruheansichten: Gesicht, Status, Uhr",
-                                                             "Links und Browser-Tabs in der Ablage"
+                                                             "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
+                                                             "Tabs im Launcher bleiben nie mehr leer",
+                                                             "Sicherere Updates, die deine Einstellungen behalten"
                                                          ]
                                               }
                                 },
                    "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/zenfik.exe",
-                                  "version":  "1.0.0",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/zenfik.exe",
+                                  "version":  "1.0.1",
                                   "notes":  {
                                                 "en":  [
-                                                           "Glow follows the open app and album art",
-                                                           "New idle looks: face with emotes, status, clock",
-                                                           "Links and browser tabs on the shelf"
+                                                           "The launcher opens only once, a second start brings the window forward",
+                                                           "Tabs in the launcher never stay blank",
+                                                           "Safer updates that always keep your settings"
                                                        ],
                                                 "pl":  [
-                                                           "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
-                                                           "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
-                                                           "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                           "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
+                                                           "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
+                                                           "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
                                                        ],
                                                 "es":  [
-                                                           "El brillo sigue a la app abierta y a la portada",
-                                                           "Nuevos aspectos en reposo: carita, estado, reloj",
-                                                           "Enlaces y pestaĂ±as en el estante"
+                                                           "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
+                                                           "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
+                                                           "Actualizaciones mĂˇs seguras que conservan tus ajustes"
                                                        ],
                                                 "de":  [
-                                                           "Das Leuchten folgt der offenen App und dem Cover",
-                                                           "Neue Ruheansichten: Gesicht, Status, Uhr",
-                                                           "Links und Browser-Tabs in der Ablage"
+                                                           "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
+                                                           "Tabs im Launcher bleiben nie mehr leer",
+                                                           "Sicherere Updates, die deine Einstellungen behalten"
                                                        ]
                                             }
                               }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/Zenfik-Setup.exe",
-                                  "version":  "1.0.0",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/Zenfik-Setup.exe",
+                                  "version":  "1.0.1",
                                   "notes":  {
                                                 "en":  [
-                                                           "Glow follows the open app and album art",
-                                                           "New idle looks: face with emotes, status, clock",
-                                                           "Links and browser tabs on the shelf"
+                                                           "The launcher opens only once, a second start brings the window forward",
+                                                           "Tabs in the launcher never stay blank",
+                                                           "Safer updates that always keep your settings"
                                                        ],
                                                 "pl":  [
-                                                           "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
-                                                           "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
-                                                           "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                           "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
+                                                           "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
+                                                           "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
                                                        ],
                                                 "es":  [
-                                                           "El brillo sigue a la app abierta y a la portada",
-                                                           "Nuevos aspectos en reposo: carita, estado, reloj",
-                                                           "Enlaces y pestaĂ±as en el estante"
+                                                           "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
+                                                           "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
+                                                           "Actualizaciones mĂˇs seguras que conservan tus ajustes"
                                                        ],
                                                 "de":  [
-                                                           "Das Leuchten folgt der offenen App und dem Cover",
-                                                           "Neue Ruheansichten: Gesicht, Status, Uhr",
-                                                           "Links und Browser-Tabs in der Ablage"
+                                                           "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
+                                                           "Tabs im Launcher bleiben nie mehr leer",
+                                                           "Sicherere Updates, die deine Einstellungen behalten"
                                                        ]
                                             }
                               },
                  "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/zenfik.exe",
-                                "version":  "1.0.0",
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/zenfik.exe",
+                                "version":  "1.0.1",
                                 "notes":  {
                                               "en":  [
-                                                         "Glow follows the open app and album art",
-                                                         "New idle looks: face with emotes, status, clock",
-                                                         "Links and browser tabs on the shelf"
+                                                         "The launcher opens only once, a second start brings the window forward",
+                                                         "Tabs in the launcher never stay blank",
+                                                         "Safer updates that always keep your settings"
                                                      ],
                                               "pl":  [
-                                                         "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
-                                                         "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
-                                                         "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                         "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
+                                                         "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
+                                                         "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
                                                      ],
                                               "es":  [
-                                                         "El brillo sigue a la app abierta y a la portada",
-                                                         "Nuevos aspectos en reposo: carita, estado, reloj",
-                                                         "Enlaces y pestaĂ±as en el estante"
+                                                         "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
+                                                         "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
+                                                         "Actualizaciones mĂˇs seguras que conservan tus ajustes"
                                                      ],
                                               "de":  [
-                                                         "Das Leuchten folgt der offenen App und dem Cover",
-                                                         "Neue Ruheansichten: Gesicht, Status, Uhr",
-                                                         "Links und Browser-Tabs in der Ablage"
+                                                         "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
+                                                         "Tabs im Launcher bleiben nie mehr leer",
+                                                         "Sicherere Updates, die deine Einstellungen behalten"
                                                      ]
                                           }
                             }
