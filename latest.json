@@ -1,108 +1,140 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/Zenfik-Setup.exe",
-                                    "version":  "1.0.1",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/Zenfik-Setup.exe",
+                                    "version":  "1.0.2",
                                     "notes":  {
                                                   "en":  [
-                                                             "The launcher opens only once, a second start brings the window forward",
-                                                             "Tabs in the launcher never stay blank",
-                                                             "Safer updates that always keep your settings"
+                                                             "Lyrics light up and scroll smoothly like in Spotify",
+                                                             "Pick a reminder time for every to-do",
+                                                             "Paste links straight into the shelf",
+                                                             "A new, friendly uninstall screen",
+                                                             "The lyrics button also hides lyrics in the small notch"
                                                          ],
                                                   "pl":  [
-                                                             "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
-                                                             "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
-                                                             "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
+                                                             "Tekst piosenki rozÄąâ€şwietla siĂ„â„˘ i pÄąâ€šynnie przewija jak w Spotify",
+                                                             "Ustawianie godziny przypomnienia przy kaÄąÄ˝dym zadaniu",
+                                                             "Wklejanie linkÄ‚Ĺ‚w prosto na pÄ‚Ĺ‚Äąâ€škĂ„â„˘",
+                                                             "Nowy, przyjazny ekran odinstalowania",
+                                                             "Przycisk tekstu ukrywa teĹĽ tekst w maĹ‚ym notchu"
                                                          ],
                                                   "es":  [
-                                                             "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
-                                                             "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
-                                                             "Actualizaciones mĂˇs seguras que conservan tus ajustes"
+                                                             "La letra se ilumina y se desplaza suavemente como en Spotify",
+                                                             "Elige la hora del recordatorio de cada tarea",
+                                                             "Pega enlaces directamente en el estante",
+                                                             "Una nueva pantalla de desinstalaciÄ‚Ĺ‚n",
+                                                             "El botĂłn de letra tambiĂ©n la oculta en el notch pequeĂ±o"
                                                          ],
                                                   "de":  [
-                                                             "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
-                                                             "Tabs im Launcher bleiben nie mehr leer",
-                                                             "Sicherere Updates, die deine Einstellungen behalten"
+                                                             "Songtexte leuchten auf und scrollen weich wie bei Spotify",
+                                                             "Erinnerungszeit fÄ‚Ä˝r jede Aufgabe wÄ‚Â¤hlen",
+                                                             "Links direkt in die Ablage einfÄ‚Ä˝gen",
+                                                             "Ein neuer, freundlicher Deinstallationsbildschirm",
+                                                             "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
                                                          ]
                                               }
                                 },
                    "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/zenfik.exe",
-                                  "version":  "1.0.1",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/zenfik.exe",
+                                  "version":  "1.0.2",
                                   "notes":  {
                                                 "en":  [
-                                                           "The launcher opens only once, a second start brings the window forward",
-                                                           "Tabs in the launcher never stay blank",
-                                                           "Safer updates that always keep your settings"
+                                                           "Lyrics light up and scroll smoothly like in Spotify",
+                                                           "Pick a reminder time for every to-do",
+                                                           "Paste links straight into the shelf",
+                                                           "A new, friendly uninstall screen",
+                                                           "The lyrics button also hides lyrics in the small notch"
                                                        ],
                                                 "pl":  [
-                                                           "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
-                                                           "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
-                                                           "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
+                                                           "Tekst piosenki rozÄąâ€şwietla siĂ„â„˘ i pÄąâ€šynnie przewija jak w Spotify",
+                                                           "Ustawianie godziny przypomnienia przy kaÄąÄ˝dym zadaniu",
+                                                           "Wklejanie linkÄ‚Ĺ‚w prosto na pÄ‚Ĺ‚Äąâ€škĂ„â„˘",
+                                                           "Nowy, przyjazny ekran odinstalowania",
+                                                           "Przycisk tekstu ukrywa teĹĽ tekst w maĹ‚ym notchu"
                                                        ],
                                                 "es":  [
-                                                           "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
-                                                           "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
-                                                           "Actualizaciones mĂˇs seguras que conservan tus ajustes"
+                                                           "La letra se ilumina y se desplaza suavemente como en Spotify",
+                                                           "Elige la hora del recordatorio de cada tarea",
+                                                           "Pega enlaces directamente en el estante",
+                                                           "Una nueva pantalla de desinstalaciÄ‚Ĺ‚n",
+                                                           "El botĂłn de letra tambiĂ©n la oculta en el notch pequeĂ±o"
                                                        ],
                                                 "de":  [
-                                                           "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
-                                                           "Tabs im Launcher bleiben nie mehr leer",
-                                                           "Sicherere Updates, die deine Einstellungen behalten"
+                                                           "Songtexte leuchten auf und scrollen weich wie bei Spotify",
+                                                           "Erinnerungszeit fÄ‚Ä˝r jede Aufgabe wÄ‚Â¤hlen",
+                                                           "Links direkt in die Ablage einfÄ‚Ä˝gen",
+                                                           "Ein neuer, freundlicher Deinstallationsbildschirm",
+                                                           "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
                                                        ]
                                             }
                               }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/Zenfik-Setup.exe",
-                                  "version":  "1.0.1",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/Zenfik-Setup.exe",
+                                  "version":  "1.0.2",
                                   "notes":  {
                                                 "en":  [
-                                                           "The launcher opens only once, a second start brings the window forward",
-                                                           "Tabs in the launcher never stay blank",
-                                                           "Safer updates that always keep your settings"
+                                                           "Lyrics light up and scroll smoothly like in Spotify",
+                                                           "Pick a reminder time for every to-do",
+                                                           "Paste links straight into the shelf",
+                                                           "A new, friendly uninstall screen",
+                                                           "The lyrics button also hides lyrics in the small notch"
                                                        ],
                                                 "pl":  [
-                                                           "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
-                                                           "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
-                                                           "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
+                                                           "Tekst piosenki rozÄąâ€şwietla siĂ„â„˘ i pÄąâ€šynnie przewija jak w Spotify",
+                                                           "Ustawianie godziny przypomnienia przy kaÄąÄ˝dym zadaniu",
+                                                           "Wklejanie linkÄ‚Ĺ‚w prosto na pÄ‚Ĺ‚Äąâ€škĂ„â„˘",
+                                                           "Nowy, przyjazny ekran odinstalowania",
+                                                           "Przycisk tekstu ukrywa teĹĽ tekst w maĹ‚ym notchu"
                                                        ],
                                                 "es":  [
-                                                           "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
-                                                           "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
-                                                           "Actualizaciones mĂˇs seguras que conservan tus ajustes"
+                                                           "La letra se ilumina y se desplaza suavemente como en Spotify",
+                                                           "Elige la hora del recordatorio de cada tarea",
+                                                           "Pega enlaces directamente en el estante",
+                                                           "Una nueva pantalla de desinstalaciÄ‚Ĺ‚n",
+                                                           "El botĂłn de letra tambiĂ©n la oculta en el notch pequeĂ±o"
                                                        ],
                                                 "de":  [
-                                                           "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
-                                                           "Tabs im Launcher bleiben nie mehr leer",
-                                                           "Sicherere Updates, die deine Einstellungen behalten"
+                                                           "Songtexte leuchten auf und scrollen weich wie bei Spotify",
+                                                           "Erinnerungszeit fÄ‚Ä˝r jede Aufgabe wÄ‚Â¤hlen",
+                                                           "Links direkt in die Ablage einfÄ‚Ä˝gen",
+                                                           "Ein neuer, freundlicher Deinstallationsbildschirm",
+                                                           "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
                                                        ]
                                             }
                               },
                  "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.1-1.0.1/zenfik.exe",
-                                "version":  "1.0.1",
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/zenfik.exe",
+                                "version":  "1.0.2",
                                 "notes":  {
                                               "en":  [
-                                                         "The launcher opens only once, a second start brings the window forward",
-                                                         "Tabs in the launcher never stay blank",
-                                                         "Safer updates that always keep your settings"
+                                                         "Lyrics light up and scroll smoothly like in Spotify",
+                                                         "Pick a reminder time for every to-do",
+                                                         "Paste links straight into the shelf",
+                                                         "A new, friendly uninstall screen",
+                                                         "The lyrics button also hides lyrics in the small notch"
                                                      ],
                                               "pl":  [
-                                                         "Launcher otwiera siÄ™ tylko raz, kolejne uruchomienie pokazuje okno",
-                                                         "ZakĹ‚adki w launcherze nie zostajÄ… juĹĽ puste",
-                                                         "Bezpieczniejsze aktualizacje, ktĂłre zawsze zachowujÄ… ustawienia"
+                                                         "Tekst piosenki rozÄąâ€şwietla siĂ„â„˘ i pÄąâ€šynnie przewija jak w Spotify",
+                                                         "Ustawianie godziny przypomnienia przy kaÄąÄ˝dym zadaniu",
+                                                         "Wklejanie linkÄ‚Ĺ‚w prosto na pÄ‚Ĺ‚Äąâ€škĂ„â„˘",
+                                                         "Nowy, przyjazny ekran odinstalowania",
+                                                         "Przycisk tekstu ukrywa teĹĽ tekst w maĹ‚ym notchu"
                                                      ],
                                               "es":  [
-                                                         "El launcher se abre una sola vez, otro inicio trae la ventana al frente",
-                                                         "Las pestaĂ±as del launcher ya no se quedan vacĂ­as",
-                                                         "Actualizaciones mĂˇs seguras que conservan tus ajustes"
+                                                         "La letra se ilumina y se desplaza suavemente como en Spotify",
+                                                         "Elige la hora del recordatorio de cada tarea",
+                                                         "Pega enlaces directamente en el estante",
+                                                         "Una nueva pantalla de desinstalaciÄ‚Ĺ‚n",
+                                                         "El botĂłn de letra tambiĂ©n la oculta en el notch pequeĂ±o"
                                                      ],
                                               "de":  [
-                                                         "Der Launcher Ă¶ffnet sich nur einmal, ein zweiter Start holt das Fenster nach vorn",
-                                                         "Tabs im Launcher bleiben nie mehr leer",
-                                                         "Sicherere Updates, die deine Einstellungen behalten"
+                                                         "Songtexte leuchten auf und scrollen weich wie bei Spotify",
+                                                         "Erinnerungszeit fÄ‚Ä˝r jede Aufgabe wÄ‚Â¤hlen",
+                                                         "Links direkt in die Ablage einfÄ‚Ä˝gen",
+                                                         "Ein neuer, freundlicher Deinstallationsbildschirm",
+                                                         "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
                                                      ]
                                           }
                             }
