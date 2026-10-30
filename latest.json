@@ -1,142 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/Zenfik-Setup.exe",
-                                    "version":  "1.0.7",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.8-1.0.8/Zenfik-Setup.exe",
+                                    "version":  "1.0.8",
                                     "notes":  {
                                                   "en":  [
-                                                             "New default: the ring fills up as the day goes by",
-                                                             "Status shows the ring, date, time, Wi-Fi and battery",
-                                                             "Reminders fit their text",
-                                                             "Tighter lyrics spacing",
-                                                             "No jump when changing the notch size"
+
                                                          ],
                                                   "pl":  [
-                                                             "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
-                                                             "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
-                                                             "Przypomnienia dopasowują się do tekstu",
-                                                             "Mniejsze odstępy w tekście piosenki",
-                                                             "Bez przeskoku przy zmianie rozmiaru notcha"
+
                                                          ],
                                                   "es":  [
-                                                             "Nuevo por defecto: el anillo se llena a lo largo del día",
-                                                             "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
-                                                             "Los recordatorios se ajustan al texto",
-                                                             "Letras más compactas",
-                                                             "Sin saltos al cambiar el tamaño"
+
                                                          ],
                                                   "de":  [
-                                                             "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
-                                                             "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
-                                                             "Erinnerungen passen sich dem Text an",
-                                                             "Engere Songtext-Abstände",
-                                                             "Kein Springen beim Ändern der Größe"
+
                                                          ]
                                               }
-                                },
-                   "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/zenfik.exe",
-                                  "version":  "1.0.7",
-                                  "notes":  {
-                                                "en":  [
-                                                           "New default: the ring fills up as the day goes by",
-                                                           "Status shows the ring, date, time, Wi-Fi and battery",
-                                                           "Reminders fit their text",
-                                                           "Tighter lyrics spacing",
-                                                           "No jump when changing the notch size"
-                                                       ],
-                                                "pl":  [
-                                                           "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
-                                                           "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
-                                                           "Przypomnienia dopasowują się do tekstu",
-                                                           "Mniejsze odstępy w tekście piosenki",
-                                                           "Bez przeskoku przy zmianie rozmiaru notcha"
-                                                       ],
-                                                "es":  [
-                                                           "Nuevo por defecto: el anillo se llena a lo largo del día",
-                                                           "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
-                                                           "Los recordatorios se ajustan al texto",
-                                                           "Letras más compactas",
-                                                           "Sin saltos al cambiar el tamaño"
-                                                       ],
-                                                "de":  [
-                                                           "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
-                                                           "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
-                                                           "Erinnerungen passen sich dem Text an",
-                                                           "Engere Songtext-Abstände",
-                                                           "Kein Springen beim Ändern der Größe"
-                                                       ]
-                                            }
-                              }
+                                }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/Zenfik-Setup.exe",
-                                  "version":  "1.0.7",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.8-1.0.8/Zenfik-Setup.exe",
+                                  "version":  "1.0.8",
                                   "notes":  {
                                                 "en":  [
-                                                           "New default: the ring fills up as the day goes by",
-                                                           "Status shows the ring, date, time, Wi-Fi and battery",
-                                                           "Reminders fit their text",
-                                                           "Tighter lyrics spacing",
-                                                           "No jump when changing the notch size"
+
                                                        ],
                                                 "pl":  [
-                                                           "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
-                                                           "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
-                                                           "Przypomnienia dopasowują się do tekstu",
-                                                           "Mniejsze odstępy w tekście piosenki",
-                                                           "Bez przeskoku przy zmianie rozmiaru notcha"
+
                                                        ],
                                                 "es":  [
-                                                           "Nuevo por defecto: el anillo se llena a lo largo del día",
-                                                           "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
-                                                           "Los recordatorios se ajustan al texto",
-                                                           "Letras más compactas",
-                                                           "Sin saltos al cambiar el tamaño"
+
                                                        ],
                                                 "de":  [
-                                                           "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
-                                                           "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
-                                                           "Erinnerungen passen sich dem Text an",
-                                                           "Engere Songtext-Abstände",
-                                                           "Kein Springen beim Ändern der Größe"
+
                                                        ]
                                             }
-                              },
-                 "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/zenfik.exe",
-                                "version":  "1.0.7",
-                                "notes":  {
-                                              "en":  [
-                                                         "New default: the ring fills up as the day goes by",
-                                                         "Status shows the ring, date, time, Wi-Fi and battery",
-                                                         "Reminders fit their text",
-                                                         "Tighter lyrics spacing",
-                                                         "No jump when changing the notch size"
-                                                     ],
-                                              "pl":  [
-                                                         "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
-                                                         "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
-                                                         "Przypomnienia dopasowują się do tekstu",
-                                                         "Mniejsze odstępy w tekście piosenki",
-                                                         "Bez przeskoku przy zmianie rozmiaru notcha"
-                                                     ],
-                                              "es":  [
-                                                         "Nuevo por defecto: el anillo se llena a lo largo del día",
-                                                         "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
-                                                         "Los recordatorios se ajustan al texto",
-                                                         "Letras más compactas",
-                                                         "Sin saltos al cambiar el tamaño"
-                                                     ],
-                                              "de":  [
-                                                         "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
-                                                         "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
-                                                         "Erinnerungen passen sich dem Text an",
-                                                         "Engere Songtext-Abstände",
-                                                         "Kein Springen beim Ändern der Größe"
-                                                     ]
-                                          }
-                            }
+                              }
              }
 }
