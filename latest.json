@@ -1,48 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.6-1.3.6/Zenfik-Setup.exe",
-                                    "version":  "1.2.6",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.7-1.3.7/Zenfik-Setup.exe",
+                                    "version":  "1.2.7",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass redone in iOS style: a clear blur with a shiny edge, exactly in the notch shape",
-                                                             "No more black flashes or gaps at the edge, the glass follows the notch smoothly while it animates"
+                                                             "Liquid Glass rebuilt after liquid-glass-vue: clear glass, a diagonal light edge that turns with your mouse and a gentle stretch toward the cursor",
+                                                             "Bigger app icons in notifications"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass zrobione od nowa w stylu iOS: czyste rozmycie z błyszczącą krawędzią, dokładnie w kształcie notcha",
-                                                             "Koniec z miganiem na czarno i przerwą przy krawędzi, szkło płynnie podąża za animacją notcha"
+                                                             "Liquid Glass zrobione jak w liquid-glass-vue: czysta szyba, świetlna krawędź po przekątnej, która obraca się za myszką, i lekkie rozciąganie w stronę kursora",
+                                                             "Większe ikony aplikacji w powiadomieniach"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass rehecho al estilo iOS: un desenfoque limpio con borde brillante, justo con la forma del notch",
-                                                             "Sin destellos negros ni huecos en el borde, el cristal sigue al notch con suavidad"
+                                                             "Liquid Glass rehecho como liquid-glass-vue: cristal limpio, un borde de luz diagonal que gira con el ratón y un leve estiramiento hacia el cursor",
+                                                             "Iconos de apps más grandes en las notificaciones"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass im iOS-Stil neu gemacht: klare Unschärfe mit glänzender Kante, genau in Notch-Form",
-                                                             "Kein schwarzes Aufblitzen und keine Lücken mehr am Rand, das Glas folgt der Notch flüssig"
+                                                             "Liquid Glass nach liquid-glass-vue neu gebaut: klares Glas, eine diagonale Lichtkante, die sich mit der Maus dreht, und leichtes Dehnen zum Cursor",
+                                                             "Größere App-Symbole in Mitteilungen"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.6-1.3.6/Zenfik-Setup.exe",
-                                  "version":  "1.2.6",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.7-1.3.7/Zenfik-Setup.exe",
+                                  "version":  "1.2.7",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass redone in iOS style: a clear blur with a shiny edge, exactly in the notch shape",
-                                                           "No more black flashes or gaps at the edge, the glass follows the notch smoothly while it animates"
+                                                           "Liquid Glass rebuilt after liquid-glass-vue: clear glass, a diagonal light edge that turns with your mouse and a gentle stretch toward the cursor",
+                                                           "Bigger app icons in notifications"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass zrobione od nowa w stylu iOS: czyste rozmycie z błyszczącą krawędzią, dokładnie w kształcie notcha",
-                                                           "Koniec z miganiem na czarno i przerwą przy krawędzi, szkło płynnie podąża za animacją notcha"
+                                                           "Liquid Glass zrobione jak w liquid-glass-vue: czysta szyba, świetlna krawędź po przekątnej, która obraca się za myszką, i lekkie rozciąganie w stronę kursora",
+                                                           "Większe ikony aplikacji w powiadomieniach"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass rehecho al estilo iOS: un desenfoque limpio con borde brillante, justo con la forma del notch",
-                                                           "Sin destellos negros ni huecos en el borde, el cristal sigue al notch con suavidad"
+                                                           "Liquid Glass rehecho como liquid-glass-vue: cristal limpio, un borde de luz diagonal que gira con el ratón y un leve estiramiento hacia el cursor",
+                                                           "Iconos de apps más grandes en las notificaciones"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass im iOS-Stil neu gemacht: klare Unschärfe mit glänzender Kante, genau in Notch-Form",
-                                                           "Kein schwarzes Aufblitzen und keine Lücken mehr am Rand, das Glas folgt der Notch flüssig"
+                                                           "Liquid Glass nach liquid-glass-vue neu gebaut: klares Glas, eine diagonale Lichtkante, die sich mit der Maus dreht, und leichtes Dehnen zum Cursor",
+                                                           "Größere App-Symbole in Mitteilungen"
                                                        ]
                                             }
                               }
