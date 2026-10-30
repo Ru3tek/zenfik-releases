@@ -1,92 +1,108 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/Zenfik-Setup.exe",
-                                    "version":  "1.0.3",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/Zenfik-Setup.exe",
+                                    "version":  "1.0.4",
                                     "notes":  {
                                                   "en":  [
-                                                             "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
-                                                             "Cleaner update window with softer corners"
+                                                             "While charging, the notch keeps showing charging with the battery level",
+                                                             "Battery level next to the clock when the notch is open",
+                                                             "The status and clock notch fit their content, no more empty space"
                                                          ],
                                                   "pl":  [
-                                                             "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
-                                                             "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
+                                                             "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
+                                                             "Poziom baterii obok godziny po rozwinięciu notcha",
+                                                             "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
                                                          ],
                                                   "es":  [
-                                                             "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
-                                                             "Ventana de actualización más limpia"
+                                                             "Mientras carga, el notch muestra la carga y el nivel de batería",
+                                                             "Nivel de batería junto a la hora con el notch abierto",
+                                                             "El notch de estado y reloj se ajusta a su contenido"
                                                          ],
                                                   "de":  [
-                                                             "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
-                                                             "Aufgeräumteres Update-Fenster"
+                                                             "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
+                                                             "Akkustand neben der Uhrzeit bei geöffneter Notch",
+                                                             "Status- und Uhr-Notch passen sich dem Inhalt an"
                                                          ]
                                               }
                                 },
                    "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/zenfik.exe",
-                                  "version":  "1.0.3",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/zenfik.exe",
+                                  "version":  "1.0.4",
                                   "notes":  {
                                                 "en":  [
-                                                           "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
-                                                           "Cleaner update window with softer corners"
+                                                           "While charging, the notch keeps showing charging with the battery level",
+                                                           "Battery level next to the clock when the notch is open",
+                                                           "The status and clock notch fit their content, no more empty space"
                                                        ],
                                                 "pl":  [
-                                                           "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
-                                                           "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
+                                                           "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
+                                                           "Poziom baterii obok godziny po rozwinięciu notcha",
+                                                           "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
                                                        ],
                                                 "es":  [
-                                                           "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
-                                                           "Ventana de actualización más limpia"
+                                                           "Mientras carga, el notch muestra la carga y el nivel de batería",
+                                                           "Nivel de batería junto a la hora con el notch abierto",
+                                                           "El notch de estado y reloj se ajusta a su contenido"
                                                        ],
                                                 "de":  [
-                                                           "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
-                                                           "Aufgeräumteres Update-Fenster"
+                                                           "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
+                                                           "Akkustand neben der Uhrzeit bei geöffneter Notch",
+                                                           "Status- und Uhr-Notch passen sich dem Inhalt an"
                                                        ]
                                             }
                               }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/Zenfik-Setup.exe",
-                                  "version":  "1.0.3",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/Zenfik-Setup.exe",
+                                  "version":  "1.0.4",
                                   "notes":  {
                                                 "en":  [
-                                                           "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
-                                                           "Cleaner update window with softer corners"
+                                                           "While charging, the notch keeps showing charging with the battery level",
+                                                           "Battery level next to the clock when the notch is open",
+                                                           "The status and clock notch fit their content, no more empty space"
                                                        ],
                                                 "pl":  [
-                                                           "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
-                                                           "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
+                                                           "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
+                                                           "Poziom baterii obok godziny po rozwinięciu notcha",
+                                                           "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
                                                        ],
                                                 "es":  [
-                                                           "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
-                                                           "Ventana de actualización más limpia"
+                                                           "Mientras carga, el notch muestra la carga y el nivel de batería",
+                                                           "Nivel de batería junto a la hora con el notch abierto",
+                                                           "El notch de estado y reloj se ajusta a su contenido"
                                                        ],
                                                 "de":  [
-                                                           "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
-                                                           "Aufgeräumteres Update-Fenster"
+                                                           "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
+                                                           "Akkustand neben der Uhrzeit bei geöffneter Notch",
+                                                           "Status- und Uhr-Notch passen sich dem Inhalt an"
                                                        ]
                                             }
                               },
                  "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/zenfik.exe",
-                                "version":  "1.0.3",
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/zenfik.exe",
+                                "version":  "1.0.4",
                                 "notes":  {
                                               "en":  [
-                                                         "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
-                                                         "Cleaner update window with softer corners"
+                                                         "While charging, the notch keeps showing charging with the battery level",
+                                                         "Battery level next to the clock when the notch is open",
+                                                         "The status and clock notch fit their content, no more empty space"
                                                      ],
                                               "pl":  [
-                                                         "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
-                                                         "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
+                                                         "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
+                                                         "Poziom baterii obok godziny po rozwinięciu notcha",
+                                                         "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
                                                      ],
                                               "es":  [
-                                                         "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
-                                                         "Ventana de actualización más limpia"
+                                                         "Mientras carga, el notch muestra la carga y el nivel de batería",
+                                                         "Nivel de batería junto a la hora con el notch abierto",
+                                                         "El notch de estado y reloj se ajusta a su contenido"
                                                      ],
                                               "de":  [
-                                                         "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
-                                                         "Aufgeräumteres Update-Fenster"
+                                                         "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
+                                                         "Akkustand neben der Uhrzeit bei geöffneter Notch",
+                                                         "Status- und Uhr-Notch passen sich dem Inhalt an"
                                                      ]
                                           }
                             }
