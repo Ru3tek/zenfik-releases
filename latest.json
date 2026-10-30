@@ -1,40 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.3-1.0.10/Zenfik-Setup.exe",
-                                    "version":  "1.1.3",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.4-1.0.11/Zenfik-Setup.exe",
+                                    "version":  "1.1.4",
                                     "notes":  {
                                                   "en":  [
-                                                             "Fixed Zenfik freezing on the shelf after dragging a file or link out of it"
+                                                             "Fixed Zenfik freezing on the shelf after dragging a file or link out of it",
+                                                             "The notch now fits short song lines and titles tightly"
                                                          ],
                                                   "pl":  [
-                                                             "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku"
+                                                             "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku",
+                                                             "Notch ładnie dopasowuje się do krótkich linijek tekstu i tytułów"
                                                          ],
                                                   "es":  [
-                                                             "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace"
+                                                             "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace",
+                                                             "El notch se ajusta a las líneas y títulos cortos"
                                                          ],
                                                   "de":  [
-                                                             "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen"
+                                                             "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen",
+                                                             "Die Notch passt sich kurzen Songzeilen und Titeln eng an"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.3-1.0.10/Zenfik-Setup.exe",
-                                  "version":  "1.1.3",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.4-1.0.11/Zenfik-Setup.exe",
+                                  "version":  "1.1.4",
                                   "notes":  {
                                                 "en":  [
-                                                           "Fixed Zenfik freezing on the shelf after dragging a file or link out of it"
+                                                           "Fixed Zenfik freezing on the shelf after dragging a file or link out of it",
+                                                           "The notch now fits short song lines and titles tightly"
                                                        ],
                                                 "pl":  [
-                                                           "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku"
+                                                           "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku",
+                                                           "Notch ładnie dopasowuje się do krótkich linijek tekstu i tytułów"
                                                        ],
                                                 "es":  [
-                                                           "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace"
+                                                           "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace",
+                                                           "El notch se ajusta a las líneas y títulos cortos"
                                                        ],
                                                 "de":  [
-                                                           "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen"
+                                                           "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen",
+                                                           "Die Notch passt sich kurzen Songzeilen und Titeln eng an"
                                                        ]
                                             }
                               }
