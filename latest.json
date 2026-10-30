@@ -1,64 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.0-1.0.9/Zenfik-Setup.exe",
-                                    "version":  "1.1.0",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.1-1.0.9/Zenfik-Setup.exe",
+                                    "version":  "1.1.1",
                                     "notes":  {
                                                   "en":  [
-                                                             "PC Tools (beta): cleanup, optimization and live statistics. Turn it on in Launcher → Beta features",
-                                                             "Disk analyzer with a colorful map of what takes up space",
-                                                             "New About page with versions, disk space and memory use",
-                                                             "Zenfik now reacts: thinks in dialogs, sweats while working, sleeps when off"
+                                                             "Thinking Zenfik now shows a question mark"
                                                          ],
                                                   "pl":  [
-                                                             "Narzędzia PC (beta): czyszczenie, optymalizacja i statystyki na żywo. Włączysz je w Launcher → Funkcje beta",
-                                                             "Analizator dysku z kolorową mapą tego, co zajmuje miejsce",
-                                                             "Nowa strona O programie: wersje, miejsce na dysku i zużycie pamięci",
-                                                             "Zenfik reaguje: myśli w okienkach, poci się przy pracy, śpi gdy jest wyłączony"
+                                                             "Myślący Zenfik pokazuje teraz znak zapytania"
                                                          ],
                                                   "es":  [
-                                                             "Herramientas (beta): limpieza, optimización y estadísticas en vivo. Actívalas en Launcher → Funciones beta",
-                                                             "Analizador de disco con un mapa de colores de lo que ocupa espacio",
-                                                             "Nueva página Acerca de con versiones, espacio y memoria",
-                                                             "Zenfik reacciona: piensa en los diálogos, suda al trabajar y duerme apagado"
+                                                             "Zenfik pensativo ahora muestra un signo de interrogación"
                                                          ],
                                                   "de":  [
-                                                             "PC-Tools (Beta): Bereinigung, Optimierung und Live-Statistiken. Aktivierbar unter Launcher → Beta-Funktionen",
-                                                             "Laufwerksanalyse mit farbiger Karte, was Platz belegt",
-                                                             "Neue Über-Seite mit Versionen, Speicherplatz und RAM-Verbrauch",
-                                                             "Zenfik reagiert: denkt in Dialogen, schwitzt bei der Arbeit, schläft wenn aus"
+                                                             "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.0-1.0.9/Zenfik-Setup.exe",
-                                  "version":  "1.1.0",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.1-1.0.9/Zenfik-Setup.exe",
+                                  "version":  "1.1.1",
                                   "notes":  {
                                                 "en":  [
-                                                           "PC Tools (beta): cleanup, optimization and live statistics. Turn it on in Launcher → Beta features",
-                                                           "Disk analyzer with a colorful map of what takes up space",
-                                                           "New About page with versions, disk space and memory use",
-                                                           "Zenfik now reacts: thinks in dialogs, sweats while working, sleeps when off"
+                                                           "Thinking Zenfik now shows a question mark"
                                                        ],
                                                 "pl":  [
-                                                           "Narzędzia PC (beta): czyszczenie, optymalizacja i statystyki na żywo. Włączysz je w Launcher → Funkcje beta",
-                                                           "Analizator dysku z kolorową mapą tego, co zajmuje miejsce",
-                                                           "Nowa strona O programie: wersje, miejsce na dysku i zużycie pamięci",
-                                                           "Zenfik reaguje: myśli w okienkach, poci się przy pracy, śpi gdy jest wyłączony"
+                                                           "Myślący Zenfik pokazuje teraz znak zapytania"
                                                        ],
                                                 "es":  [
-                                                           "Herramientas (beta): limpieza, optimización y estadísticas en vivo. Actívalas en Launcher → Funciones beta",
-                                                           "Analizador de disco con un mapa de colores de lo que ocupa espacio",
-                                                           "Nueva página Acerca de con versiones, espacio y memoria",
-                                                           "Zenfik reacciona: piensa en los diálogos, suda al trabajar y duerme apagado"
+                                                           "Zenfik pensativo ahora muestra un signo de interrogación"
                                                        ],
                                                 "de":  [
-                                                           "PC-Tools (Beta): Bereinigung, Optimierung und Live-Statistiken. Aktivierbar unter Launcher → Beta-Funktionen",
-                                                           "Laufwerksanalyse mit farbiger Karte, was Platz belegt",
-                                                           "Neue Über-Seite mit Versionen, Speicherplatz und RAM-Verbrauch",
-                                                           "Zenfik reagiert: denkt in Dialogen, schwitzt bei der Arbeit, schläft wenn aus"
+                                                           "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen"
                                                        ]
                                             }
                               }
