@@ -1,40 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.1-1.0.9/Zenfik-Setup.exe",
-                                    "version":  "1.1.1",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.2-1.0.9/Zenfik-Setup.exe",
+                                    "version":  "1.1.2",
                                     "notes":  {
                                                   "en":  [
-                                                             "Thinking Zenfik now shows a question mark"
+                                                             "Thinking Zenfik now shows a question mark",
+                                                             "Zenfik holds your drive in the Disks tab"
                                                          ],
                                                   "pl":  [
-                                                             "Myślący Zenfik pokazuje teraz znak zapytania"
+                                                             "Myślący Zenfik pokazuje teraz znak zapytania",
+                                                             "Zenfik trzyma dysk w łapkach w zakładce Dyski"
                                                          ],
                                                   "es":  [
-                                                             "Zenfik pensativo ahora muestra un signo de interrogación"
+                                                             "Zenfik pensativo ahora muestra un signo de interrogación",
+                                                             "Zenfik sostiene tu disco en la pestaña Discos"
                                                          ],
                                                   "de":  [
-                                                             "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen"
+                                                             "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen",
+                                                             "Zenfik hält dein Laufwerk im Tab Laufwerke"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.1-1.0.9/Zenfik-Setup.exe",
-                                  "version":  "1.1.1",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.2-1.0.9/Zenfik-Setup.exe",
+                                  "version":  "1.1.2",
                                   "notes":  {
                                                 "en":  [
-                                                           "Thinking Zenfik now shows a question mark"
+                                                           "Thinking Zenfik now shows a question mark",
+                                                           "Zenfik holds your drive in the Disks tab"
                                                        ],
                                                 "pl":  [
-                                                           "Myślący Zenfik pokazuje teraz znak zapytania"
+                                                           "Myślący Zenfik pokazuje teraz znak zapytania",
+                                                           "Zenfik trzyma dysk w łapkach w zakładce Dyski"
                                                        ],
                                                 "es":  [
-                                                           "Zenfik pensativo ahora muestra un signo de interrogación"
+                                                           "Zenfik pensativo ahora muestra un signo de interrogación",
+                                                           "Zenfik sostiene tu disco en la pestaña Discos"
                                                        ],
                                                 "de":  [
-                                                           "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen"
+                                                           "Der nachdenkliche Zenfik zeigt jetzt ein Fragezeichen",
+                                                           "Zenfik hält dein Laufwerk im Tab Laufwerke"
                                                        ]
                                             }
                               }
