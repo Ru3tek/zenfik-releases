@@ -1,48 +1,56 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.8-1.4.0/Zenfik-Setup.exe",
-                                    "version":  "1.2.8",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.9-1.4.1/Zenfik-Setup.exe",
+                                    "version":  "1.2.9",
                                     "notes":  {
                                                   "en":  [
-                                                             "New Mixer page in Zenfik, like SteelSeries Sonar: every app that plays sound gets its own slider with its icon",
-                                                             "Drag or scroll to change the volume of Discord, games, YouTube or Spotify, click the speaker to mute it, plus a master slider for the whole system"
+                                                             "Liquid Glass ported from liquid-glass-vue: Zenfik now draws its own glass, with the same blur, saturation, refraction with RGB split and the light on the edge that turns with your mouse",
+                                                             "No more system blur, so no grey boxes or gaps",
+                                                             "Note: with Liquid Glass on, Zenfik is hidden from screenshots, recordings and streams"
                                                          ],
                                                   "pl":  [
-                                                             "Nowa strona Mikser w Zenfiku, jak w SteelSeries Sonar: każda aplikacja, która gra dźwięk, ma własny suwak z ikoną",
-                                                             "Przeciągnij albo przewiń, żeby zmienić głośność Discorda, gier, YouTube czy Spotify, kliknij głośnik, żeby wyciszyć, do tego suwak głośności całego systemu"
+                                                             "Liquid Glass przeniesione z liquid-glass-vue: Zenfik rysuje własne szkło, z tym samym rozmyciem, nasyceniem, załamaniem światła z rozszczepieniem RGB i światłem na krawędzi, które obraca się za myszką",
+                                                             "Bez systemowego rozmycia, więc bez szarych prostokątów i przerw",
+                                                             "Uwaga: przy włączonym Liquid Glass Zenfika nie widać na zrzutach ekranu, nagraniach i streamach"
                                                          ],
                                                   "es":  [
-                                                             "Nueva página Mezclador en Zenfik, como SteelSeries Sonar: cada app que suena tiene su propio control con su icono",
-                                                             "Arrastra o usa la rueda para cambiar el volumen de Discord, juegos, YouTube o Spotify, pulsa el altavoz para silenciar, y un control general del sistema"
+                                                             "Liquid Glass portado de liquid-glass-vue: Zenfik dibuja su propio cristal, con el mismo desenfoque, saturación, refracción con separación RGB y luz en el borde que gira con el ratón",
+                                                             "Sin el desenfoque del sistema, así que sin recuadros grises ni huecos",
+                                                             "Nota: con Liquid Glass activado, Zenfik no aparece en capturas, grabaciones ni streams"
                                                          ],
                                                   "de":  [
-                                                             "Neue Mixer-Seite in Zenfik wie bei SteelSeries Sonar: jede App, die Ton abspielt, bekommt einen eigenen Regler mit Symbol",
-                                                             "Ziehen oder scrollen für die Lautstärke von Discord, Spielen, YouTube oder Spotify, Lautsprecher klicken zum Stummschalten, dazu ein Gesamtregler"
+                                                             "Liquid Glass aus liquid-glass-vue übernommen: Zenfik zeichnet sein eigenes Glas mit gleicher Unschärfe, Sättigung, Lichtbrechung mit RGB-Versatz und Licht an der Kante, das der Maus folgt",
+                                                             "Keine System-Unschärfe mehr, also keine grauen Felder oder Lücken",
+                                                             "Hinweis: Mit Liquid Glass ist Zenfik auf Screenshots, Aufnahmen und Streams unsichtbar"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.8-1.4.0/Zenfik-Setup.exe",
-                                  "version":  "1.2.8",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.9-1.4.1/Zenfik-Setup.exe",
+                                  "version":  "1.2.9",
                                   "notes":  {
                                                 "en":  [
-                                                           "New Mixer page in Zenfik, like SteelSeries Sonar: every app that plays sound gets its own slider with its icon",
-                                                           "Drag or scroll to change the volume of Discord, games, YouTube or Spotify, click the speaker to mute it, plus a master slider for the whole system"
+                                                           "Liquid Glass ported from liquid-glass-vue: Zenfik now draws its own glass, with the same blur, saturation, refraction with RGB split and the light on the edge that turns with your mouse",
+                                                           "No more system blur, so no grey boxes or gaps",
+                                                           "Note: with Liquid Glass on, Zenfik is hidden from screenshots, recordings and streams"
                                                        ],
                                                 "pl":  [
-                                                           "Nowa strona Mikser w Zenfiku, jak w SteelSeries Sonar: każda aplikacja, która gra dźwięk, ma własny suwak z ikoną",
-                                                           "Przeciągnij albo przewiń, żeby zmienić głośność Discorda, gier, YouTube czy Spotify, kliknij głośnik, żeby wyciszyć, do tego suwak głośności całego systemu"
+                                                           "Liquid Glass przeniesione z liquid-glass-vue: Zenfik rysuje własne szkło, z tym samym rozmyciem, nasyceniem, załamaniem światła z rozszczepieniem RGB i światłem na krawędzi, które obraca się za myszką",
+                                                           "Bez systemowego rozmycia, więc bez szarych prostokątów i przerw",
+                                                           "Uwaga: przy włączonym Liquid Glass Zenfika nie widać na zrzutach ekranu, nagraniach i streamach"
                                                        ],
                                                 "es":  [
-                                                           "Nueva página Mezclador en Zenfik, como SteelSeries Sonar: cada app que suena tiene su propio control con su icono",
-                                                           "Arrastra o usa la rueda para cambiar el volumen de Discord, juegos, YouTube o Spotify, pulsa el altavoz para silenciar, y un control general del sistema"
+                                                           "Liquid Glass portado de liquid-glass-vue: Zenfik dibuja su propio cristal, con el mismo desenfoque, saturación, refracción con separación RGB y luz en el borde que gira con el ratón",
+                                                           "Sin el desenfoque del sistema, así que sin recuadros grises ni huecos",
+                                                           "Nota: con Liquid Glass activado, Zenfik no aparece en capturas, grabaciones ni streams"
                                                        ],
                                                 "de":  [
-                                                           "Neue Mixer-Seite in Zenfik wie bei SteelSeries Sonar: jede App, die Ton abspielt, bekommt einen eigenen Regler mit Symbol",
-                                                           "Ziehen oder scrollen für die Lautstärke von Discord, Spielen, YouTube oder Spotify, Lautsprecher klicken zum Stummschalten, dazu ein Gesamtregler"
+                                                           "Liquid Glass aus liquid-glass-vue übernommen: Zenfik zeichnet sein eigenes Glas mit gleicher Unschärfe, Sättigung, Lichtbrechung mit RGB-Versatz und Licht an der Kante, das der Maus folgt",
+                                                           "Keine System-Unschärfe mehr, also keine grauen Felder oder Lücken",
+                                                           "Hinweis: Mit Liquid Glass ist Zenfik auf Screenshots, Aufnahmen und Streams unsichtbar"
                                                        ]
                                             }
                               }
