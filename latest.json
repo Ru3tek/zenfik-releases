@@ -1,76 +1,92 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/Zenfik-Setup.exe",
-                                    "version":  "1.0.5",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/Zenfik-Setup.exe",
+                                    "version":  "1.0.6",
                                     "notes":  {
                                                   "en":  [
-                                                             "Notifications in the launcher always slide up smoothly from the bottom center"
+                                                             "To-do reminders fire on the second and stay in the notch until you click them",
+                                                             "Popups like charging and Caps Lock fit their text"
                                                          ],
                                                   "pl":  [
-                                                             "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
+                                                             "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
+                                                             "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
                                                          ],
                                                   "es":  [
-                                                             "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
+                                                             "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
+                                                             "Los avisos como carga o Bloq Mayús se ajustan al texto"
                                                          ],
                                                   "de":  [
-                                                             "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
+                                                             "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
+                                                             "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
                                                          ]
                                               }
                                 },
                    "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/zenfik.exe",
-                                  "version":  "1.0.5",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/zenfik.exe",
+                                  "version":  "1.0.6",
                                   "notes":  {
                                                 "en":  [
-                                                           "Notifications in the launcher always slide up smoothly from the bottom center"
+                                                           "To-do reminders fire on the second and stay in the notch until you click them",
+                                                           "Popups like charging and Caps Lock fit their text"
                                                        ],
                                                 "pl":  [
-                                                           "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
+                                                           "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
+                                                           "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
                                                        ],
                                                 "es":  [
-                                                           "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
+                                                           "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
+                                                           "Los avisos como carga o Bloq Mayús se ajustan al texto"
                                                        ],
                                                 "de":  [
-                                                           "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
+                                                           "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
+                                                           "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
                                                        ]
                                             }
                               }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/Zenfik-Setup.exe",
-                                  "version":  "1.0.5",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/Zenfik-Setup.exe",
+                                  "version":  "1.0.6",
                                   "notes":  {
                                                 "en":  [
-                                                           "Notifications in the launcher always slide up smoothly from the bottom center"
+                                                           "To-do reminders fire on the second and stay in the notch until you click them",
+                                                           "Popups like charging and Caps Lock fit their text"
                                                        ],
                                                 "pl":  [
-                                                           "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
+                                                           "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
+                                                           "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
                                                        ],
                                                 "es":  [
-                                                           "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
+                                                           "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
+                                                           "Los avisos como carga o Bloq Mayús se ajustan al texto"
                                                        ],
                                                 "de":  [
-                                                           "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
+                                                           "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
+                                                           "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
                                                        ]
                                             }
                               },
                  "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/zenfik.exe",
-                                "version":  "1.0.5",
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/zenfik.exe",
+                                "version":  "1.0.6",
                                 "notes":  {
                                               "en":  [
-                                                         "Notifications in the launcher always slide up smoothly from the bottom center"
+                                                         "To-do reminders fire on the second and stay in the notch until you click them",
+                                                         "Popups like charging and Caps Lock fit their text"
                                                      ],
                                               "pl":  [
-                                                         "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
+                                                         "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
+                                                         "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
                                                      ],
                                               "es":  [
-                                                         "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
+                                                         "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
+                                                         "Los avisos como carga o Bloq Mayús se ajustan al texto"
                                                      ],
                                               "de":  [
-                                                         "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
+                                                         "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
+                                                         "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
                                                      ]
                                           }
                             }
