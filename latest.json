@@ -1,56 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.6-1.1.1/Zenfik-Setup.exe",
-                                    "version":  "1.1.6",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.7-1.1.2/Zenfik-Setup.exe",
+                                    "version":  "1.1.7",
                                     "notes":  {
                                                   "en":  [
-                                                             "Apps and shortcuts on the shelf (like Discord) now open reliably",
-                                                             "The shelf hides .lnk, .url and .exe extensions and labels them as App",
-                                                             "Includes the new Clock page: focus, timer with scroll wheels, stopwatch and clock"
+                                                             "Pick your own alert sounds in Zenfik → Reminders: 11 sounds, separately for reminders, timer and water, with a play button",
+                                                             "Rings for the day, water and timers fill up smoothly"
                                                          ],
                                                   "pl":  [
-                                                             "Aplikacje i skróty na półce (np. Discord) otwierają się teraz bez problemu",
-                                                             "Półka nie pokazuje rozszerzeń .lnk, .url i .exe, tylko podpis Aplikacja",
-                                                             "Zawiera nową stronę Zegar: skupienie, minutnik z kółkami, stoper i zegar"
+                                                             "Własne dźwięki powiadomień w Zenfik → Przypomnienia: 11 dźwięków, osobno dla zadań, minutnika i wody, z odsłuchem",
+                                                             "Kółka dnia, wody i timerów płynnie się napełniają"
                                                          ],
                                                   "es":  [
-                                                             "Las apps y accesos directos del estante (como Discord) ahora se abren bien",
-                                                             "El estante oculta las extensiones .lnk, .url y .exe y las marca como Aplicación",
-                                                             "Incluye la nueva página Reloj: enfoque, temporizador con ruedas, cronómetro y reloj"
+                                                             "Elige tus sonidos en Zenfik → Recordatorios: 11 sonidos, por separado para recordatorios, temporizador y agua, con botón para escuchar",
+                                                             "Los anillos del día, del agua y de los temporizadores se llenan con suavidad"
                                                          ],
                                                   "de":  [
-                                                             "Apps und Verknüpfungen im Regal (z. B. Discord) öffnen jetzt zuverlässig",
-                                                             "Das Regal blendet .lnk-, .url- und .exe-Endungen aus und zeigt App an",
-                                                             "Enthält die neue Uhr-Seite: Fokus, Timer mit Drehrädern, Stoppuhr und Uhr"
+                                                             "Eigene Hinweistöne unter Zenfik → Erinnerungen: 11 Töne, getrennt für Erinnerungen, Timer und Wasser, mit Vorhören",
+                                                             "Die Ringe für Tag, Wasser und Timer füllen sich flüssig"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.6-1.1.1/Zenfik-Setup.exe",
-                                  "version":  "1.1.6",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.7-1.1.2/Zenfik-Setup.exe",
+                                  "version":  "1.1.7",
                                   "notes":  {
                                                 "en":  [
-                                                           "Apps and shortcuts on the shelf (like Discord) now open reliably",
-                                                           "The shelf hides .lnk, .url and .exe extensions and labels them as App",
-                                                           "Includes the new Clock page: focus, timer with scroll wheels, stopwatch and clock"
+                                                           "Pick your own alert sounds in Zenfik → Reminders: 11 sounds, separately for reminders, timer and water, with a play button",
+                                                           "Rings for the day, water and timers fill up smoothly"
                                                        ],
                                                 "pl":  [
-                                                           "Aplikacje i skróty na półce (np. Discord) otwierają się teraz bez problemu",
-                                                           "Półka nie pokazuje rozszerzeń .lnk, .url i .exe, tylko podpis Aplikacja",
-                                                           "Zawiera nową stronę Zegar: skupienie, minutnik z kółkami, stoper i zegar"
+                                                           "Własne dźwięki powiadomień w Zenfik → Przypomnienia: 11 dźwięków, osobno dla zadań, minutnika i wody, z odsłuchem",
+                                                           "Kółka dnia, wody i timerów płynnie się napełniają"
                                                        ],
                                                 "es":  [
-                                                           "Las apps y accesos directos del estante (como Discord) ahora se abren bien",
-                                                           "El estante oculta las extensiones .lnk, .url y .exe y las marca como Aplicación",
-                                                           "Incluye la nueva página Reloj: enfoque, temporizador con ruedas, cronómetro y reloj"
+                                                           "Elige tus sonidos en Zenfik → Recordatorios: 11 sonidos, por separado para recordatorios, temporizador y agua, con botón para escuchar",
+                                                           "Los anillos del día, del agua y de los temporizadores se llenan con suavidad"
                                                        ],
                                                 "de":  [
-                                                           "Apps und Verknüpfungen im Regal (z. B. Discord) öffnen jetzt zuverlässig",
-                                                           "Das Regal blendet .lnk-, .url- und .exe-Endungen aus und zeigt App an",
-                                                           "Enthält die neue Uhr-Seite: Fokus, Timer mit Drehrädern, Stoppuhr und Uhr"
+                                                           "Eigene Hinweistöne unter Zenfik → Erinnerungen: 11 Töne, getrennt für Erinnerungen, Timer und Wasser, mit Vorhören",
+                                                           "Die Ringe für Tag, Wasser und Timer füllen sich flüssig"
                                                        ]
                                             }
                               }
