@@ -1,48 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.4-1.0.11/Zenfik-Setup.exe",
-                                    "version":  "1.1.4",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.5-1.1.0/Zenfik-Setup.exe",
+                                    "version":  "1.1.5",
                                     "notes":  {
                                                   "en":  [
-                                                             "Fixed Zenfik freezing on the shelf after dragging a file or link out of it",
-                                                             "The notch now fits short song lines and titles tightly"
+                                                             "The Focus page is now Clock with 4 modes: Focus, Timer, Stopwatch and Clock",
+                                                             "Timer: set hours, minutes and seconds with iPhone-style scroll wheels, or pick 1/5/15/30 min",
+                                                             "Stopwatch with laps and an analog clock with the day\u0027s progress",
+                                                             "A running timer or stopwatch shows in the small notch"
                                                          ],
                                                   "pl":  [
-                                                             "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku",
-                                                             "Notch ładnie dopasowuje się do krótkich linijek tekstu i tytułów"
+                                                             "Strona Skupienie to teraz Zegar z 4 trybami: Skupienie, Minutnik, Stoper i Zegar",
+                                                             "Minutnik: ustaw godziny, minuty i sekundy kółkami jak na iPhonie albo wybierz 1/5/15/30 min",
+                                                             "Stoper z okrążeniami i zegar analogowy z postępem dnia",
+                                                             "Działający minutnik lub stoper widać w małym notchu"
                                                          ],
                                                   "es":  [
-                                                             "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace",
-                                                             "El notch se ajusta a las líneas y títulos cortos"
+                                                             "La página Enfoque ahora es Reloj con 4 modos: Enfoque, Temporizador, Cronómetro y Reloj",
+                                                             "Temporizador: elige horas, minutos y segundos con ruedas como en el iPhone o usa 1/5/15/30 min",
+                                                             "Cronómetro con vueltas y reloj analógico con el progreso del día",
+                                                             "El temporizador o cronómetro activo se ve en el notch pequeño"
                                                          ],
                                                   "de":  [
-                                                             "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen",
-                                                             "Die Notch passt sich kurzen Songzeilen und Titeln eng an"
+                                                             "Die Fokus-Seite heißt jetzt Uhr und hat 4 Modi: Fokus, Timer, Stoppuhr und Uhr",
+                                                             "Timer: Stunden, Minuten und Sekunden mit Drehrädern wie am iPhone einstellen oder 1/5/15/30 Min. wählen",
+                                                             "Stoppuhr mit Runden und Analoguhr mit Tagesfortschritt",
+                                                             "Ein laufender Timer oder die Stoppuhr erscheint in der kleinen Notch"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.4-1.0.11/Zenfik-Setup.exe",
-                                  "version":  "1.1.4",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.5-1.1.0/Zenfik-Setup.exe",
+                                  "version":  "1.1.5",
                                   "notes":  {
                                                 "en":  [
-                                                           "Fixed Zenfik freezing on the shelf after dragging a file or link out of it",
-                                                           "The notch now fits short song lines and titles tightly"
+                                                           "The Focus page is now Clock with 4 modes: Focus, Timer, Stopwatch and Clock",
+                                                           "Timer: set hours, minutes and seconds with iPhone-style scroll wheels, or pick 1/5/15/30 min",
+                                                           "Stopwatch with laps and an analog clock with the day\u0027s progress",
+                                                           "A running timer or stopwatch shows in the small notch"
                                                        ],
                                                 "pl":  [
-                                                           "Naprawiono zawieszanie się Zenfika na półce po przeciągnięciu z niej pliku lub linku",
-                                                           "Notch ładnie dopasowuje się do krótkich linijek tekstu i tytułów"
+                                                           "Strona Skupienie to teraz Zegar z 4 trybami: Skupienie, Minutnik, Stoper i Zegar",
+                                                           "Minutnik: ustaw godziny, minuty i sekundy kółkami jak na iPhonie albo wybierz 1/5/15/30 min",
+                                                           "Stoper z okrążeniami i zegar analogowy z postępem dnia",
+                                                           "Działający minutnik lub stoper widać w małym notchu"
                                                        ],
                                                 "es":  [
-                                                           "Arreglado el bloqueo de Zenfik en la estantería tras arrastrar un archivo o enlace",
-                                                           "El notch se ajusta a las líneas y títulos cortos"
+                                                           "La página Enfoque ahora es Reloj con 4 modos: Enfoque, Temporizador, Cronómetro y Reloj",
+                                                           "Temporizador: elige horas, minutos y segundos con ruedas como en el iPhone o usa 1/5/15/30 min",
+                                                           "Cronómetro con vueltas y reloj analógico con el progreso del día",
+                                                           "El temporizador o cronómetro activo se ve en el notch pequeño"
                                                        ],
                                                 "de":  [
-                                                           "Behoben: Zenfik blieb nach dem Herausziehen einer Datei oder eines Links im Regal hängen",
-                                                           "Die Notch passt sich kurzen Songzeilen und Titeln eng an"
+                                                           "Die Fokus-Seite heißt jetzt Uhr und hat 4 Modi: Fokus, Timer, Stoppuhr und Uhr",
+                                                           "Timer: Stunden, Minuten und Sekunden mit Drehrädern wie am iPhone einstellen oder 1/5/15/30 Min. wählen",
+                                                           "Stoppuhr mit Runden und Analoguhr mit Tagesfortschritt",
+                                                           "Ein laufender Timer oder die Stoppuhr erscheint in der kleinen Notch"
                                                        ]
                                             }
                               }
