@@ -1,92 +1,140 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/Zenfik-Setup.exe",
-                                    "version":  "1.0.6",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/Zenfik-Setup.exe",
+                                    "version":  "1.0.7",
                                     "notes":  {
                                                   "en":  [
-                                                             "To-do reminders fire on the second and stay in the notch until you click them",
-                                                             "Popups like charging and Caps Lock fit their text"
+                                                             "New default: the ring fills up as the day goes by",
+                                                             "Status shows the ring, date, time, Wi-Fi and battery",
+                                                             "Reminders fit their text",
+                                                             "Tighter lyrics spacing",
+                                                             "No jump when changing the notch size"
                                                          ],
                                                   "pl":  [
-                                                             "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
-                                                             "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
+                                                             "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
+                                                             "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
+                                                             "Przypomnienia dopasowują się do tekstu",
+                                                             "Mniejsze odstępy w tekście piosenki",
+                                                             "Bez przeskoku przy zmianie rozmiaru notcha"
                                                          ],
                                                   "es":  [
-                                                             "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
-                                                             "Los avisos como carga o Bloq Mayús se ajustan al texto"
+                                                             "Nuevo por defecto: el anillo se llena a lo largo del día",
+                                                             "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
+                                                             "Los recordatorios se ajustan al texto",
+                                                             "Letras más compactas",
+                                                             "Sin saltos al cambiar el tamaño"
                                                          ],
                                                   "de":  [
-                                                             "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
-                                                             "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
+                                                             "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
+                                                             "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
+                                                             "Erinnerungen passen sich dem Text an",
+                                                             "Engere Songtext-Abstände",
+                                                             "Kein Springen beim Ändern der Größe"
                                                          ]
                                               }
                                 },
                    "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/zenfik.exe",
-                                  "version":  "1.0.6",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/zenfik.exe",
+                                  "version":  "1.0.7",
                                   "notes":  {
                                                 "en":  [
-                                                           "To-do reminders fire on the second and stay in the notch until you click them",
-                                                           "Popups like charging and Caps Lock fit their text"
+                                                           "New default: the ring fills up as the day goes by",
+                                                           "Status shows the ring, date, time, Wi-Fi and battery",
+                                                           "Reminders fit their text",
+                                                           "Tighter lyrics spacing",
+                                                           "No jump when changing the notch size"
                                                        ],
                                                 "pl":  [
-                                                           "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
-                                                           "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
+                                                           "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
+                                                           "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
+                                                           "Przypomnienia dopasowują się do tekstu",
+                                                           "Mniejsze odstępy w tekście piosenki",
+                                                           "Bez przeskoku przy zmianie rozmiaru notcha"
                                                        ],
                                                 "es":  [
-                                                           "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
-                                                           "Los avisos como carga o Bloq Mayús se ajustan al texto"
+                                                           "Nuevo por defecto: el anillo se llena a lo largo del día",
+                                                           "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
+                                                           "Los recordatorios se ajustan al texto",
+                                                           "Letras más compactas",
+                                                           "Sin saltos al cambiar el tamaño"
                                                        ],
                                                 "de":  [
-                                                           "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
-                                                           "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
+                                                           "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
+                                                           "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
+                                                           "Erinnerungen passen sich dem Text an",
+                                                           "Engere Songtext-Abstände",
+                                                           "Kein Springen beim Ändern der Größe"
                                                        ]
                                             }
                               }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/Zenfik-Setup.exe",
-                                  "version":  "1.0.6",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/Zenfik-Setup.exe",
+                                  "version":  "1.0.7",
                                   "notes":  {
                                                 "en":  [
-                                                           "To-do reminders fire on the second and stay in the notch until you click them",
-                                                           "Popups like charging and Caps Lock fit their text"
+                                                           "New default: the ring fills up as the day goes by",
+                                                           "Status shows the ring, date, time, Wi-Fi and battery",
+                                                           "Reminders fit their text",
+                                                           "Tighter lyrics spacing",
+                                                           "No jump when changing the notch size"
                                                        ],
                                                 "pl":  [
-                                                           "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
-                                                           "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
+                                                           "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
+                                                           "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
+                                                           "Przypomnienia dopasowują się do tekstu",
+                                                           "Mniejsze odstępy w tekście piosenki",
+                                                           "Bez przeskoku przy zmianie rozmiaru notcha"
                                                        ],
                                                 "es":  [
-                                                           "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
-                                                           "Los avisos como carga o Bloq Mayús se ajustan al texto"
+                                                           "Nuevo por defecto: el anillo se llena a lo largo del día",
+                                                           "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
+                                                           "Los recordatorios se ajustan al texto",
+                                                           "Letras más compactas",
+                                                           "Sin saltos al cambiar el tamaño"
                                                        ],
                                                 "de":  [
-                                                           "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
-                                                           "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
+                                                           "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
+                                                           "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
+                                                           "Erinnerungen passen sich dem Text an",
+                                                           "Engere Songtext-Abstände",
+                                                           "Kein Springen beim Ändern der Größe"
                                                        ]
                                             }
                               },
                  "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.6-1.0.6/zenfik.exe",
-                                "version":  "1.0.6",
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.7-1.0.7/zenfik.exe",
+                                "version":  "1.0.7",
                                 "notes":  {
                                               "en":  [
-                                                         "To-do reminders fire on the second and stay in the notch until you click them",
-                                                         "Popups like charging and Caps Lock fit their text"
+                                                         "New default: the ring fills up as the day goes by",
+                                                         "Status shows the ring, date, time, Wi-Fi and battery",
+                                                         "Reminders fit their text",
+                                                         "Tighter lyrics spacing",
+                                                         "No jump when changing the notch size"
                                                      ],
                                               "pl":  [
-                                                         "Przypomnienia o zadaniach odpalają się co do sekundy i zostają w notchu, aż je klikniesz",
-                                                         "Dymki jak ładowanie czy Caps Lock dopasowują się do tekstu"
+                                                         "Nowe domyślne: kółko wypełnia się wraz z upływem dnia",
+                                                         "Status pokazuje kółko, datę, godzinę, Wi-Fi i baterię",
+                                                         "Przypomnienia dopasowują się do tekstu",
+                                                         "Mniejsze odstępy w tekście piosenki",
+                                                         "Bez przeskoku przy zmianie rozmiaru notcha"
                                                      ],
                                               "es":  [
-                                                         "Los recordatorios de tareas suenan al segundo y se quedan en el notch hasta que los pulses",
-                                                         "Los avisos como carga o Bloq Mayús se ajustan al texto"
+                                                         "Nuevo por defecto: el anillo se llena a lo largo del día",
+                                                         "El estado muestra anillo, fecha, hora, Wi-Fi y batería",
+                                                         "Los recordatorios se ajustan al texto",
+                                                         "Letras más compactas",
+                                                         "Sin saltos al cambiar el tamaño"
                                                      ],
                                               "de":  [
-                                                         "Aufgaben-Erinnerungen kommen sekundengenau und bleiben in der Notch, bis du sie anklickst",
-                                                         "Hinweise wie Laden oder Feststelltaste passen sich dem Text an"
+                                                         "Neuer Standard: Der Ring füllt sich im Laufe des Tages",
+                                                         "Status zeigt Ring, Datum, Uhrzeit, WLAN und Akku",
+                                                         "Erinnerungen passen sich dem Text an",
+                                                         "Engere Songtext-Abstände",
+                                                         "Kein Springen beim Ändern der Größe"
                                                      ]
                                           }
                             }
