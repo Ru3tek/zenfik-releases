@@ -1,8 +1,8 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.8-1.0.8/Zenfik-Setup.exe",
-                                    "version":  "1.0.8",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.9-1.0.9/Zenfik-Setup.exe",
+                                    "version":  "1.0.9",
                                     "notes":  {
                                                   "en":  [
 
@@ -21,8 +21,8 @@
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.8-1.0.8/Zenfik-Setup.exe",
-                                  "version":  "1.0.8",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.9-1.0.9/Zenfik-Setup.exe",
+                                  "version":  "1.0.9",
                                   "notes":  {
                                                 "en":  [
 
