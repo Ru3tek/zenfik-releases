@@ -1,64 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.1-1.3.1/Zenfik-Setup.exe",
-                                    "version":  "1.2.1",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.2-1.3.2/Zenfik-Setup.exe",
+                                    "version":  "1.2.2",
                                     "notes":  {
                                                   "en":  [
-                                                             "New Transparent notch background with no color at all, great with Liquid Glass",
-                                                             "The mini window has rounded corners",
-                                                             "Fixed grey patches and edges around Liquid Glass",
-                                                             "Bigger app icons in notifications"
+                                                             "Minimizing a window you watch in Screen (e.g. YouTube) keeps the video playing, the window just slides out of sight",
+                                                             "Removed the colored circles behind icons in notifications and reminders"
                                                          ],
                                                   "pl":  [
-                                                             "Nowe tło Przezroczyste, bez żadnego koloru, świetne z Liquid Glass",
-                                                             "Mini okienko ma zaokrąglone rogi",
-                                                             "Naprawiono szare plamy i krawędzie przy Liquid Glass",
-                                                             "Większe ikony aplikacji w powiadomieniach"
+                                                             "Zminimalizowanie okna z Podglądu (np. YouTube) nie zatrzymuje już filmu, okno chowa się za krawędź ekranu",
+                                                             "Usunięto kolorowe kółka za ikonami w powiadomieniach i przypomnieniach"
                                                          ],
                                                   "es":  [
-                                                             "Nuevo fondo Transparente sin ningún color, ideal con Liquid Glass",
-                                                             "La mini ventana tiene esquinas redondeadas",
-                                                             "Corregidas las manchas grises y bordes de Liquid Glass",
-                                                             "Iconos de apps más grandes en las notificaciones"
+                                                             "Minimizar una ventana que ves en Pantalla (p. ej. YouTube) ya no detiene el vídeo, la ventana se esconde tras el borde",
+                                                             "Quitados los círculos de color detrás de los iconos en notificaciones y recordatorios"
                                                          ],
                                                   "de":  [
-                                                             "Neuer transparenter Notch-Hintergrund ganz ohne Farbe, ideal mit Liquid Glass",
-                                                             "Das Mini-Fenster hat abgerundete Ecken",
-                                                             "Graue Flecken und Kanten bei Liquid Glass behoben",
-                                                             "Größere App-Symbole in Mitteilungen"
+                                                             "Ein minimiertes Fenster aus der Bildschirm-Seite (z. B. YouTube) läuft weiter, das Fenster verschwindet nur hinter dem Rand",
+                                                             "Farbige Kreise hinter Symbolen in Mitteilungen und Erinnerungen entfernt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.1-1.3.1/Zenfik-Setup.exe",
-                                  "version":  "1.2.1",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.2-1.3.2/Zenfik-Setup.exe",
+                                  "version":  "1.2.2",
                                   "notes":  {
                                                 "en":  [
-                                                           "New Transparent notch background with no color at all, great with Liquid Glass",
-                                                           "The mini window has rounded corners",
-                                                           "Fixed grey patches and edges around Liquid Glass",
-                                                           "Bigger app icons in notifications"
+                                                           "Minimizing a window you watch in Screen (e.g. YouTube) keeps the video playing, the window just slides out of sight",
+                                                           "Removed the colored circles behind icons in notifications and reminders"
                                                        ],
                                                 "pl":  [
-                                                           "Nowe tło Przezroczyste, bez żadnego koloru, świetne z Liquid Glass",
-                                                           "Mini okienko ma zaokrąglone rogi",
-                                                           "Naprawiono szare plamy i krawędzie przy Liquid Glass",
-                                                           "Większe ikony aplikacji w powiadomieniach"
+                                                           "Zminimalizowanie okna z Podglądu (np. YouTube) nie zatrzymuje już filmu, okno chowa się za krawędź ekranu",
+                                                           "Usunięto kolorowe kółka za ikonami w powiadomieniach i przypomnieniach"
                                                        ],
                                                 "es":  [
-                                                           "Nuevo fondo Transparente sin ningún color, ideal con Liquid Glass",
-                                                           "La mini ventana tiene esquinas redondeadas",
-                                                           "Corregidas las manchas grises y bordes de Liquid Glass",
-                                                           "Iconos de apps más grandes en las notificaciones"
+                                                           "Minimizar una ventana que ves en Pantalla (p. ej. YouTube) ya no detiene el vídeo, la ventana se esconde tras el borde",
+                                                           "Quitados los círculos de color detrás de los iconos en notificaciones y recordatorios"
                                                        ],
                                                 "de":  [
-                                                           "Neuer transparenter Notch-Hintergrund ganz ohne Farbe, ideal mit Liquid Glass",
-                                                           "Das Mini-Fenster hat abgerundete Ecken",
-                                                           "Graue Flecken und Kanten bei Liquid Glass behoben",
-                                                           "Größere App-Symbole in Mitteilungen"
+                                                           "Ein minimiertes Fenster aus der Bildschirm-Seite (z. B. YouTube) läuft weiter, das Fenster verschwindet nur hinter dem Rand",
+                                                           "Farbige Kreise hinter Symbolen in Mitteilungen und Erinnerungen entfernt"
                                                        ]
                                             }
                               }
