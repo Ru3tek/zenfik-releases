@@ -1,40 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.1-1.4.3/Zenfik-Setup.exe",
-                                    "version":  "1.3.1",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.2-1.4.4/Zenfik-Setup.exe",
+                                    "version":  "1.3.2",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass now bends light at its edges like a real lens, with a color split on the rim"
+                                                             "Fixed Zenfik hiding on some PCs when the desktop is focused, for example with Wallpaper Engine. It now only hides for real full-screen apps and games"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass załamuje teraz światło przy krawędziach jak prawdziwa soczewka, z rozszczepieniem kolorów na brzegu"
+                                                             "Naprawiono chowanie się Zenfika na niektórych komputerach, gdy aktywny jest pulpit, np. przy Wallpaper Engine. Teraz chowa się tylko przy prawdziwych aplikacjach i grach na pełnym ekranie"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass ahora refracta la luz en los bordes como una lente real, con separación de color en el borde"
+                                                             "Corregido que Zenfik se ocultara en algunos PC con el escritorio activo, por ejemplo con Wallpaper Engine. Ahora solo se oculta con apps y juegos a pantalla completa de verdad"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass bricht jetzt das Licht an den Kanten wie eine echte Linse, mit Farbsaum am Rand"
+                                                             "Behoben: Zenfik verschwand auf manchen PCs bei aktivem Desktop, z. B. mit Wallpaper Engine. Jetzt nur noch bei echten Vollbild-Apps und Spielen"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.1-1.4.3/Zenfik-Setup.exe",
-                                  "version":  "1.3.1",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.2-1.4.4/Zenfik-Setup.exe",
+                                  "version":  "1.3.2",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass now bends light at its edges like a real lens, with a color split on the rim"
+                                                           "Fixed Zenfik hiding on some PCs when the desktop is focused, for example with Wallpaper Engine. It now only hides for real full-screen apps and games"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass załamuje teraz światło przy krawędziach jak prawdziwa soczewka, z rozszczepieniem kolorów na brzegu"
+                                                           "Naprawiono chowanie się Zenfika na niektórych komputerach, gdy aktywny jest pulpit, np. przy Wallpaper Engine. Teraz chowa się tylko przy prawdziwych aplikacjach i grach na pełnym ekranie"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass ahora refracta la luz en los bordes como una lente real, con separación de color en el borde"
+                                                           "Corregido que Zenfik se ocultara en algunos PC con el escritorio activo, por ejemplo con Wallpaper Engine. Ahora solo se oculta con apps y juegos a pantalla completa de verdad"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass bricht jetzt das Licht an den Kanten wie eine echte Linse, mit Farbsaum am Rand"
+                                                           "Behoben: Zenfik verschwand auf manchen PCs bei aktivem Desktop, z. B. mit Wallpaper Engine. Jetzt nur noch bei echten Vollbild-Apps und Spielen"
                                                        ]
                                             }
                               }
