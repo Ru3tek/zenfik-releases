@@ -1,48 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.7-1.3.7/Zenfik-Setup.exe",
-                                    "version":  "1.2.7",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.8-1.4.0/Zenfik-Setup.exe",
+                                    "version":  "1.2.8",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass rebuilt after liquid-glass-vue: clear glass, a diagonal light edge that turns with your mouse and a gentle stretch toward the cursor",
-                                                             "Bigger app icons in notifications"
+                                                             "New Mixer page in Zenfik, like SteelSeries Sonar: every app that plays sound gets its own slider with its icon",
+                                                             "Drag or scroll to change the volume of Discord, games, YouTube or Spotify, click the speaker to mute it, plus a master slider for the whole system"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass zrobione jak w liquid-glass-vue: czysta szyba, świetlna krawędź po przekątnej, która obraca się za myszką, i lekkie rozciąganie w stronę kursora",
-                                                             "Większe ikony aplikacji w powiadomieniach"
+                                                             "Nowa strona Mikser w Zenfiku, jak w SteelSeries Sonar: każda aplikacja, która gra dźwięk, ma własny suwak z ikoną",
+                                                             "Przeciągnij albo przewiń, żeby zmienić głośność Discorda, gier, YouTube czy Spotify, kliknij głośnik, żeby wyciszyć, do tego suwak głośności całego systemu"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass rehecho como liquid-glass-vue: cristal limpio, un borde de luz diagonal que gira con el ratón y un leve estiramiento hacia el cursor",
-                                                             "Iconos de apps más grandes en las notificaciones"
+                                                             "Nueva página Mezclador en Zenfik, como SteelSeries Sonar: cada app que suena tiene su propio control con su icono",
+                                                             "Arrastra o usa la rueda para cambiar el volumen de Discord, juegos, YouTube o Spotify, pulsa el altavoz para silenciar, y un control general del sistema"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass nach liquid-glass-vue neu gebaut: klares Glas, eine diagonale Lichtkante, die sich mit der Maus dreht, und leichtes Dehnen zum Cursor",
-                                                             "Größere App-Symbole in Mitteilungen"
+                                                             "Neue Mixer-Seite in Zenfik wie bei SteelSeries Sonar: jede App, die Ton abspielt, bekommt einen eigenen Regler mit Symbol",
+                                                             "Ziehen oder scrollen für die Lautstärke von Discord, Spielen, YouTube oder Spotify, Lautsprecher klicken zum Stummschalten, dazu ein Gesamtregler"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.7-1.3.7/Zenfik-Setup.exe",
-                                  "version":  "1.2.7",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.8-1.4.0/Zenfik-Setup.exe",
+                                  "version":  "1.2.8",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass rebuilt after liquid-glass-vue: clear glass, a diagonal light edge that turns with your mouse and a gentle stretch toward the cursor",
-                                                           "Bigger app icons in notifications"
+                                                           "New Mixer page in Zenfik, like SteelSeries Sonar: every app that plays sound gets its own slider with its icon",
+                                                           "Drag or scroll to change the volume of Discord, games, YouTube or Spotify, click the speaker to mute it, plus a master slider for the whole system"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass zrobione jak w liquid-glass-vue: czysta szyba, świetlna krawędź po przekątnej, która obraca się za myszką, i lekkie rozciąganie w stronę kursora",
-                                                           "Większe ikony aplikacji w powiadomieniach"
+                                                           "Nowa strona Mikser w Zenfiku, jak w SteelSeries Sonar: każda aplikacja, która gra dźwięk, ma własny suwak z ikoną",
+                                                           "Przeciągnij albo przewiń, żeby zmienić głośność Discorda, gier, YouTube czy Spotify, kliknij głośnik, żeby wyciszyć, do tego suwak głośności całego systemu"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass rehecho como liquid-glass-vue: cristal limpio, un borde de luz diagonal que gira con el ratón y un leve estiramiento hacia el cursor",
-                                                           "Iconos de apps más grandes en las notificaciones"
+                                                           "Nueva página Mezclador en Zenfik, como SteelSeries Sonar: cada app que suena tiene su propio control con su icono",
+                                                           "Arrastra o usa la rueda para cambiar el volumen de Discord, juegos, YouTube o Spotify, pulsa el altavoz para silenciar, y un control general del sistema"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass nach liquid-glass-vue neu gebaut: klares Glas, eine diagonale Lichtkante, die sich mit der Maus dreht, und leichtes Dehnen zum Cursor",
-                                                           "Größere App-Symbole in Mitteilungen"
+                                                           "Neue Mixer-Seite in Zenfik wie bei SteelSeries Sonar: jede App, die Ton abspielt, bekommt einen eigenen Regler mit Symbol",
+                                                           "Ziehen oder scrollen für die Lautstärke von Discord, Spielen, YouTube oder Spotify, Lautsprecher klicken zum Stummschalten, dazu ein Gesamtregler"
                                                        ]
                                             }
                               }
