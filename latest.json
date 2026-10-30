@@ -1,40 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.2-1.4.4/Zenfik-Setup.exe",
-                                    "version":  "1.3.2",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.3-1.4.5/Zenfik-Setup.exe",
+                                    "version":  "1.3.3",
                                     "notes":  {
                                                   "en":  [
-                                                             "Fixed Zenfik hiding on some PCs when the desktop is focused, for example with Wallpaper Engine. It now only hides for real full-screen apps and games"
+                                                             "Fixed Liquid Glass turning into colorful noise on some PCs. If Windows can\u0027t hide Zenfik from capture, it now falls back to a normal background",
+                                                             "The Mixer now finds apps on every output device, for example with Sonar, VoiceMeeter or several headsets"
                                                          ],
                                                   "pl":  [
-                                                             "Naprawiono chowanie się Zenfika na niektórych komputerach, gdy aktywny jest pulpit, np. przy Wallpaper Engine. Teraz chowa się tylko przy prawdziwych aplikacjach i grach na pełnym ekranie"
+                                                             "Naprawiono Liquid Glass zamieniające się w kolorowy szum na niektórych komputerach. Gdy Windows nie potrafi ukryć Zenfika przed przechwytywaniem, Zenfik przechodzi na zwykłe tło",
+                                                             "Mikser znajduje teraz aplikacje na każdym wyjściu audio, np. przy Sonarze, VoiceMeeterze albo kilku słuchawkach"
                                                          ],
                                                   "es":  [
-                                                             "Corregido que Zenfik se ocultara en algunos PC con el escritorio activo, por ejemplo con Wallpaper Engine. Ahora solo se oculta con apps y juegos a pantalla completa de verdad"
+                                                             "Corregido Liquid Glass convirtiéndose en ruido de colores en algunos PC. Si Windows no puede ocultar Zenfik de la captura, ahora usa un fondo normal",
+                                                             "El Mezclador ahora encuentra apps en cualquier salida de audio, por ejemplo con Sonar, VoiceMeeter o varios auriculares"
                                                          ],
                                                   "de":  [
-                                                             "Behoben: Zenfik verschwand auf manchen PCs bei aktivem Desktop, z. B. mit Wallpaper Engine. Jetzt nur noch bei echten Vollbild-Apps und Spielen"
+                                                             "Behoben: Liquid Glass wurde auf manchen PCs zu buntem Rauschen. Kann Windows Zenfik nicht vor Aufnahmen verbergen, nutzt Zenfik jetzt einen normalen Hintergrund",
+                                                             "Der Mixer findet Apps jetzt auf jedem Audioausgang, z. B. mit Sonar, VoiceMeeter oder mehreren Headsets"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.2-1.4.4/Zenfik-Setup.exe",
-                                  "version":  "1.3.2",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.3-1.4.5/Zenfik-Setup.exe",
+                                  "version":  "1.3.3",
                                   "notes":  {
                                                 "en":  [
-                                                           "Fixed Zenfik hiding on some PCs when the desktop is focused, for example with Wallpaper Engine. It now only hides for real full-screen apps and games"
+                                                           "Fixed Liquid Glass turning into colorful noise on some PCs. If Windows can\u0027t hide Zenfik from capture, it now falls back to a normal background",
+                                                           "The Mixer now finds apps on every output device, for example with Sonar, VoiceMeeter or several headsets"
                                                        ],
                                                 "pl":  [
-                                                           "Naprawiono chowanie się Zenfika na niektórych komputerach, gdy aktywny jest pulpit, np. przy Wallpaper Engine. Teraz chowa się tylko przy prawdziwych aplikacjach i grach na pełnym ekranie"
+                                                           "Naprawiono Liquid Glass zamieniające się w kolorowy szum na niektórych komputerach. Gdy Windows nie potrafi ukryć Zenfika przed przechwytywaniem, Zenfik przechodzi na zwykłe tło",
+                                                           "Mikser znajduje teraz aplikacje na każdym wyjściu audio, np. przy Sonarze, VoiceMeeterze albo kilku słuchawkach"
                                                        ],
                                                 "es":  [
-                                                           "Corregido que Zenfik se ocultara en algunos PC con el escritorio activo, por ejemplo con Wallpaper Engine. Ahora solo se oculta con apps y juegos a pantalla completa de verdad"
+                                                           "Corregido Liquid Glass convirtiéndose en ruido de colores en algunos PC. Si Windows no puede ocultar Zenfik de la captura, ahora usa un fondo normal",
+                                                           "El Mezclador ahora encuentra apps en cualquier salida de audio, por ejemplo con Sonar, VoiceMeeter o varios auriculares"
                                                        ],
                                                 "de":  [
-                                                           "Behoben: Zenfik verschwand auf manchen PCs bei aktivem Desktop, z. B. mit Wallpaper Engine. Jetzt nur noch bei echten Vollbild-Apps und Spielen"
+                                                           "Behoben: Liquid Glass wurde auf manchen PCs zu buntem Rauschen. Kann Windows Zenfik nicht vor Aufnahmen verbergen, nutzt Zenfik jetzt einen normalen Hintergrund",
+                                                           "Der Mixer findet Apps jetzt auf jedem Audioausgang, z. B. mit Sonar, VoiceMeeter oder mehreren Headsets"
                                                        ]
                                             }
                               }
