@@ -1,48 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.7-1.1.2/Zenfik-Setup.exe",
-                                    "version":  "1.1.7",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.8-1.1.2/Zenfik-Setup.exe",
+                                    "version":  "1.1.8",
                                     "notes":  {
                                                   "en":  [
-                                                             "Pick your own alert sounds in Zenfik → Reminders: 11 sounds, separately for reminders, timer and water, with a play button",
-                                                             "Rings for the day, water and timers fill up smoothly"
+                                                             "Installing adds a Zenfik shortcut to your desktop, and uninstalling removes it again"
                                                          ],
                                                   "pl":  [
-                                                             "Własne dźwięki powiadomień w Zenfik → Przypomnienia: 11 dźwięków, osobno dla zadań, minutnika i wody, z odsłuchem",
-                                                             "Kółka dnia, wody i timerów płynnie się napełniają"
+                                                             "Instalacja dodaje skrót Zenfika na pulpit, a odinstalowanie go usuwa"
                                                          ],
                                                   "es":  [
-                                                             "Elige tus sonidos en Zenfik → Recordatorios: 11 sonidos, por separado para recordatorios, temporizador y agua, con botón para escuchar",
-                                                             "Los anillos del día, del agua y de los temporizadores se llenan con suavidad"
+                                                             "La instalación añade un acceso directo de Zenfik al escritorio y la desinstalación lo quita"
                                                          ],
                                                   "de":  [
-                                                             "Eigene Hinweistöne unter Zenfik → Erinnerungen: 11 Töne, getrennt für Erinnerungen, Timer und Wasser, mit Vorhören",
-                                                             "Die Ringe für Tag, Wasser und Timer füllen sich flüssig"
+                                                             "Die Installation legt eine Zenfik-Verknüpfung auf dem Desktop an, die Deinstallation entfernt sie wieder"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.7-1.1.2/Zenfik-Setup.exe",
-                                  "version":  "1.1.7",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.8-1.1.2/Zenfik-Setup.exe",
+                                  "version":  "1.1.8",
                                   "notes":  {
                                                 "en":  [
-                                                           "Pick your own alert sounds in Zenfik → Reminders: 11 sounds, separately for reminders, timer and water, with a play button",
-                                                           "Rings for the day, water and timers fill up smoothly"
+                                                           "Installing adds a Zenfik shortcut to your desktop, and uninstalling removes it again"
                                                        ],
                                                 "pl":  [
-                                                           "Własne dźwięki powiadomień w Zenfik → Przypomnienia: 11 dźwięków, osobno dla zadań, minutnika i wody, z odsłuchem",
-                                                           "Kółka dnia, wody i timerów płynnie się napełniają"
+                                                           "Instalacja dodaje skrót Zenfika na pulpit, a odinstalowanie go usuwa"
                                                        ],
                                                 "es":  [
-                                                           "Elige tus sonidos en Zenfik → Recordatorios: 11 sonidos, por separado para recordatorios, temporizador y agua, con botón para escuchar",
-                                                           "Los anillos del día, del agua y de los temporizadores se llenan con suavidad"
+                                                           "La instalación añade un acceso directo de Zenfik al escritorio y la desinstalación lo quita"
                                                        ],
                                                 "de":  [
-                                                           "Eigene Hinweistöne unter Zenfik → Erinnerungen: 11 Töne, getrennt für Erinnerungen, Timer und Wasser, mit Vorhören",
-                                                           "Die Ringe für Tag, Wasser und Timer füllen sich flüssig"
+                                                           "Die Installation legt eine Zenfik-Verknüpfung auf dem Desktop an, die Deinstallation entfernt sie wieder"
                                                        ]
                                             }
                               }
