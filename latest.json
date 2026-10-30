@@ -1,40 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.6-1.4.8/Zenfik-Setup.exe",
-                                    "version":  "1.3.6",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.7-1.4.9/Zenfik-Setup.exe",
+                                    "version":  "1.3.7",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass is now stable: no leftover square from the small notch, no odd colors and clean corners"
+                                                             "Liquid Glass rebuilt for good: no leftover squares or odd colors, fully opaque glass and a background that updates live 20 times per second",
+                                                             "Uses the same fast screen capture as OBS and Discord, so it costs almost no CPU"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass jest teraz stabilne: bez prostokąta po małym notchu, bez dziwnych kolorów i z czystymi rogami"
+                                                             "Liquid Glass przebudowane na dobre: bez prostokątów i dziwnych kolorów, w pełni kryjąca szyba i tło odświeżane na żywo 20 razy na sekundę",
+                                                             "Używa tego samego szybkiego przechwytywania ekranu co OBS i Discord, więc prawie nie obciąża procesora"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass ahora es estable: sin el recuadro del notch pequeño, sin colores raros y con esquinas limpias"
+                                                             "Liquid Glass rehecho del todo: sin recuadros ni colores raros, cristal totalmente opaco y un fondo que se actualiza en vivo 20 veces por segundo",
+                                                             "Usa la misma captura rápida de pantalla que OBS y Discord, así que casi no gasta CPU"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass ist jetzt stabil: kein Rest-Quadrat der kleinen Notch, keine seltsamen Farben und saubere Ecken"
+                                                             "Liquid Glass endgültig neu gebaut: keine Rest-Quadrate oder seltsamen Farben, voll deckendes Glas und ein Hintergrund, der sich 20-mal pro Sekunde live aktualisiert",
+                                                             "Nutzt dieselbe schnelle Bildschirmaufnahme wie OBS und Discord und braucht daher kaum CPU"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.6-1.4.8/Zenfik-Setup.exe",
-                                  "version":  "1.3.6",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.7-1.4.9/Zenfik-Setup.exe",
+                                  "version":  "1.3.7",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass is now stable: no leftover square from the small notch, no odd colors and clean corners"
+                                                           "Liquid Glass rebuilt for good: no leftover squares or odd colors, fully opaque glass and a background that updates live 20 times per second",
+                                                           "Uses the same fast screen capture as OBS and Discord, so it costs almost no CPU"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass jest teraz stabilne: bez prostokąta po małym notchu, bez dziwnych kolorów i z czystymi rogami"
+                                                           "Liquid Glass przebudowane na dobre: bez prostokątów i dziwnych kolorów, w pełni kryjąca szyba i tło odświeżane na żywo 20 razy na sekundę",
+                                                           "Używa tego samego szybkiego przechwytywania ekranu co OBS i Discord, więc prawie nie obciąża procesora"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass ahora es estable: sin el recuadro del notch pequeño, sin colores raros y con esquinas limpias"
+                                                           "Liquid Glass rehecho del todo: sin recuadros ni colores raros, cristal totalmente opaco y un fondo que se actualiza en vivo 20 veces por segundo",
+                                                           "Usa la misma captura rápida de pantalla que OBS y Discord, así que casi no gasta CPU"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass ist jetzt stabil: kein Rest-Quadrat der kleinen Notch, keine seltsamen Farben und saubere Ecken"
+                                                           "Liquid Glass endgültig neu gebaut: keine Rest-Quadrate oder seltsamen Farben, voll deckendes Glas und ein Hintergrund, der sich 20-mal pro Sekunde live aktualisiert",
+                                                           "Nutzt dieselbe schnelle Bildschirmaufnahme wie OBS und Discord und braucht daher kaum CPU"
                                                        ]
                                             }
                               }
