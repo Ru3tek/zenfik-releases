@@ -1,40 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.0-1.4.2/Zenfik-Setup.exe",
-                                    "version":  "1.3.0",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.1-1.4.3/Zenfik-Setup.exe",
+                                    "version":  "1.3.1",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass now shows the glow color from the bottom when the glow is on"
+                                                             "Liquid Glass now bends light at its edges like a real lens, with a color split on the rim"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass pokazuje teraz kolor poświaty od dołu, gdy poświata jest włączona"
+                                                             "Liquid Glass załamuje teraz światło przy krawędziach jak prawdziwa soczewka, z rozszczepieniem kolorów na brzegu"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass ahora muestra el color del brillo desde abajo cuando el brillo está activado"
+                                                             "Liquid Glass ahora refracta la luz en los bordes como una lente real, con separación de color en el borde"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass zeigt jetzt die Leuchtfarbe von unten, wenn das Leuchten an ist"
+                                                             "Liquid Glass bricht jetzt das Licht an den Kanten wie eine echte Linse, mit Farbsaum am Rand"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.0-1.4.2/Zenfik-Setup.exe",
-                                  "version":  "1.3.0",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.1-1.4.3/Zenfik-Setup.exe",
+                                  "version":  "1.3.1",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass now shows the glow color from the bottom when the glow is on"
+                                                           "Liquid Glass now bends light at its edges like a real lens, with a color split on the rim"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass pokazuje teraz kolor poświaty od dołu, gdy poświata jest włączona"
+                                                           "Liquid Glass załamuje teraz światło przy krawędziach jak prawdziwa soczewka, z rozszczepieniem kolorów na brzegu"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass ahora muestra el color del brillo desde abajo cuando el brillo está activado"
+                                                           "Liquid Glass ahora refracta la luz en los bordes como una lente real, con separación de color en el borde"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass zeigt jetzt die Leuchtfarbe von unten, wenn das Leuchten an ist"
+                                                           "Liquid Glass bricht jetzt das Licht an den Kanten wie eine echte Linse, mit Farbsaum am Rand"
                                                        ]
                                             }
                               }
