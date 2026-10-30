@@ -1,64 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.0-1.3.0/Zenfik-Setup.exe",
-                                    "version":  "1.2.0",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.1-1.3.1/Zenfik-Setup.exe",
+                                    "version":  "1.2.1",
                                     "notes":  {
                                                   "en":  [
-                                                             "Windows notifications in Zenfik: turn them on in Zenfik → Notifications, they pop up in the notch and land on a new bell page",
-                                                             "Liquid Glass with adjustable strength and a new Color background that takes the tint of your app or wallpaper",
-                                                             "Bigger mini window with thinner edges and rounder corners, tidier Screen page",
-                                                             "A None option for every sound and grey page icons"
+                                                             "New Transparent notch background with no color at all, great with Liquid Glass",
+                                                             "The mini window has rounded corners",
+                                                             "Fixed grey patches and edges around Liquid Glass",
+                                                             "Bigger app icons in notifications"
                                                          ],
                                                   "pl":  [
-                                                             "Powiadomienia Windows w Zenfiku: włącz je w Zenfik → Powiadomienia, wyskakują w notchu i trafiają na nową stronę z dzwonkiem",
-                                                             "Liquid Glass z regulowaną mocą i nowe tło Kolor, które bierze barwę aplikacji lub tapety",
-                                                             "Większe mini okienko z cieńszą ramką i zaokrąglonymi rogami, poprawiona strona Podgląd",
-                                                             "Opcja Brak dla każdego dźwięku i szare ikony stron"
+                                                             "Nowe tło Przezroczyste, bez żadnego koloru, świetne z Liquid Glass",
+                                                             "Mini okienko ma zaokrąglone rogi",
+                                                             "Naprawiono szare plamy i krawędzie przy Liquid Glass",
+                                                             "Większe ikony aplikacji w powiadomieniach"
                                                          ],
                                                   "es":  [
-                                                             "Notificaciones de Windows en Zenfik: actívalas en Zenfik → Notificaciones, aparecen en el notch y en una nueva página con campana",
-                                                             "Liquid Glass con intensidad ajustable y un nuevo fondo Color que toma el tono de tu app o fondo",
-                                                             "Mini ventana más grande con bordes finos y esquinas redondeadas, página Pantalla más ordenada",
-                                                             "Opción Ninguno para cada sonido e iconos de página grises"
+                                                             "Nuevo fondo Transparente sin ningún color, ideal con Liquid Glass",
+                                                             "La mini ventana tiene esquinas redondeadas",
+                                                             "Corregidas las manchas grises y bordes de Liquid Glass",
+                                                             "Iconos de apps más grandes en las notificaciones"
                                                          ],
                                                   "de":  [
-                                                             "Windows-Mitteilungen in Zenfik: unter Zenfik → Mitteilungen einschalten, sie erscheinen in der Notch und auf einer neuen Glocken-Seite",
-                                                             "Liquid Glass mit einstellbarer Stärke und ein neuer Farb-Hintergrund im Ton deiner App oder deines Hintergrunds",
-                                                             "Größeres Mini-Fenster mit schmalem Rand und runden Ecken, aufgeräumte Bildschirm-Seite",
-                                                             "Option Keiner für jeden Ton und graue Seitensymbole"
+                                                             "Neuer transparenter Notch-Hintergrund ganz ohne Farbe, ideal mit Liquid Glass",
+                                                             "Das Mini-Fenster hat abgerundete Ecken",
+                                                             "Graue Flecken und Kanten bei Liquid Glass behoben",
+                                                             "Größere App-Symbole in Mitteilungen"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.0-1.3.0/Zenfik-Setup.exe",
-                                  "version":  "1.2.0",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.1-1.3.1/Zenfik-Setup.exe",
+                                  "version":  "1.2.1",
                                   "notes":  {
                                                 "en":  [
-                                                           "Windows notifications in Zenfik: turn them on in Zenfik → Notifications, they pop up in the notch and land on a new bell page",
-                                                           "Liquid Glass with adjustable strength and a new Color background that takes the tint of your app or wallpaper",
-                                                           "Bigger mini window with thinner edges and rounder corners, tidier Screen page",
-                                                           "A None option for every sound and grey page icons"
+                                                           "New Transparent notch background with no color at all, great with Liquid Glass",
+                                                           "The mini window has rounded corners",
+                                                           "Fixed grey patches and edges around Liquid Glass",
+                                                           "Bigger app icons in notifications"
                                                        ],
                                                 "pl":  [
-                                                           "Powiadomienia Windows w Zenfiku: włącz je w Zenfik → Powiadomienia, wyskakują w notchu i trafiają na nową stronę z dzwonkiem",
-                                                           "Liquid Glass z regulowaną mocą i nowe tło Kolor, które bierze barwę aplikacji lub tapety",
-                                                           "Większe mini okienko z cieńszą ramką i zaokrąglonymi rogami, poprawiona strona Podgląd",
-                                                           "Opcja Brak dla każdego dźwięku i szare ikony stron"
+                                                           "Nowe tło Przezroczyste, bez żadnego koloru, świetne z Liquid Glass",
+                                                           "Mini okienko ma zaokrąglone rogi",
+                                                           "Naprawiono szare plamy i krawędzie przy Liquid Glass",
+                                                           "Większe ikony aplikacji w powiadomieniach"
                                                        ],
                                                 "es":  [
-                                                           "Notificaciones de Windows en Zenfik: actívalas en Zenfik → Notificaciones, aparecen en el notch y en una nueva página con campana",
-                                                           "Liquid Glass con intensidad ajustable y un nuevo fondo Color que toma el tono de tu app o fondo",
-                                                           "Mini ventana más grande con bordes finos y esquinas redondeadas, página Pantalla más ordenada",
-                                                           "Opción Ninguno para cada sonido e iconos de página grises"
+                                                           "Nuevo fondo Transparente sin ningún color, ideal con Liquid Glass",
+                                                           "La mini ventana tiene esquinas redondeadas",
+                                                           "Corregidas las manchas grises y bordes de Liquid Glass",
+                                                           "Iconos de apps más grandes en las notificaciones"
                                                        ],
                                                 "de":  [
-                                                           "Windows-Mitteilungen in Zenfik: unter Zenfik → Mitteilungen einschalten, sie erscheinen in der Notch und auf einer neuen Glocken-Seite",
-                                                           "Liquid Glass mit einstellbarer Stärke und ein neuer Farb-Hintergrund im Ton deiner App oder deines Hintergrunds",
-                                                           "Größeres Mini-Fenster mit schmalem Rand und runden Ecken, aufgeräumte Bildschirm-Seite",
-                                                           "Option Keiner für jeden Ton und graue Seitensymbole"
+                                                           "Neuer transparenter Notch-Hintergrund ganz ohne Farbe, ideal mit Liquid Glass",
+                                                           "Das Mini-Fenster hat abgerundete Ecken",
+                                                           "Graue Flecken und Kanten bei Liquid Glass behoben",
+                                                           "Größere App-Symbole in Mitteilungen"
                                                        ]
                                             }
                               }
