@@ -1,64 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.9-1.2.0/Zenfik-Setup.exe",
-                                    "version":  "1.1.9",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.0-1.3.0/Zenfik-Setup.exe",
+                                    "version":  "1.2.0",
                                     "notes":  {
                                                   "en":  [
-                                                             "New Screen page: pick any window and watch it live in Zenfik",
-                                                             "Mini window: the notch turns into a small live window, perfect for a movie or a stream",
-                                                             "Uninstalling no longer flashes a command window",
-                                                             "Publisher is now shown as Zenfy Studio"
+                                                             "Windows notifications in Zenfik: turn them on in Zenfik → Notifications, they pop up in the notch and land on a new bell page",
+                                                             "Liquid Glass with adjustable strength and a new Color background that takes the tint of your app or wallpaper",
+                                                             "Bigger mini window with thinner edges and rounder corners, tidier Screen page",
+                                                             "A None option for every sound and grey page icons"
                                                          ],
                                                   "pl":  [
-                                                             "Nowa strona Podgląd: wybierz dowolne okno i oglądaj je na żywo w Zenfiku",
-                                                             "Mini okienko: notch zamienia się w małe okno na żywo, idealne na film albo stream",
-                                                             "Odinstalowanie nie pokazuje już okna wiersza poleceń",
-                                                             "Wydawca jest teraz pokazywany jako Zenfy Studio"
+                                                             "Powiadomienia Windows w Zenfiku: włącz je w Zenfik → Powiadomienia, wyskakują w notchu i trafiają na nową stronę z dzwonkiem",
+                                                             "Liquid Glass z regulowaną mocą i nowe tło Kolor, które bierze barwę aplikacji lub tapety",
+                                                             "Większe mini okienko z cieńszą ramką i zaokrąglonymi rogami, poprawiona strona Podgląd",
+                                                             "Opcja Brak dla każdego dźwięku i szare ikony stron"
                                                          ],
                                                   "es":  [
-                                                             "Nueva página Pantalla: elige cualquier ventana y mírala en vivo en Zenfik",
-                                                             "Mini ventana: el notch se convierte en una pequeña ventana en vivo, ideal para una película o un stream",
-                                                             "Al desinstalar ya no aparece una ventana de comandos",
-                                                             "El editor ahora aparece como Zenfy Studio"
+                                                             "Notificaciones de Windows en Zenfik: actívalas en Zenfik → Notificaciones, aparecen en el notch y en una nueva página con campana",
+                                                             "Liquid Glass con intensidad ajustable y un nuevo fondo Color que toma el tono de tu app o fondo",
+                                                             "Mini ventana más grande con bordes finos y esquinas redondeadas, página Pantalla más ordenada",
+                                                             "Opción Ninguno para cada sonido e iconos de página grises"
                                                          ],
                                                   "de":  [
-                                                             "Neue Bildschirm-Seite: ein beliebiges Fenster wählen und live in Zenfik ansehen",
-                                                             "Mini-Fenster: Die Notch wird zu einem kleinen Live-Fenster, ideal für Filme oder Streams",
-                                                             "Beim Deinstallieren blinkt kein Befehlsfenster mehr auf",
-                                                             "Als Herausgeber wird jetzt Zenfy Studio angezeigt"
+                                                             "Windows-Mitteilungen in Zenfik: unter Zenfik → Mitteilungen einschalten, sie erscheinen in der Notch und auf einer neuen Glocken-Seite",
+                                                             "Liquid Glass mit einstellbarer Stärke und ein neuer Farb-Hintergrund im Ton deiner App oder deines Hintergrunds",
+                                                             "Größeres Mini-Fenster mit schmalem Rand und runden Ecken, aufgeräumte Bildschirm-Seite",
+                                                             "Option Keiner für jeden Ton und graue Seitensymbole"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.9-1.2.0/Zenfik-Setup.exe",
-                                  "version":  "1.1.9",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.0-1.3.0/Zenfik-Setup.exe",
+                                  "version":  "1.2.0",
                                   "notes":  {
                                                 "en":  [
-                                                           "New Screen page: pick any window and watch it live in Zenfik",
-                                                           "Mini window: the notch turns into a small live window, perfect for a movie or a stream",
-                                                           "Uninstalling no longer flashes a command window",
-                                                           "Publisher is now shown as Zenfy Studio"
+                                                           "Windows notifications in Zenfik: turn them on in Zenfik → Notifications, they pop up in the notch and land on a new bell page",
+                                                           "Liquid Glass with adjustable strength and a new Color background that takes the tint of your app or wallpaper",
+                                                           "Bigger mini window with thinner edges and rounder corners, tidier Screen page",
+                                                           "A None option for every sound and grey page icons"
                                                        ],
                                                 "pl":  [
-                                                           "Nowa strona Podgląd: wybierz dowolne okno i oglądaj je na żywo w Zenfiku",
-                                                           "Mini okienko: notch zamienia się w małe okno na żywo, idealne na film albo stream",
-                                                           "Odinstalowanie nie pokazuje już okna wiersza poleceń",
-                                                           "Wydawca jest teraz pokazywany jako Zenfy Studio"
+                                                           "Powiadomienia Windows w Zenfiku: włącz je w Zenfik → Powiadomienia, wyskakują w notchu i trafiają na nową stronę z dzwonkiem",
+                                                           "Liquid Glass z regulowaną mocą i nowe tło Kolor, które bierze barwę aplikacji lub tapety",
+                                                           "Większe mini okienko z cieńszą ramką i zaokrąglonymi rogami, poprawiona strona Podgląd",
+                                                           "Opcja Brak dla każdego dźwięku i szare ikony stron"
                                                        ],
                                                 "es":  [
-                                                           "Nueva página Pantalla: elige cualquier ventana y mírala en vivo en Zenfik",
-                                                           "Mini ventana: el notch se convierte en una pequeña ventana en vivo, ideal para una película o un stream",
-                                                           "Al desinstalar ya no aparece una ventana de comandos",
-                                                           "El editor ahora aparece como Zenfy Studio"
+                                                           "Notificaciones de Windows en Zenfik: actívalas en Zenfik → Notificaciones, aparecen en el notch y en una nueva página con campana",
+                                                           "Liquid Glass con intensidad ajustable y un nuevo fondo Color que toma el tono de tu app o fondo",
+                                                           "Mini ventana más grande con bordes finos y esquinas redondeadas, página Pantalla más ordenada",
+                                                           "Opción Ninguno para cada sonido e iconos de página grises"
                                                        ],
                                                 "de":  [
-                                                           "Neue Bildschirm-Seite: ein beliebiges Fenster wählen und live in Zenfik ansehen",
-                                                           "Mini-Fenster: Die Notch wird zu einem kleinen Live-Fenster, ideal für Filme oder Streams",
-                                                           "Beim Deinstallieren blinkt kein Befehlsfenster mehr auf",
-                                                           "Als Herausgeber wird jetzt Zenfy Studio angezeigt"
+                                                           "Windows-Mitteilungen in Zenfik: unter Zenfik → Mitteilungen einschalten, sie erscheinen in der Notch und auf einer neuen Glocken-Seite",
+                                                           "Liquid Glass mit einstellbarer Stärke und ein neuer Farb-Hintergrund im Ton deiner App oder deines Hintergrunds",
+                                                           "Größeres Mini-Fenster mit schmalem Rand und runden Ecken, aufgeräumte Bildschirm-Seite",
+                                                           "Option Keiner für jeden Ton und graue Seitensymbole"
                                                        ]
                                             }
                               }
