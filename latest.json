@@ -1,0 +1,110 @@
+{
+    "stable":  {
+                   "launcher":  {
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/Zenfik-Setup.exe",
+                                    "version":  "1.0.0",
+                                    "notes":  {
+                                                  "en":  [
+                                                             "Glow follows the open app and album art",
+                                                             "New idle looks: face with emotes, status, clock",
+                                                             "Links and browser tabs on the shelf"
+                                                         ],
+                                                  "pl":  [
+                                                             "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
+                                                             "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
+                                                             "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                         ],
+                                                  "es":  [
+                                                             "El brillo sigue a la app abierta y a la portada",
+                                                             "Nuevos aspectos en reposo: carita, estado, reloj",
+                                                             "Enlaces y pestaĂ±as en el estante"
+                                                         ],
+                                                  "de":  [
+                                                             "Das Leuchten folgt der offenen App und dem Cover",
+                                                             "Neue Ruheansichten: Gesicht, Status, Uhr",
+                                                             "Links und Browser-Tabs in der Ablage"
+                                                         ]
+                                              }
+                                },
+                   "zenfik":  {
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/zenfik.exe",
+                                  "version":  "1.0.0",
+                                  "notes":  {
+                                                "en":  [
+                                                           "Glow follows the open app and album art",
+                                                           "New idle looks: face with emotes, status, clock",
+                                                           "Links and browser tabs on the shelf"
+                                                       ],
+                                                "pl":  [
+                                                           "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
+                                                           "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
+                                                           "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                       ],
+                                                "es":  [
+                                                           "El brillo sigue a la app abierta y a la portada",
+                                                           "Nuevos aspectos en reposo: carita, estado, reloj",
+                                                           "Enlaces y pestaĂ±as en el estante"
+                                                       ],
+                                                "de":  [
+                                                           "Das Leuchten folgt der offenen App und dem Cover",
+                                                           "Neue Ruheansichten: Gesicht, Status, Uhr",
+                                                           "Links und Browser-Tabs in der Ablage"
+                                                       ]
+                                            }
+                              }
+               },
+    "beta":  {
+                 "launcher":  {
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/Zenfik-Setup.exe",
+                                  "version":  "1.0.0",
+                                  "notes":  {
+                                                "en":  [
+                                                           "Glow follows the open app and album art",
+                                                           "New idle looks: face with emotes, status, clock",
+                                                           "Links and browser tabs on the shelf"
+                                                       ],
+                                                "pl":  [
+                                                           "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
+                                                           "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
+                                                           "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                       ],
+                                                "es":  [
+                                                           "El brillo sigue a la app abierta y a la portada",
+                                                           "Nuevos aspectos en reposo: carita, estado, reloj",
+                                                           "Enlaces y pestaĂ±as en el estante"
+                                                       ],
+                                                "de":  [
+                                                           "Das Leuchten folgt der offenen App und dem Cover",
+                                                           "Neue Ruheansichten: Gesicht, Status, Uhr",
+                                                           "Links und Browser-Tabs in der Ablage"
+                                                       ]
+                                            }
+                              },
+                 "zenfik":  {
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.0-1.0.0/zenfik.exe",
+                                "version":  "1.0.0",
+                                "notes":  {
+                                              "en":  [
+                                                         "Glow follows the open app and album art",
+                                                         "New idle looks: face with emotes, status, clock",
+                                                         "Links and browser tabs on the shelf"
+                                                     ],
+                                              "pl":  [
+                                                         "PoĹ›wiata dopasowuje siÄ™ do aplikacji i okĹ‚adki",
+                                                         "Nowe wyglÄ…dy w spoczynku: buĹşka z minami, status, zegar",
+                                                         "Linki i karty z przeglÄ…darki na pĂłĹ‚ce"
+                                                     ],
+                                              "es":  [
+                                                         "El brillo sigue a la app abierta y a la portada",
+                                                         "Nuevos aspectos en reposo: carita, estado, reloj",
+                                                         "Enlaces y pestaĂ±as en el estante"
+                                                     ],
+                                              "de":  [
+                                                         "Das Leuchten folgt der offenen App und dem Cover",
+                                                         "Neue Ruheansichten: Gesicht, Status, Uhr",
+                                                         "Links und Browser-Tabs in der Ablage"
+                                                     ]
+                                          }
+                            }
+             }
+}
