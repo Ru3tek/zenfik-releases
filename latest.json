@@ -1,40 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.8-1.1.2/Zenfik-Setup.exe",
-                                    "version":  "1.1.8",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.9-1.2.0/Zenfik-Setup.exe",
+                                    "version":  "1.1.9",
                                     "notes":  {
                                                   "en":  [
-                                                             "Installing adds a Zenfik shortcut to your desktop, and uninstalling removes it again"
+                                                             "New Screen page: pick any window and watch it live in Zenfik",
+                                                             "Mini window: the notch turns into a small live window, perfect for a movie or a stream",
+                                                             "Uninstalling no longer flashes a command window",
+                                                             "Publisher is now shown as Zenfy Studio"
                                                          ],
                                                   "pl":  [
-                                                             "Instalacja dodaje skrót Zenfika na pulpit, a odinstalowanie go usuwa"
+                                                             "Nowa strona Podgląd: wybierz dowolne okno i oglądaj je na żywo w Zenfiku",
+                                                             "Mini okienko: notch zamienia się w małe okno na żywo, idealne na film albo stream",
+                                                             "Odinstalowanie nie pokazuje już okna wiersza poleceń",
+                                                             "Wydawca jest teraz pokazywany jako Zenfy Studio"
                                                          ],
                                                   "es":  [
-                                                             "La instalación añade un acceso directo de Zenfik al escritorio y la desinstalación lo quita"
+                                                             "Nueva página Pantalla: elige cualquier ventana y mírala en vivo en Zenfik",
+                                                             "Mini ventana: el notch se convierte en una pequeña ventana en vivo, ideal para una película o un stream",
+                                                             "Al desinstalar ya no aparece una ventana de comandos",
+                                                             "El editor ahora aparece como Zenfy Studio"
                                                          ],
                                                   "de":  [
-                                                             "Die Installation legt eine Zenfik-Verknüpfung auf dem Desktop an, die Deinstallation entfernt sie wieder"
+                                                             "Neue Bildschirm-Seite: ein beliebiges Fenster wählen und live in Zenfik ansehen",
+                                                             "Mini-Fenster: Die Notch wird zu einem kleinen Live-Fenster, ideal für Filme oder Streams",
+                                                             "Beim Deinstallieren blinkt kein Befehlsfenster mehr auf",
+                                                             "Als Herausgeber wird jetzt Zenfy Studio angezeigt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.8-1.1.2/Zenfik-Setup.exe",
-                                  "version":  "1.1.8",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.1.9-1.2.0/Zenfik-Setup.exe",
+                                  "version":  "1.1.9",
                                   "notes":  {
                                                 "en":  [
-                                                           "Installing adds a Zenfik shortcut to your desktop, and uninstalling removes it again"
+                                                           "New Screen page: pick any window and watch it live in Zenfik",
+                                                           "Mini window: the notch turns into a small live window, perfect for a movie or a stream",
+                                                           "Uninstalling no longer flashes a command window",
+                                                           "Publisher is now shown as Zenfy Studio"
                                                        ],
                                                 "pl":  [
-                                                           "Instalacja dodaje skrót Zenfika na pulpit, a odinstalowanie go usuwa"
+                                                           "Nowa strona Podgląd: wybierz dowolne okno i oglądaj je na żywo w Zenfiku",
+                                                           "Mini okienko: notch zamienia się w małe okno na żywo, idealne na film albo stream",
+                                                           "Odinstalowanie nie pokazuje już okna wiersza poleceń",
+                                                           "Wydawca jest teraz pokazywany jako Zenfy Studio"
                                                        ],
                                                 "es":  [
-                                                           "La instalación añade un acceso directo de Zenfik al escritorio y la desinstalación lo quita"
+                                                           "Nueva página Pantalla: elige cualquier ventana y mírala en vivo en Zenfik",
+                                                           "Mini ventana: el notch se convierte en una pequeña ventana en vivo, ideal para una película o un stream",
+                                                           "Al desinstalar ya no aparece una ventana de comandos",
+                                                           "El editor ahora aparece como Zenfy Studio"
                                                        ],
                                                 "de":  [
-                                                           "Die Installation legt eine Zenfik-Verknüpfung auf dem Desktop an, die Deinstallation entfernt sie wieder"
+                                                           "Neue Bildschirm-Seite: ein beliebiges Fenster wählen und live in Zenfik ansehen",
+                                                           "Mini-Fenster: Die Notch wird zu einem kleinen Live-Fenster, ideal für Filme oder Streams",
+                                                           "Beim Deinstallieren blinkt kein Befehlsfenster mehr auf",
+                                                           "Als Herausgeber wird jetzt Zenfy Studio angezeigt"
                                                        ]
                                             }
                               }
