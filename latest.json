@@ -1,140 +1,92 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/Zenfik-Setup.exe",
-                                    "version":  "1.0.2",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/Zenfik-Setup.exe",
+                                    "version":  "1.0.3",
                                     "notes":  {
                                                   "en":  [
-                                                             "Lyrics light up and scroll smoothly like in Spotify",
-                                                             "Pick a reminder time for every to-do",
-                                                             "Paste links straight into the shelf",
-                                                             "A new, friendly uninstall screen",
-                                                             "The lyrics button also hides lyrics in the small notch"
+                                                             "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
+                                                             "Cleaner update window with softer corners"
                                                          ],
                                                   "pl":  [
-                                                             "Tekst piosenki rozświetla się i płynnie przewija jak w Spotify",
-                                                             "Ustawianie godziny przypomnienia przy każdym zadaniu",
-                                                             "Wklejanie linków prosto na półkę",
-                                                             "Nowy, przyjazny ekran odinstalowania",
-                                                             "Przycisk tekstu ukrywa też tekst w małym notchu"
+                                                             "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
+                                                             "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
                                                          ],
                                                   "es":  [
-                                                             "La letra se ilumina y se desplaza suavemente como en Spotify",
-                                                             "Elige la hora del recordatorio de cada tarea",
-                                                             "Pega enlaces directamente en el estante",
-                                                             "Una nueva pantalla de desinstalación",
-                                                             "El botón de letra también la oculta en el notch pequeño"
+                                                             "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
+                                                             "Ventana de actualización más limpia"
                                                          ],
                                                   "de":  [
-                                                             "Songtexte leuchten auf und scrollen weich wie bei Spotify",
-                                                             "Erinnerungszeit für jede Aufgabe wählen",
-                                                             "Links direkt in die Ablage einfügen",
-                                                             "Ein neuer, freundlicher Deinstallationsbildschirm",
-                                                             "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
+                                                             "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
+                                                             "Aufgeräumteres Update-Fenster"
                                                          ]
                                               }
                                 },
                    "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/zenfik.exe",
-                                  "version":  "1.0.2",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/zenfik.exe",
+                                  "version":  "1.0.3",
                                   "notes":  {
                                                 "en":  [
-                                                           "Lyrics light up and scroll smoothly like in Spotify",
-                                                           "Pick a reminder time for every to-do",
-                                                           "Paste links straight into the shelf",
-                                                           "A new, friendly uninstall screen",
-                                                           "The lyrics button also hides lyrics in the small notch"
+                                                           "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
+                                                           "Cleaner update window with softer corners"
                                                        ],
                                                 "pl":  [
-                                                           "Tekst piosenki rozświetla się i płynnie przewija jak w Spotify",
-                                                           "Ustawianie godziny przypomnienia przy każdym zadaniu",
-                                                           "Wklejanie linków prosto na półkę",
-                                                           "Nowy, przyjazny ekran odinstalowania",
-                                                           "Przycisk tekstu ukrywa też tekst w małym notchu"
+                                                           "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
+                                                           "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
                                                        ],
                                                 "es":  [
-                                                           "La letra se ilumina y se desplaza suavemente como en Spotify",
-                                                           "Elige la hora del recordatorio de cada tarea",
-                                                           "Pega enlaces directamente en el estante",
-                                                           "Una nueva pantalla de desinstalación",
-                                                           "El botón de letra también la oculta en el notch pequeño"
+                                                           "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
+                                                           "Ventana de actualización más limpia"
                                                        ],
                                                 "de":  [
-                                                           "Songtexte leuchten auf und scrollen weich wie bei Spotify",
-                                                           "Erinnerungszeit für jede Aufgabe wählen",
-                                                           "Links direkt in die Ablage einfügen",
-                                                           "Ein neuer, freundlicher Deinstallationsbildschirm",
-                                                           "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
+                                                           "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
+                                                           "Aufgeräumteres Update-Fenster"
                                                        ]
                                             }
                               }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/Zenfik-Setup.exe",
-                                  "version":  "1.0.2",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/Zenfik-Setup.exe",
+                                  "version":  "1.0.3",
                                   "notes":  {
                                                 "en":  [
-                                                           "Lyrics light up and scroll smoothly like in Spotify",
-                                                           "Pick a reminder time for every to-do",
-                                                           "Paste links straight into the shelf",
-                                                           "A new, friendly uninstall screen",
-                                                           "The lyrics button also hides lyrics in the small notch"
+                                                           "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
+                                                           "Cleaner update window with softer corners"
                                                        ],
                                                 "pl":  [
-                                                           "Tekst piosenki rozświetla się i płynnie przewija jak w Spotify",
-                                                           "Ustawianie godziny przypomnienia przy każdym zadaniu",
-                                                           "Wklejanie linków prosto na półkę",
-                                                           "Nowy, przyjazny ekran odinstalowania",
-                                                           "Przycisk tekstu ukrywa też tekst w małym notchu"
+                                                           "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
+                                                           "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
                                                        ],
                                                 "es":  [
-                                                           "La letra se ilumina y se desplaza suavemente como en Spotify",
-                                                           "Elige la hora del recordatorio de cada tarea",
-                                                           "Pega enlaces directamente en el estante",
-                                                           "Una nueva pantalla de desinstalación",
-                                                           "El botón de letra también la oculta en el notch pequeño"
+                                                           "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
+                                                           "Ventana de actualización más limpia"
                                                        ],
                                                 "de":  [
-                                                           "Songtexte leuchten auf und scrollen weich wie bei Spotify",
-                                                           "Erinnerungszeit für jede Aufgabe wählen",
-                                                           "Links direkt in die Ablage einfügen",
-                                                           "Ein neuer, freundlicher Deinstallationsbildschirm",
-                                                           "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
+                                                           "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
+                                                           "Aufgeräumteres Update-Fenster"
                                                        ]
                                             }
                               },
                  "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.2-1.0.2/zenfik.exe",
-                                "version":  "1.0.2",
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.3-1.0.3/zenfik.exe",
+                                "version":  "1.0.3",
                                 "notes":  {
                                               "en":  [
-                                                         "Lyrics light up and scroll smoothly like in Spotify",
-                                                         "Pick a reminder time for every to-do",
-                                                         "Paste links straight into the shelf",
-                                                         "A new, friendly uninstall screen",
-                                                         "The lyrics button also hides lyrics in the small notch"
+                                                         "Type your own reminder time for to-dos (e.g. 1830 or 18:30)",
+                                                         "Cleaner update window with softer corners"
                                                      ],
                                               "pl":  [
-                                                         "Tekst piosenki rozświetla się i płynnie przewija jak w Spotify",
-                                                         "Ustawianie godziny przypomnienia przy każdym zadaniu",
-                                                         "Wklejanie linków prosto na półkę",
-                                                         "Nowy, przyjazny ekran odinstalowania",
-                                                         "Przycisk tekstu ukrywa też tekst w małym notchu"
+                                                         "Wpisz własną godzinę przypomnienia w zadaniach (np. 1830 albo 18:30)",
+                                                         "Ładniejsze okienko aktualizacji z mniejszymi zaokrągleniami"
                                                      ],
                                               "es":  [
-                                                         "La letra se ilumina y se desplaza suavemente como en Spotify",
-                                                         "Elige la hora del recordatorio de cada tarea",
-                                                         "Pega enlaces directamente en el estante",
-                                                         "Una nueva pantalla de desinstalación",
-                                                         "El botón de letra también la oculta en el notch pequeño"
+                                                         "Escribe tu propia hora de recordatorio en las tareas (ej. 1830 o 18:30)",
+                                                         "Ventana de actualización más limpia"
                                                      ],
                                               "de":  [
-                                                         "Songtexte leuchten auf und scrollen weich wie bei Spotify",
-                                                         "Erinnerungszeit für jede Aufgabe wählen",
-                                                         "Links direkt in die Ablage einfügen",
-                                                         "Ein neuer, freundlicher Deinstallationsbildschirm",
-                                                         "Der Songtext-Knopf blendet ihn auch in der kleinen Notch aus"
+                                                         "Eigene Erinnerungszeit für Aufgaben eintippen (z. B. 1830 oder 18:30)",
+                                                         "Aufgeräumteres Update-Fenster"
                                                      ]
                                           }
                             }
