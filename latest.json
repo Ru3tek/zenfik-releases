@@ -1,48 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.4-1.4.6/Zenfik-Setup.exe",
-                                    "version":  "1.3.4",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.5-1.4.7/Zenfik-Setup.exe",
+                                    "version":  "1.3.5",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass is now visible in screenshots, recordings and streams (Steam, Discord, OBS)",
-                                                             "It also works on PCs where it used to turn into colorful noise"
+                                                             "Liquid Glass fixes: no more black band at the top, clean edges after opening the notch and a background that keeps up while you move the mouse"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass jest teraz widoczne na zrzutach ekranu, nagraniach i streamach (Steam, Discord, OBS)",
-                                                             "Działa też na komputerach, na których wcześniej zamieniało się w kolorowy szum"
+                                                             "Poprawki Liquid Glass: bez czarnego pasa u góry, czyste krawędzie po rozwinięciu notcha i tło, które nadąża przy ruchu myszką"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass ahora se ve en capturas, grabaciones y streams (Steam, Discord, OBS)",
-                                                             "También funciona en los PC donde antes se convertía en ruido de colores"
+                                                             "Arreglos de Liquid Glass: sin franja negra arriba, bordes limpios al abrir el notch y un fondo que acompaña al mover el ratón"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass ist jetzt auf Screenshots, Aufnahmen und Streams sichtbar (Steam, Discord, OBS)",
-                                                             "Es funktioniert auch auf PCs, auf denen es vorher zu buntem Rauschen wurde"
+                                                             "Liquid-Glass-Korrekturen: kein schwarzer Streifen oben, saubere Kanten nach dem Öffnen der Notch und ein Hintergrund, der bei Mausbewegung mithält"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.4-1.4.6/Zenfik-Setup.exe",
-                                  "version":  "1.3.4",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.5-1.4.7/Zenfik-Setup.exe",
+                                  "version":  "1.3.5",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass is now visible in screenshots, recordings and streams (Steam, Discord, OBS)",
-                                                           "It also works on PCs where it used to turn into colorful noise"
+                                                           "Liquid Glass fixes: no more black band at the top, clean edges after opening the notch and a background that keeps up while you move the mouse"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass jest teraz widoczne na zrzutach ekranu, nagraniach i streamach (Steam, Discord, OBS)",
-                                                           "Działa też na komputerach, na których wcześniej zamieniało się w kolorowy szum"
+                                                           "Poprawki Liquid Glass: bez czarnego pasa u góry, czyste krawędzie po rozwinięciu notcha i tło, które nadąża przy ruchu myszką"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass ahora se ve en capturas, grabaciones y streams (Steam, Discord, OBS)",
-                                                           "También funciona en los PC donde antes se convertía en ruido de colores"
+                                                           "Arreglos de Liquid Glass: sin franja negra arriba, bordes limpios al abrir el notch y un fondo que acompaña al mover el ratón"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass ist jetzt auf Screenshots, Aufnahmen und Streams sichtbar (Steam, Discord, OBS)",
-                                                           "Es funktioniert auch auf PCs, auf denen es vorher zu buntem Rauschen wurde"
+                                                           "Liquid-Glass-Korrekturen: kein schwarzer Streifen oben, saubere Kanten nach dem Öffnen der Notch und ein Hintergrund, der bei Mausbewegung mithält"
                                                        ]
                                             }
                               }
