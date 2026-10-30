@@ -1,48 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.4-1.3.4/Zenfik-Setup.exe",
-                                    "version":  "1.2.4",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.5-1.3.5/Zenfik-Setup.exe",
+                                    "version":  "1.2.5",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass rebuilt: the blur now stays inside the notch with a clean frame, no more big grey box or patches",
-                                                             "Transparent background has no black at all, the color from the bottom stays when the glow is on"
+                                                             "Removed the dark frame around Liquid Glass"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass od nowa: rozmycie siedzi w notchu w czystej ramce, bez wielkiego szarego prostokąta i plam",
-                                                             "Tło Przezroczyste nie ma już czarnego, kolor od dołu zostaje przy włączonej poświacie"
+                                                             "Usunięto ciemną ramkę wokół Liquid Glass"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass rehecho: el desenfoque queda dentro del notch con un marco limpio, sin el gran recuadro gris ni manchas",
-                                                             "El fondo Transparente ya no tiene negro, el color de abajo se mantiene con el brillo activado"
+                                                             "Quitado el marco oscuro alrededor de Liquid Glass"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass neu gebaut: die Unschärfe bleibt in der Notch mit sauberem Rahmen, kein großes graues Feld und keine Flecken mehr",
-                                                             "Der transparente Hintergrund hat kein Schwarz mehr, die Farbe von unten bleibt bei aktivem Leuchten"
+                                                             "Dunkler Rahmen um Liquid Glass entfernt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.4-1.3.4/Zenfik-Setup.exe",
-                                  "version":  "1.2.4",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.2.5-1.3.5/Zenfik-Setup.exe",
+                                  "version":  "1.2.5",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass rebuilt: the blur now stays inside the notch with a clean frame, no more big grey box or patches",
-                                                           "Transparent background has no black at all, the color from the bottom stays when the glow is on"
+                                                           "Removed the dark frame around Liquid Glass"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass od nowa: rozmycie siedzi w notchu w czystej ramce, bez wielkiego szarego prostokąta i plam",
-                                                           "Tło Przezroczyste nie ma już czarnego, kolor od dołu zostaje przy włączonej poświacie"
+                                                           "Usunięto ciemną ramkę wokół Liquid Glass"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass rehecho: el desenfoque queda dentro del notch con un marco limpio, sin el gran recuadro gris ni manchas",
-                                                           "El fondo Transparente ya no tiene negro, el color de abajo se mantiene con el brillo activado"
+                                                           "Quitado el marco oscuro alrededor de Liquid Glass"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass neu gebaut: die Unschärfe bleibt in der Notch mit sauberem Rahmen, kein großes graues Feld und keine Flecken mehr",
-                                                           "Der transparente Hintergrund hat kein Schwarz mehr, die Farbe von unten bleibt bei aktivem Leuchten"
+                                                           "Dunkler Rahmen um Liquid Glass entfernt"
                                                        ]
                                             }
                               }
