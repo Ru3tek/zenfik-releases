@@ -1,108 +1,76 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/Zenfik-Setup.exe",
-                                    "version":  "1.0.4",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/Zenfik-Setup.exe",
+                                    "version":  "1.0.5",
                                     "notes":  {
                                                   "en":  [
-                                                             "While charging, the notch keeps showing charging with the battery level",
-                                                             "Battery level next to the clock when the notch is open",
-                                                             "The status and clock notch fit their content, no more empty space"
+                                                             "Notifications in the launcher always slide up smoothly from the bottom center"
                                                          ],
                                                   "pl":  [
-                                                             "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
-                                                             "Poziom baterii obok godziny po rozwinięciu notcha",
-                                                             "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
+                                                             "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
                                                          ],
                                                   "es":  [
-                                                             "Mientras carga, el notch muestra la carga y el nivel de batería",
-                                                             "Nivel de batería junto a la hora con el notch abierto",
-                                                             "El notch de estado y reloj se ajusta a su contenido"
+                                                             "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
                                                          ],
                                                   "de":  [
-                                                             "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
-                                                             "Akkustand neben der Uhrzeit bei geöffneter Notch",
-                                                             "Status- und Uhr-Notch passen sich dem Inhalt an"
+                                                             "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
                                                          ]
                                               }
                                 },
                    "zenfik":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/zenfik.exe",
-                                  "version":  "1.0.4",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/zenfik.exe",
+                                  "version":  "1.0.5",
                                   "notes":  {
                                                 "en":  [
-                                                           "While charging, the notch keeps showing charging with the battery level",
-                                                           "Battery level next to the clock when the notch is open",
-                                                           "The status and clock notch fit their content, no more empty space"
+                                                           "Notifications in the launcher always slide up smoothly from the bottom center"
                                                        ],
                                                 "pl":  [
-                                                           "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
-                                                           "Poziom baterii obok godziny po rozwinięciu notcha",
-                                                           "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
+                                                           "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
                                                        ],
                                                 "es":  [
-                                                           "Mientras carga, el notch muestra la carga y el nivel de batería",
-                                                           "Nivel de batería junto a la hora con el notch abierto",
-                                                           "El notch de estado y reloj se ajusta a su contenido"
+                                                           "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
                                                        ],
                                                 "de":  [
-                                                           "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
-                                                           "Akkustand neben der Uhrzeit bei geöffneter Notch",
-                                                           "Status- und Uhr-Notch passen sich dem Inhalt an"
+                                                           "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
                                                        ]
                                             }
                               }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/Zenfik-Setup.exe",
-                                  "version":  "1.0.4",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/Zenfik-Setup.exe",
+                                  "version":  "1.0.5",
                                   "notes":  {
                                                 "en":  [
-                                                           "While charging, the notch keeps showing charging with the battery level",
-                                                           "Battery level next to the clock when the notch is open",
-                                                           "The status and clock notch fit their content, no more empty space"
+                                                           "Notifications in the launcher always slide up smoothly from the bottom center"
                                                        ],
                                                 "pl":  [
-                                                           "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
-                                                           "Poziom baterii obok godziny po rozwinięciu notcha",
-                                                           "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
+                                                           "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
                                                        ],
                                                 "es":  [
-                                                           "Mientras carga, el notch muestra la carga y el nivel de batería",
-                                                           "Nivel de batería junto a la hora con el notch abierto",
-                                                           "El notch de estado y reloj se ajusta a su contenido"
+                                                           "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
                                                        ],
                                                 "de":  [
-                                                           "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
-                                                           "Akkustand neben der Uhrzeit bei geöffneter Notch",
-                                                           "Status- und Uhr-Notch passen sich dem Inhalt an"
+                                                           "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
                                                        ]
                                             }
                               },
                  "zenfik":  {
-                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.4-1.0.4/zenfik.exe",
-                                "version":  "1.0.4",
+                                "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.0.5-1.0.5/zenfik.exe",
+                                "version":  "1.0.5",
                                 "notes":  {
                                               "en":  [
-                                                         "While charging, the notch keeps showing charging with the battery level",
-                                                         "Battery level next to the clock when the notch is open",
-                                                         "The status and clock notch fit their content, no more empty space"
+                                                         "Notifications in the launcher always slide up smoothly from the bottom center"
                                                      ],
                                               "pl":  [
-                                                         "Podczas ładowania notch cały czas pokazuje ładowanie i poziom baterii",
-                                                         "Poziom baterii obok godziny po rozwinięciu notcha",
-                                                         "Notch w trybie statusu i zegara dopasowuje się do zawartości, bez pustego miejsca"
+                                                         "Powiadomienia w launcherze zawsze płynnie wysuwają się od dołu na środku"
                                                      ],
                                               "es":  [
-                                                         "Mientras carga, el notch muestra la carga y el nivel de batería",
-                                                         "Nivel de batería junto a la hora con el notch abierto",
-                                                         "El notch de estado y reloj se ajusta a su contenido"
+                                                         "Las notificaciones del launcher siempre aparecen suavemente desde abajo en el centro"
                                                      ],
                                               "de":  [
-                                                         "Beim Laden zeigt die Notch dauerhaft Laden und Akkustand",
-                                                         "Akkustand neben der Uhrzeit bei geöffneter Notch",
-                                                         "Status- und Uhr-Notch passen sich dem Inhalt an"
+                                                         "Hinweise im Launcher gleiten immer weich unten in der Mitte herein"
                                                      ]
                                           }
                             }
