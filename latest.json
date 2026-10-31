@@ -1,40 +1,56 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.9-1.5.0/Zenfik-Setup.exe",
-                                    "version":  "1.3.9",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.0-1.5.1/Zenfik-Setup.exe",
+                                    "version":  "1.4.0",
                                     "notes":  {
                                                   "en":  [
-                                                             "New launcher look matching the Zenfik website: sharp lines, a pink accent, the same fonts and a calmer, minimal layout"
+                                                             "Phone charging in the notch: plug your phone in by USB (file transfer mode) and Zenfik shows its name and battery %",
+                                                             "Bluetooth headphones, mice and other devices show their battery when they connect and warn you when it drops below 15%",
+                                                             "New Device battery switch in the launcher (Notifications section)"
                                                          ],
                                                   "pl":  [
-                                                             "Nowy wygląd launchera jak na stronie Zenfika: ostre linie, różowy akcent, te same fonty i spokojny, minimalistyczny układ"
+                                                             "Ładowanie telefonu w notchu: podłącz telefon przez USB (tryb przesyłania plików), a Zenfik pokaże jego nazwę i % baterii",
+                                                             "Słuchawki, myszki i inne urządzenia Bluetooth pokazują baterię po połączeniu i ostrzegają, gdy spadnie poniżej 15%",
+                                                             "Nowy przełącznik Bateria urządzeń w launcherze (sekcja Powiadomienia)"
                                                          ],
                                                   "es":  [
-                                                             "Nuevo aspecto del launcher como la web de Zenfik: líneas rectas, acento rosa, las mismas fuentes y un diseño minimalista"
+                                                             "Carga del móvil en el notch: conecta el móvil por USB (modo transferencia de archivos) y Zenfik muestra su nombre y % de batería",
+                                                             "Auriculares, ratones y otros dispositivos Bluetooth muestran su batería al conectarse y avisan cuando baja del 15%",
+                                                             "Nuevo interruptor Batería de dispositivos en el launcher (sección Notificaciones)"
                                                          ],
                                                   "de":  [
-                                                             "Neuer Launcher-Look wie die Zenfik-Website: klare Linien, pinker Akzent, dieselben Schriften und ein ruhiges, minimales Layout"
+                                                             "Handy-Laden in der Notch: Handy per USB anschließen (Dateiübertragung) und Zenfik zeigt Name und Akku-%",
+                                                             "Bluetooth-Kopfhörer, -Mäuse und andere Geräte zeigen beim Verbinden ihren Akku und warnen unter 15%",
+                                                             "Neuer Schalter Geräte-Akku im Launcher (Bereich Mitteilungen)"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.9-1.5.0/Zenfik-Setup.exe",
-                                  "version":  "1.3.9",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.0-1.5.1/Zenfik-Setup.exe",
+                                  "version":  "1.4.0",
                                   "notes":  {
                                                 "en":  [
-                                                           "New launcher look matching the Zenfik website: sharp lines, a pink accent, the same fonts and a calmer, minimal layout"
+                                                           "Phone charging in the notch: plug your phone in by USB (file transfer mode) and Zenfik shows its name and battery %",
+                                                           "Bluetooth headphones, mice and other devices show their battery when they connect and warn you when it drops below 15%",
+                                                           "New Device battery switch in the launcher (Notifications section)"
                                                        ],
                                                 "pl":  [
-                                                           "Nowy wygląd launchera jak na stronie Zenfika: ostre linie, różowy akcent, te same fonty i spokojny, minimalistyczny układ"
+                                                           "Ładowanie telefonu w notchu: podłącz telefon przez USB (tryb przesyłania plików), a Zenfik pokaże jego nazwę i % baterii",
+                                                           "Słuchawki, myszki i inne urządzenia Bluetooth pokazują baterię po połączeniu i ostrzegają, gdy spadnie poniżej 15%",
+                                                           "Nowy przełącznik Bateria urządzeń w launcherze (sekcja Powiadomienia)"
                                                        ],
                                                 "es":  [
-                                                           "Nuevo aspecto del launcher como la web de Zenfik: líneas rectas, acento rosa, las mismas fuentes y un diseño minimalista"
+                                                           "Carga del móvil en el notch: conecta el móvil por USB (modo transferencia de archivos) y Zenfik muestra su nombre y % de batería",
+                                                           "Auriculares, ratones y otros dispositivos Bluetooth muestran su batería al conectarse y avisan cuando baja del 15%",
+                                                           "Nuevo interruptor Batería de dispositivos en el launcher (sección Notificaciones)"
                                                        ],
                                                 "de":  [
-                                                           "Neuer Launcher-Look wie die Zenfik-Website: klare Linien, pinker Akzent, dieselben Schriften und ein ruhiges, minimales Layout"
+                                                           "Handy-Laden in der Notch: Handy per USB anschließen (Dateiübertragung) und Zenfik zeigt Name und Akku-%",
+                                                           "Bluetooth-Kopfhörer, -Mäuse und andere Geräte zeigen beim Verbinden ihren Akku und warnen unter 15%",
+                                                           "Neuer Schalter Geräte-Akku im Launcher (Bereich Mitteilungen)"
                                                        ]
                                             }
                               }
