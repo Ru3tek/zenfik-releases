@@ -1,40 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.9-1.5.9/Zenfik-Setup.exe",
-                                    "version":  "1.4.9",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.10-1.5.10/Zenfik-Setup.exe",
+                                    "version":  "1.4.10",
                                     "notes":  {
                                                   "en":  [
-                                                             "Liquid Glass now keeps the screen edge flat when Zenfik sticks to the bottom or a side. The light rim and rounding only stay on the free sides"
+                                                             "Grab the desktop Zenfik with your cursor: he dangles, kicks and waves his arms. Throw him and he spins through the air, bounces off the screen edges and lands dizzy with stars around his head",
+                                                             "After landing he is either angry (red, steaming and stomping) or happy (jumping with stars)",
+                                                             "New things to do when your cursor rests: he sits down and swings his legs, waves at you, goes for a walk, or pulls out a sombrero, puts it on and walks around in it for a while",
+                                                             "He now stops next to your cursor instead of under it, so he never blocks what you click"
                                                          ],
                                                   "pl":  [
-                                                             "Liquid Glass trzyma teraz płaską krawędź przy ekranie, gdy Zenfik jest przyklejony do dołu albo boku. Świetlny obrys i zaokrąglenie zostają tylko po wolnych stronach"
+                                                             "Złap Zenfika na pulpicie kursorem: wisi, macha nogami i rękami. Rzuć nim, a kręci się w powietrzu, odbija od krawędzi ekranu i ląduje oszołomiony z gwiazdkami nad głową",
+                                                             "Po wylądowaniu jest albo zły (czerwony, paruje i tupie), albo się cieszy (skacze z gwiazdkami)",
+                                                             "Nowe zajęcia, gdy kursor stoi: siada i macha nóżkami, macha do Ciebie ręką, idzie na spacer albo wyciąga sombrero, zakłada je i przez chwilę w nim chodzi",
+                                                             "Zatrzymuje się teraz obok kursora, a nie pod nim, więc nie zasłania tego, co klikasz"
                                                          ],
                                                   "es":  [
-                                                             "Liquid Glass mantiene ahora plano el borde de la pantalla cuando Zenfik está pegado abajo o a un lado. El borde de luz y el redondeo quedan solo en los lados libres"
+                                                             "Agarra al Zenfik del escritorio con el cursor: cuelga, patalea y agita los brazos. Lánzalo y girará en el aire, rebotará en los bordes y aterrizará mareado con estrellas sobre la cabeza",
+                                                             "Al aterrizar se enfada (rojo, echando vapor y pataleando) o se alegra (salta con estrellas)",
+                                                             "Más cosas cuando el cursor está quieto: se sienta y balancea las piernas, te saluda, da un paseo o saca un sombrero, se lo pone y pasea con él",
+                                                             "Ahora se para junto al cursor y no debajo, así nunca tapa lo que pulsas"
                                                          ],
                                                   "de":  [
-                                                             "Liquid Glass hält jetzt die Bildschirmkante flach, wenn Zenfik unten oder seitlich haftet. Lichtrand und Rundung bleiben nur an den freien Seiten"
+                                                             "Schnapp dir den Desktop-Zenfik mit dem Cursor: er baumelt, strampelt und fuchtelt. Wirf ihn, dann dreht er sich durch die Luft, prallt an den Rändern ab und landet benommen mit Sternen über dem Kopf",
+                                                             "Nach der Landung ist er entweder sauer (rot, dampfend und stampfend) oder froh (hüpft mit Sternen)",
+                                                             "Neues, wenn der Cursor ruht: er setzt sich und baumelt mit den Beinen, winkt dir, geht spazieren oder holt einen Sombrero heraus, setzt ihn auf und läuft eine Weile damit herum",
+                                                             "Er bleibt jetzt neben dem Cursor statt darunter stehen und verdeckt nie, was du anklickst"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.9-1.5.9/Zenfik-Setup.exe",
-                                  "version":  "1.4.9",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.10-1.5.10/Zenfik-Setup.exe",
+                                  "version":  "1.4.10",
                                   "notes":  {
                                                 "en":  [
-                                                           "Liquid Glass now keeps the screen edge flat when Zenfik sticks to the bottom or a side. The light rim and rounding only stay on the free sides"
+                                                           "Grab the desktop Zenfik with your cursor: he dangles, kicks and waves his arms. Throw him and he spins through the air, bounces off the screen edges and lands dizzy with stars around his head",
+                                                           "After landing he is either angry (red, steaming and stomping) or happy (jumping with stars)",
+                                                           "New things to do when your cursor rests: he sits down and swings his legs, waves at you, goes for a walk, or pulls out a sombrero, puts it on and walks around in it for a while",
+                                                           "He now stops next to your cursor instead of under it, so he never blocks what you click"
                                                        ],
                                                 "pl":  [
-                                                           "Liquid Glass trzyma teraz płaską krawędź przy ekranie, gdy Zenfik jest przyklejony do dołu albo boku. Świetlny obrys i zaokrąglenie zostają tylko po wolnych stronach"
+                                                           "Złap Zenfika na pulpicie kursorem: wisi, macha nogami i rękami. Rzuć nim, a kręci się w powietrzu, odbija od krawędzi ekranu i ląduje oszołomiony z gwiazdkami nad głową",
+                                                           "Po wylądowaniu jest albo zły (czerwony, paruje i tupie), albo się cieszy (skacze z gwiazdkami)",
+                                                           "Nowe zajęcia, gdy kursor stoi: siada i macha nóżkami, macha do Ciebie ręką, idzie na spacer albo wyciąga sombrero, zakłada je i przez chwilę w nim chodzi",
+                                                           "Zatrzymuje się teraz obok kursora, a nie pod nim, więc nie zasłania tego, co klikasz"
                                                        ],
                                                 "es":  [
-                                                           "Liquid Glass mantiene ahora plano el borde de la pantalla cuando Zenfik está pegado abajo o a un lado. El borde de luz y el redondeo quedan solo en los lados libres"
+                                                           "Agarra al Zenfik del escritorio con el cursor: cuelga, patalea y agita los brazos. Lánzalo y girará en el aire, rebotará en los bordes y aterrizará mareado con estrellas sobre la cabeza",
+                                                           "Al aterrizar se enfada (rojo, echando vapor y pataleando) o se alegra (salta con estrellas)",
+                                                           "Más cosas cuando el cursor está quieto: se sienta y balancea las piernas, te saluda, da un paseo o saca un sombrero, se lo pone y pasea con él",
+                                                           "Ahora se para junto al cursor y no debajo, así nunca tapa lo que pulsas"
                                                        ],
                                                 "de":  [
-                                                           "Liquid Glass hält jetzt die Bildschirmkante flach, wenn Zenfik unten oder seitlich haftet. Lichtrand und Rundung bleiben nur an den freien Seiten"
+                                                           "Schnapp dir den Desktop-Zenfik mit dem Cursor: er baumelt, strampelt und fuchtelt. Wirf ihn, dann dreht er sich durch die Luft, prallt an den Rändern ab und landet benommen mit Sternen über dem Kopf",
+                                                           "Nach der Landung ist er entweder sauer (rot, dampfend und stampfend) oder froh (hüpft mit Sternen)",
+                                                           "Neues, wenn der Cursor ruht: er setzt sich und baumelt mit den Beinen, winkt dir, geht spazieren oder holt einen Sombrero heraus, setzt ihn auf und läuft eine Weile damit herum",
+                                                           "Er bleibt jetzt neben dem Cursor statt darunter stehen und verdeckt nie, was du anklickst"
                                                        ]
                                             }
                               }
