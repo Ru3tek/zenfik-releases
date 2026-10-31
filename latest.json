@@ -1,58 +1,50 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.15-1.5.15/Zenfik-Setup.exe",
-                                    "version":  "1.4.15",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.16-1.5.16/Zenfik-Setup.exe",
+                                    "version":  "1.4.16",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Zenfik now has an icon in the system tray next to the clock. Click it to open the launcher",
-                                                             "Right-click the icon and choose Quit Zenfik to turn everything off at once: launcher, notch, desktop widgets and the desktop buddy",
-                                                             "The secret blue option now lives only in launcher.json (\"smerf\" at the top). The extra config.json files are gone"
+                                                             "Updates are simpler now: important fixes install by themselves in the background, while new features and regular improvements come with the normal update window",
+                                                             "The Silent updates switch is gone, there is nothing to set"
                                                          ],
                                                   "pl":  [
-                                                             "Zenfik ma teraz ikonę w zasobniku obok zegara. Kliknij ją, aby otworzyć launcher",
-                                                             "Prawy klik na ikonie i Zamknij Zenfika wyłącza wszystko naraz: launcher, notch, widżety na pulpicie i zwierzaka",
-                                                             "Tajna niebieska opcja jest teraz tylko w launcher.json (\"smerf\" na samej górze). Dodatkowe pliki config.json zniknęły"
+                                                             "Prostsze aktualizacje: ważne poprawki instalują się same w tle, a nowe funkcje i zwykłe ulepszenia przychodzą przez normalne okienko aktualizacji",
+                                                             "Przełącznik Ciche aktualizacje zniknął, nie trzeba nic ustawiać"
                                                          ],
                                                   "es":  [
-                                                             "Zenfik tiene ahora un icono en la bandeja del sistema junto al reloj. Haz clic para abrir el launcher",
-                                                             "Clic derecho en el icono y Salir de Zenfik lo apaga todo a la vez: launcher, notch, widgets y la mascota",
-                                                             "La opción azul secreta ahora está solo en launcher.json (\"smerf\" arriba del todo). Los config.json extra ya no existen"
+                                                             "Actualizaciones más simples: las correcciones importantes se instalan solas en segundo plano y las novedades y mejoras llegan con la ventana normal",
+                                                             "El interruptor de Actualizaciones silenciosas ya no existe, no hay nada que configurar"
                                                          ],
                                                   "de":  [
-                                                             "Zenfik hat jetzt ein Symbol im Infobereich neben der Uhr. Klick darauf öffnet den Launcher",
-                                                             "Rechtsklick auf das Symbol und Zenfik beenden schaltet alles auf einmal aus: Launcher, Notch, Desktop-Widgets und den Freund",
-                                                             "Die geheime blaue Option steckt jetzt nur noch in launcher.json (\"smerf\" ganz oben). Die zusätzlichen config.json sind weg"
+                                                             "Einfachere Updates: wichtige Korrekturen installieren sich selbst im Hintergrund, Neuerungen und normale Verbesserungen kommen mit dem gewohnten Update-Fenster",
+                                                             "Der Schalter Stille Updates ist weg, es gibt nichts einzustellen"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.15-1.5.15/Zenfik-Setup.exe",
-                                  "version":  "1.4.15",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.16-1.5.16/Zenfik-Setup.exe",
+                                  "version":  "1.4.16",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Zenfik now has an icon in the system tray next to the clock. Click it to open the launcher",
-                                                           "Right-click the icon and choose Quit Zenfik to turn everything off at once: launcher, notch, desktop widgets and the desktop buddy",
-                                                           "The secret blue option now lives only in launcher.json (\"smerf\" at the top). The extra config.json files are gone"
+                                                           "Updates are simpler now: important fixes install by themselves in the background, while new features and regular improvements come with the normal update window",
+                                                           "The Silent updates switch is gone, there is nothing to set"
                                                        ],
                                                 "pl":  [
-                                                           "Zenfik ma teraz ikonę w zasobniku obok zegara. Kliknij ją, aby otworzyć launcher",
-                                                           "Prawy klik na ikonie i Zamknij Zenfika wyłącza wszystko naraz: launcher, notch, widżety na pulpicie i zwierzaka",
-                                                           "Tajna niebieska opcja jest teraz tylko w launcher.json (\"smerf\" na samej górze). Dodatkowe pliki config.json zniknęły"
+                                                           "Prostsze aktualizacje: ważne poprawki instalują się same w tle, a nowe funkcje i zwykłe ulepszenia przychodzą przez normalne okienko aktualizacji",
+                                                           "Przełącznik Ciche aktualizacje zniknął, nie trzeba nic ustawiać"
                                                        ],
                                                 "es":  [
-                                                           "Zenfik tiene ahora un icono en la bandeja del sistema junto al reloj. Haz clic para abrir el launcher",
-                                                           "Clic derecho en el icono y Salir de Zenfik lo apaga todo a la vez: launcher, notch, widgets y la mascota",
-                                                           "La opción azul secreta ahora está solo en launcher.json (\"smerf\" arriba del todo). Los config.json extra ya no existen"
+                                                           "Actualizaciones más simples: las correcciones importantes se instalan solas en segundo plano y las novedades y mejoras llegan con la ventana normal",
+                                                           "El interruptor de Actualizaciones silenciosas ya no existe, no hay nada que configurar"
                                                        ],
                                                 "de":  [
-                                                           "Zenfik hat jetzt ein Symbol im Infobereich neben der Uhr. Klick darauf öffnet den Launcher",
-                                                           "Rechtsklick auf das Symbol und Zenfik beenden schaltet alles auf einmal aus: Launcher, Notch, Desktop-Widgets und den Freund",
-                                                           "Die geheime blaue Option steckt jetzt nur noch in launcher.json (\"smerf\" ganz oben). Die zusätzlichen config.json sind weg"
+                                                           "Einfachere Updates: wichtige Korrekturen installieren sich selbst im Hintergrund, Neuerungen und normale Verbesserungen kommen mit dem gewohnten Update-Fenster",
+                                                           "Der Schalter Stille Updates ist weg, es gibt nichts einzustellen"
                                                        ]
                                             }
                               }
