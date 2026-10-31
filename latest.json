@@ -1,40 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.1-1.5.1/Zenfik-Setup.exe",
-                                    "version":  "1.4.1",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.2-1.5.2/Zenfik-Setup.exe",
+                                    "version":  "1.4.2",
                                     "notes":  {
                                                   "en":  [
-                                                             "Square window buttons in the launcher to match the new look"
+                                                             "Bluetooth phones, headphones and mice now show their battery, read the same way as Windows settings",
+                                                             "A phone plugged in by USB shows as charging in the notch even in charge-only mode, with the % taken from Bluetooth when it is paired"
                                                          ],
                                                   "pl":  [
-                                                             "Kwadratowe przyciski okna w launcherze pasujące do nowego wyglądu"
+                                                             "Telefony, słuchawki i myszki Bluetooth pokazują teraz baterię, odczytaną tak samo jak w ustawieniach Windows",
+                                                             "Telefon podłączony przez USB pokazuje ładowanie w notchu nawet w trybie samego ładowania, a % jest brany z Bluetootha, gdy jest sparowany"
                                                          ],
                                                   "es":  [
-                                                             "Botones de ventana cuadrados en el launcher a juego con el nuevo aspecto"
+                                                             "Los móviles, auriculares y ratones Bluetooth muestran ahora su batería, leída igual que en los ajustes de Windows",
+                                                             "Un móvil conectado por USB aparece cargando en el notch incluso en modo solo carga, con el % tomado del Bluetooth si está emparejado"
                                                          ],
                                                   "de":  [
-                                                             "Eckige Fensterknöpfe im Launcher passend zum neuen Look"
+                                                             "Bluetooth-Handys, -Kopfhörer und -Mäuse zeigen jetzt ihren Akku, gelesen wie in den Windows-Einstellungen",
+                                                             "Ein per USB angeschlossenes Handy wird in der Notch auch im reinen Lademodus als ladend angezeigt, mit % über Bluetooth, wenn gekoppelt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.1-1.5.1/Zenfik-Setup.exe",
-                                  "version":  "1.4.1",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.2-1.5.2/Zenfik-Setup.exe",
+                                  "version":  "1.4.2",
                                   "notes":  {
                                                 "en":  [
-                                                           "Square window buttons in the launcher to match the new look"
+                                                           "Bluetooth phones, headphones and mice now show their battery, read the same way as Windows settings",
+                                                           "A phone plugged in by USB shows as charging in the notch even in charge-only mode, with the % taken from Bluetooth when it is paired"
                                                        ],
                                                 "pl":  [
-                                                           "Kwadratowe przyciski okna w launcherze pasujące do nowego wyglądu"
+                                                           "Telefony, słuchawki i myszki Bluetooth pokazują teraz baterię, odczytaną tak samo jak w ustawieniach Windows",
+                                                           "Telefon podłączony przez USB pokazuje ładowanie w notchu nawet w trybie samego ładowania, a % jest brany z Bluetootha, gdy jest sparowany"
                                                        ],
                                                 "es":  [
-                                                           "Botones de ventana cuadrados en el launcher a juego con el nuevo aspecto"
+                                                           "Los móviles, auriculares y ratones Bluetooth muestran ahora su batería, leída igual que en los ajustes de Windows",
+                                                           "Un móvil conectado por USB aparece cargando en el notch incluso en modo solo carga, con el % tomado del Bluetooth si está emparejado"
                                                        ],
                                                 "de":  [
-                                                           "Eckige Fensterknöpfe im Launcher passend zum neuen Look"
+                                                           "Bluetooth-Handys, -Kopfhörer und -Mäuse zeigen jetzt ihren Akku, gelesen wie in den Windows-Einstellungen",
+                                                           "Ein per USB angeschlossenes Handy wird in der Notch auch im reinen Lademodus als ladend angezeigt, mit % über Bluetooth, wenn gekoppelt"
                                                        ]
                                             }
                               }
