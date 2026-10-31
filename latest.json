@@ -1,64 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.3-1.5.3/Zenfik-Setup.exe",
-                                    "version":  "1.4.3",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.4-1.5.4/Zenfik-Setup.exe",
+                                    "version":  "1.4.4",
                                     "notes":  {
                                                   "en":  [
-                                                             "Mini in browser: while a browser is active, the notch shrinks to a small face. Click it to open, close it and it is small again (turn on in Zenfik settings)",
-                                                             "Expanded Zenfik shows your phone and Bluetooth devices with battery % at the top, green when charging",
-                                                             "A phone connected by Bluetooth and charging from the wall now shows as charging once its battery goes up",
-                                                             "Zenfik updates itself right after a launcher update, no extra click needed"
+                                                             "Desktop widgets (beta, turn on Beta features in Launcher settings): 16 widgets in 4 categories, including digital and analog clock, calendar, countdown, timer, CPU \u0026 RAM, network, disk, battery, now playing, weather, note, to-do, water and photo",
+                                                             "Every widget has its own accent and text color, background (glass, solid, light, color or none), opacity, corner radius, font and text shadow",
+                                                             "Edit layout minimizes all apps so you can drag widgets anywhere and pull the corner to resize them. They snap to edges and to each other. Click Done in the notch when finished",
+                                                             "The music volume slider in Zenfik now changes the volume of the app that is playing, so it stays in sync with Spotify"
                                                          ],
                                                   "pl":  [
-                                                             "Mini w przeglądarce: gdy aktywna jest przeglądarka, notch zmienia się w małą buźkę. Kliknij, aby otworzyć, po zamknięciu znów jest mały (włącz w ustawieniach Zenfika)",
-                                                             "Rozwinięty Zenfik pokazuje u góry telefon i urządzenia Bluetooth z % baterii, na zielono gdy się ładują",
-                                                             "Telefon połączony przez Bluetooth i ładowany z gniazdka pokazuje teraz ładowanie, gdy bateria zaczyna rosnąć",
-                                                             "Zenfik aktualizuje się sam zaraz po aktualizacji launchera, bez dodatkowego klikania"
+                                                             "Widżety na pulpit (beta, włącz Funkcje beta w ustawieniach launchera): 16 widżetów w 4 kategoriach, m.in. zegar cyfrowy i analogowy, kalendarz, odliczanie, minutnik, procesor i RAM, sieć, dysk, bateria, teraz gra, pogoda, notatka, zadania, woda i zdjęcie",
+                                                             "Każdy widżet ma własny kolor akcentu i tekstu, tło (szkło, pełne, jasne, kolor lub brak), krycie, zaokrąglenie, czcionkę i cień tekstu",
+                                                             "Edytuj układ minimalizuje wszystkie aplikacje, a Ty przeciągasz widżety gdzie chcesz i ciągniesz róg, żeby zmienić rozmiar. Przyklejają się do krawędzi i do siebie. Na koniec kliknij Gotowe w notchu",
+                                                             "Suwak głośności muzyki w Zenfiku zmienia teraz głośność aplikacji, która gra, więc zgadza się ze Spotify"
                                                          ],
                                                   "es":  [
-                                                             "Mini en el navegador: con un navegador activo, el notch se reduce a una carita. Haz clic para abrirlo y al cerrarlo vuelve a ser pequeño (actívalo en los ajustes de Zenfik)",
-                                                             "Zenfik expandido muestra arriba tu móvil y dispositivos Bluetooth con el % de batería, en verde al cargar",
-                                                             "Un móvil conectado por Bluetooth y cargando en el enchufe aparece cargando cuando su batería sube",
-                                                             "Zenfik se actualiza solo justo después de actualizar el launcher"
+                                                             "Widgets de escritorio (beta, activa Funciones beta en los ajustes del launcher): 16 widgets en 4 categorías, como reloj digital y analógico, calendario, cuenta atrás, temporizador, CPU y RAM, red, disco, batería, reproduciendo, tiempo, nota, tareas, agua y foto",
+                                                             "Cada widget tiene su color de acento y de texto, fondo (cristal, sólido, claro, color o ninguno), opacidad, redondeo, fuente y sombra del texto",
+                                                             "Editar diseño minimiza todas las apps para que muevas los widgets donde quieras y tires de la esquina para cambiar su tamaño. Se ajustan a los bordes y entre sí. Al terminar pulsa Listo en el notch",
+                                                             "El control de volumen de la música en Zenfik cambia ahora el volumen de la app que suena, así coincide con Spotify"
                                                          ],
                                                   "de":  [
-                                                             "Mini im Browser: bei aktivem Browser wird die Notch zu einem kleinen Gesicht. Klick öffnet sie, nach dem Schließen ist sie wieder klein (in den Zenfik-Einstellungen einschalten)",
-                                                             "Die geöffnete Zenfik zeigt oben Handy und Bluetooth-Geräte mit Akku-%, grün beim Laden",
-                                                             "Ein per Bluetooth verbundenes Handy, das an der Steckdose lädt, wird als ladend angezeigt, sobald der Akku steigt",
-                                                             "Zenfik aktualisiert sich direkt nach einem Launcher-Update selbst"
+                                                             "Desktop-Widgets (Beta, Beta-Funktionen in den Launcher-Einstellungen einschalten): 16 Widgets in 4 Kategorien, u. a. Digital- und Analoguhr, Kalender, Countdown, Timer, CPU \u0026 RAM, Netzwerk, Laufwerk, Akku, Läuft gerade, Wetter, Notiz, Aufgaben, Wasser und Foto",
+                                                             "Jedes Widget hat eigene Akzent- und Textfarbe, Hintergrund (Glas, voll, hell, Farbe oder keiner), Deckkraft, Eckenradius, Schrift und Textschatten",
+                                                             "Layout bearbeiten minimiert alle Apps, damit du Widgets frei verschieben und an der Ecke skalieren kannst. Sie rasten an Rändern und aneinander ein. Zum Schluss in der Notch auf Fertig klicken",
+                                                             "Der Musik-Lautstärkeregler in Zenfik ändert jetzt die Lautstärke der spielenden App und bleibt so synchron mit Spotify"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.3-1.5.3/Zenfik-Setup.exe",
-                                  "version":  "1.4.3",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.4-1.5.4/Zenfik-Setup.exe",
+                                  "version":  "1.4.4",
                                   "notes":  {
                                                 "en":  [
-                                                           "Mini in browser: while a browser is active, the notch shrinks to a small face. Click it to open, close it and it is small again (turn on in Zenfik settings)",
-                                                           "Expanded Zenfik shows your phone and Bluetooth devices with battery % at the top, green when charging",
-                                                           "A phone connected by Bluetooth and charging from the wall now shows as charging once its battery goes up",
-                                                           "Zenfik updates itself right after a launcher update, no extra click needed"
+                                                           "Desktop widgets (beta, turn on Beta features in Launcher settings): 16 widgets in 4 categories, including digital and analog clock, calendar, countdown, timer, CPU \u0026 RAM, network, disk, battery, now playing, weather, note, to-do, water and photo",
+                                                           "Every widget has its own accent and text color, background (glass, solid, light, color or none), opacity, corner radius, font and text shadow",
+                                                           "Edit layout minimizes all apps so you can drag widgets anywhere and pull the corner to resize them. They snap to edges and to each other. Click Done in the notch when finished",
+                                                           "The music volume slider in Zenfik now changes the volume of the app that is playing, so it stays in sync with Spotify"
                                                        ],
                                                 "pl":  [
-                                                           "Mini w przeglądarce: gdy aktywna jest przeglądarka, notch zmienia się w małą buźkę. Kliknij, aby otworzyć, po zamknięciu znów jest mały (włącz w ustawieniach Zenfika)",
-                                                           "Rozwinięty Zenfik pokazuje u góry telefon i urządzenia Bluetooth z % baterii, na zielono gdy się ładują",
-                                                           "Telefon połączony przez Bluetooth i ładowany z gniazdka pokazuje teraz ładowanie, gdy bateria zaczyna rosnąć",
-                                                           "Zenfik aktualizuje się sam zaraz po aktualizacji launchera, bez dodatkowego klikania"
+                                                           "Widżety na pulpit (beta, włącz Funkcje beta w ustawieniach launchera): 16 widżetów w 4 kategoriach, m.in. zegar cyfrowy i analogowy, kalendarz, odliczanie, minutnik, procesor i RAM, sieć, dysk, bateria, teraz gra, pogoda, notatka, zadania, woda i zdjęcie",
+                                                           "Każdy widżet ma własny kolor akcentu i tekstu, tło (szkło, pełne, jasne, kolor lub brak), krycie, zaokrąglenie, czcionkę i cień tekstu",
+                                                           "Edytuj układ minimalizuje wszystkie aplikacje, a Ty przeciągasz widżety gdzie chcesz i ciągniesz róg, żeby zmienić rozmiar. Przyklejają się do krawędzi i do siebie. Na koniec kliknij Gotowe w notchu",
+                                                           "Suwak głośności muzyki w Zenfiku zmienia teraz głośność aplikacji, która gra, więc zgadza się ze Spotify"
                                                        ],
                                                 "es":  [
-                                                           "Mini en el navegador: con un navegador activo, el notch se reduce a una carita. Haz clic para abrirlo y al cerrarlo vuelve a ser pequeño (actívalo en los ajustes de Zenfik)",
-                                                           "Zenfik expandido muestra arriba tu móvil y dispositivos Bluetooth con el % de batería, en verde al cargar",
-                                                           "Un móvil conectado por Bluetooth y cargando en el enchufe aparece cargando cuando su batería sube",
-                                                           "Zenfik se actualiza solo justo después de actualizar el launcher"
+                                                           "Widgets de escritorio (beta, activa Funciones beta en los ajustes del launcher): 16 widgets en 4 categorías, como reloj digital y analógico, calendario, cuenta atrás, temporizador, CPU y RAM, red, disco, batería, reproduciendo, tiempo, nota, tareas, agua y foto",
+                                                           "Cada widget tiene su color de acento y de texto, fondo (cristal, sólido, claro, color o ninguno), opacidad, redondeo, fuente y sombra del texto",
+                                                           "Editar diseño minimiza todas las apps para que muevas los widgets donde quieras y tires de la esquina para cambiar su tamaño. Se ajustan a los bordes y entre sí. Al terminar pulsa Listo en el notch",
+                                                           "El control de volumen de la música en Zenfik cambia ahora el volumen de la app que suena, así coincide con Spotify"
                                                        ],
                                                 "de":  [
-                                                           "Mini im Browser: bei aktivem Browser wird die Notch zu einem kleinen Gesicht. Klick öffnet sie, nach dem Schließen ist sie wieder klein (in den Zenfik-Einstellungen einschalten)",
-                                                           "Die geöffnete Zenfik zeigt oben Handy und Bluetooth-Geräte mit Akku-%, grün beim Laden",
-                                                           "Ein per Bluetooth verbundenes Handy, das an der Steckdose lädt, wird als ladend angezeigt, sobald der Akku steigt",
-                                                           "Zenfik aktualisiert sich direkt nach einem Launcher-Update selbst"
+                                                           "Desktop-Widgets (Beta, Beta-Funktionen in den Launcher-Einstellungen einschalten): 16 Widgets in 4 Kategorien, u. a. Digital- und Analoguhr, Kalender, Countdown, Timer, CPU \u0026 RAM, Netzwerk, Laufwerk, Akku, Läuft gerade, Wetter, Notiz, Aufgaben, Wasser und Foto",
+                                                           "Jedes Widget hat eigene Akzent- und Textfarbe, Hintergrund (Glas, voll, hell, Farbe oder keiner), Deckkraft, Eckenradius, Schrift und Textschatten",
+                                                           "Layout bearbeiten minimiert alle Apps, damit du Widgets frei verschieben und an der Ecke skalieren kannst. Sie rasten an Rändern und aneinander ein. Zum Schluss in der Notch auf Fertig klicken",
+                                                           "Der Musik-Lautstärkeregler in Zenfik ändert jetzt die Lautstärke der spielenden App und bleibt so synchron mit Spotify"
                                                        ]
                                             }
                               }
