@@ -1,64 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.8-1.5.8/Zenfik-Setup.exe",
-                                    "version":  "1.4.8",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.9-1.5.9/Zenfik-Setup.exe",
+                                    "version":  "1.4.9",
                                     "notes":  {
                                                   "en":  [
-                                                             "Desktop buddy (Widgets tab): Zenfik with arms and legs runs after your cursor. After a long run he gets tired, stops and pants",
-                                                             "When your cursor rests he cleans the desktop with a broom or a cloth",
-                                                             "Sometimes he poops and gets scared of it. Grab the poop with your cursor and throw it around the screen, or let him come over and eat it",
-                                                             "Zenfik now sticks to the nearest screen edge in the classic notch shape: top, bottom (flipped) or left/right side. Only in the middle of the screen does he float as a pill"
+                                                             "Liquid Glass now keeps the screen edge flat when Zenfik sticks to the bottom or a side. The light rim and rounding only stay on the free sides"
                                                          ],
                                                   "pl":  [
-                                                             "Zenfik na pulpicie (zakładka Widżety): Zenfik z rękami i nogami biega za kursorem. Po długim bieganiu się męczy, staje i dyszy",
-                                                             "Gdy kursor stoi, sprząta pulpit miotłą albo ściereczką",
-                                                             "Czasem zrobi kupę i się jej wystraszy. Złap kupę kursorem i rzucaj nią po ekranie albo pozwól mu podejść i ją zjeść",
-                                                             "Zenfik przykleja się teraz do najbliższej krawędzi ekranu w klasycznym kształcie notcha: góra, dół (odwrócony) albo lewy/prawy bok. Tylko na środku ekranu pływa jako pigułka"
+                                                             "Liquid Glass trzyma teraz płaską krawędź przy ekranie, gdy Zenfik jest przyklejony do dołu albo boku. Świetlny obrys i zaokrąglenie zostają tylko po wolnych stronach"
                                                          ],
                                                   "es":  [
-                                                             "Mascota de escritorio (pestaña Widgets): Zenfik con brazos y piernas corre tras tu cursor. Tras correr mucho se cansa, se para y jadea",
-                                                             "Cuando el cursor está quieto limpia el escritorio con una escoba o un trapo",
-                                                             "A veces hace caca y se asusta. Agárrala con el cursor y lánzala por la pantalla, o deja que se acerque y se la coma",
-                                                             "Zenfik ahora se pega al borde más cercano con la forma clásica del notch: arriba, abajo (invertido) o a un lado. Solo en el centro flota como píldora"
+                                                             "Liquid Glass mantiene ahora plano el borde de la pantalla cuando Zenfik está pegado abajo o a un lado. El borde de luz y el redondeo quedan solo en los lados libres"
                                                          ],
                                                   "de":  [
-                                                             "Desktop-Freund (Tab Widgets): Zenfik mit Armen und Beinen rennt deinem Cursor nach. Nach langem Rennen wird er müde, bleibt stehen und hechelt",
-                                                             "Ruht der Cursor, putzt er den Desktop mit Besen oder Tuch",
-                                                             "Manchmal macht er einen Haufen und erschrickt davor. Schnapp ihn mit dem Cursor und wirf ihn über den Bildschirm oder lass ihn ihn fressen",
-                                                             "Zenfik haftet jetzt in klassischer Notch-Form am nächsten Bildschirmrand: oben, unten (gespiegelt) oder links/rechts. Nur in der Bildschirmmitte schwebt er als Pille"
+                                                             "Liquid Glass hält jetzt die Bildschirmkante flach, wenn Zenfik unten oder seitlich haftet. Lichtrand und Rundung bleiben nur an den freien Seiten"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.8-1.5.8/Zenfik-Setup.exe",
-                                  "version":  "1.4.8",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.9-1.5.9/Zenfik-Setup.exe",
+                                  "version":  "1.4.9",
                                   "notes":  {
                                                 "en":  [
-                                                           "Desktop buddy (Widgets tab): Zenfik with arms and legs runs after your cursor. After a long run he gets tired, stops and pants",
-                                                           "When your cursor rests he cleans the desktop with a broom or a cloth",
-                                                           "Sometimes he poops and gets scared of it. Grab the poop with your cursor and throw it around the screen, or let him come over and eat it",
-                                                           "Zenfik now sticks to the nearest screen edge in the classic notch shape: top, bottom (flipped) or left/right side. Only in the middle of the screen does he float as a pill"
+                                                           "Liquid Glass now keeps the screen edge flat when Zenfik sticks to the bottom or a side. The light rim and rounding only stay on the free sides"
                                                        ],
                                                 "pl":  [
-                                                           "Zenfik na pulpicie (zakładka Widżety): Zenfik z rękami i nogami biega za kursorem. Po długim bieganiu się męczy, staje i dyszy",
-                                                           "Gdy kursor stoi, sprząta pulpit miotłą albo ściereczką",
-                                                           "Czasem zrobi kupę i się jej wystraszy. Złap kupę kursorem i rzucaj nią po ekranie albo pozwól mu podejść i ją zjeść",
-                                                           "Zenfik przykleja się teraz do najbliższej krawędzi ekranu w klasycznym kształcie notcha: góra, dół (odwrócony) albo lewy/prawy bok. Tylko na środku ekranu pływa jako pigułka"
+                                                           "Liquid Glass trzyma teraz płaską krawędź przy ekranie, gdy Zenfik jest przyklejony do dołu albo boku. Świetlny obrys i zaokrąglenie zostają tylko po wolnych stronach"
                                                        ],
                                                 "es":  [
-                                                           "Mascota de escritorio (pestaña Widgets): Zenfik con brazos y piernas corre tras tu cursor. Tras correr mucho se cansa, se para y jadea",
-                                                           "Cuando el cursor está quieto limpia el escritorio con una escoba o un trapo",
-                                                           "A veces hace caca y se asusta. Agárrala con el cursor y lánzala por la pantalla, o deja que se acerque y se la coma",
-                                                           "Zenfik ahora se pega al borde más cercano con la forma clásica del notch: arriba, abajo (invertido) o a un lado. Solo en el centro flota como píldora"
+                                                           "Liquid Glass mantiene ahora plano el borde de la pantalla cuando Zenfik está pegado abajo o a un lado. El borde de luz y el redondeo quedan solo en los lados libres"
                                                        ],
                                                 "de":  [
-                                                           "Desktop-Freund (Tab Widgets): Zenfik mit Armen und Beinen rennt deinem Cursor nach. Nach langem Rennen wird er müde, bleibt stehen und hechelt",
-                                                           "Ruht der Cursor, putzt er den Desktop mit Besen oder Tuch",
-                                                           "Manchmal macht er einen Haufen und erschrickt davor. Schnapp ihn mit dem Cursor und wirf ihn über den Bildschirm oder lass ihn ihn fressen",
-                                                           "Zenfik haftet jetzt in klassischer Notch-Form am nächsten Bildschirmrand: oben, unten (gespiegelt) oder links/rechts. Nur in der Bildschirmmitte schwebt er als Pille"
+                                                           "Liquid Glass hält jetzt die Bildschirmkante flach, wenn Zenfik unten oder seitlich haftet. Lichtrand und Rundung bleiben nur an den freien Seiten"
                                                        ]
                                             }
                               }
