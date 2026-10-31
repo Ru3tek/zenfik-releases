@@ -1,48 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.2-1.5.2/Zenfik-Setup.exe",
-                                    "version":  "1.4.2",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.3-1.5.3/Zenfik-Setup.exe",
+                                    "version":  "1.4.3",
                                     "notes":  {
                                                   "en":  [
-                                                             "Bluetooth phones, headphones and mice now show their battery, read the same way as Windows settings",
-                                                             "A phone plugged in by USB shows as charging in the notch even in charge-only mode, with the % taken from Bluetooth when it is paired"
+                                                             "Mini in browser: while a browser is active, the notch shrinks to a small face. Click it to open, close it and it is small again (turn on in Zenfik settings)",
+                                                             "Expanded Zenfik shows your phone and Bluetooth devices with battery % at the top, green when charging",
+                                                             "A phone connected by Bluetooth and charging from the wall now shows as charging once its battery goes up",
+                                                             "Zenfik updates itself right after a launcher update, no extra click needed"
                                                          ],
                                                   "pl":  [
-                                                             "Telefony, słuchawki i myszki Bluetooth pokazują teraz baterię, odczytaną tak samo jak w ustawieniach Windows",
-                                                             "Telefon podłączony przez USB pokazuje ładowanie w notchu nawet w trybie samego ładowania, a % jest brany z Bluetootha, gdy jest sparowany"
+                                                             "Mini w przeglądarce: gdy aktywna jest przeglądarka, notch zmienia się w małą buźkę. Kliknij, aby otworzyć, po zamknięciu znów jest mały (włącz w ustawieniach Zenfika)",
+                                                             "Rozwinięty Zenfik pokazuje u góry telefon i urządzenia Bluetooth z % baterii, na zielono gdy się ładują",
+                                                             "Telefon połączony przez Bluetooth i ładowany z gniazdka pokazuje teraz ładowanie, gdy bateria zaczyna rosnąć",
+                                                             "Zenfik aktualizuje się sam zaraz po aktualizacji launchera, bez dodatkowego klikania"
                                                          ],
                                                   "es":  [
-                                                             "Los móviles, auriculares y ratones Bluetooth muestran ahora su batería, leída igual que en los ajustes de Windows",
-                                                             "Un móvil conectado por USB aparece cargando en el notch incluso en modo solo carga, con el % tomado del Bluetooth si está emparejado"
+                                                             "Mini en el navegador: con un navegador activo, el notch se reduce a una carita. Haz clic para abrirlo y al cerrarlo vuelve a ser pequeño (actívalo en los ajustes de Zenfik)",
+                                                             "Zenfik expandido muestra arriba tu móvil y dispositivos Bluetooth con el % de batería, en verde al cargar",
+                                                             "Un móvil conectado por Bluetooth y cargando en el enchufe aparece cargando cuando su batería sube",
+                                                             "Zenfik se actualiza solo justo después de actualizar el launcher"
                                                          ],
                                                   "de":  [
-                                                             "Bluetooth-Handys, -Kopfhörer und -Mäuse zeigen jetzt ihren Akku, gelesen wie in den Windows-Einstellungen",
-                                                             "Ein per USB angeschlossenes Handy wird in der Notch auch im reinen Lademodus als ladend angezeigt, mit % über Bluetooth, wenn gekoppelt"
+                                                             "Mini im Browser: bei aktivem Browser wird die Notch zu einem kleinen Gesicht. Klick öffnet sie, nach dem Schließen ist sie wieder klein (in den Zenfik-Einstellungen einschalten)",
+                                                             "Die geöffnete Zenfik zeigt oben Handy und Bluetooth-Geräte mit Akku-%, grün beim Laden",
+                                                             "Ein per Bluetooth verbundenes Handy, das an der Steckdose lädt, wird als ladend angezeigt, sobald der Akku steigt",
+                                                             "Zenfik aktualisiert sich direkt nach einem Launcher-Update selbst"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.2-1.5.2/Zenfik-Setup.exe",
-                                  "version":  "1.4.2",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.3-1.5.3/Zenfik-Setup.exe",
+                                  "version":  "1.4.3",
                                   "notes":  {
                                                 "en":  [
-                                                           "Bluetooth phones, headphones and mice now show their battery, read the same way as Windows settings",
-                                                           "A phone plugged in by USB shows as charging in the notch even in charge-only mode, with the % taken from Bluetooth when it is paired"
+                                                           "Mini in browser: while a browser is active, the notch shrinks to a small face. Click it to open, close it and it is small again (turn on in Zenfik settings)",
+                                                           "Expanded Zenfik shows your phone and Bluetooth devices with battery % at the top, green when charging",
+                                                           "A phone connected by Bluetooth and charging from the wall now shows as charging once its battery goes up",
+                                                           "Zenfik updates itself right after a launcher update, no extra click needed"
                                                        ],
                                                 "pl":  [
-                                                           "Telefony, słuchawki i myszki Bluetooth pokazują teraz baterię, odczytaną tak samo jak w ustawieniach Windows",
-                                                           "Telefon podłączony przez USB pokazuje ładowanie w notchu nawet w trybie samego ładowania, a % jest brany z Bluetootha, gdy jest sparowany"
+                                                           "Mini w przeglądarce: gdy aktywna jest przeglądarka, notch zmienia się w małą buźkę. Kliknij, aby otworzyć, po zamknięciu znów jest mały (włącz w ustawieniach Zenfika)",
+                                                           "Rozwinięty Zenfik pokazuje u góry telefon i urządzenia Bluetooth z % baterii, na zielono gdy się ładują",
+                                                           "Telefon połączony przez Bluetooth i ładowany z gniazdka pokazuje teraz ładowanie, gdy bateria zaczyna rosnąć",
+                                                           "Zenfik aktualizuje się sam zaraz po aktualizacji launchera, bez dodatkowego klikania"
                                                        ],
                                                 "es":  [
-                                                           "Los móviles, auriculares y ratones Bluetooth muestran ahora su batería, leída igual que en los ajustes de Windows",
-                                                           "Un móvil conectado por USB aparece cargando en el notch incluso en modo solo carga, con el % tomado del Bluetooth si está emparejado"
+                                                           "Mini en el navegador: con un navegador activo, el notch se reduce a una carita. Haz clic para abrirlo y al cerrarlo vuelve a ser pequeño (actívalo en los ajustes de Zenfik)",
+                                                           "Zenfik expandido muestra arriba tu móvil y dispositivos Bluetooth con el % de batería, en verde al cargar",
+                                                           "Un móvil conectado por Bluetooth y cargando en el enchufe aparece cargando cuando su batería sube",
+                                                           "Zenfik se actualiza solo justo después de actualizar el launcher"
                                                        ],
                                                 "de":  [
-                                                           "Bluetooth-Handys, -Kopfhörer und -Mäuse zeigen jetzt ihren Akku, gelesen wie in den Windows-Einstellungen",
-                                                           "Ein per USB angeschlossenes Handy wird in der Notch auch im reinen Lademodus als ladend angezeigt, mit % über Bluetooth, wenn gekoppelt"
+                                                           "Mini im Browser: bei aktivem Browser wird die Notch zu einem kleinen Gesicht. Klick öffnet sie, nach dem Schließen ist sie wieder klein (in den Zenfik-Einstellungen einschalten)",
+                                                           "Die geöffnete Zenfik zeigt oben Handy und Bluetooth-Geräte mit Akku-%, grün beim Laden",
+                                                           "Ein per Bluetooth verbundenes Handy, das an der Steckdose lädt, wird als ladend angezeigt, sobald der Akku steigt",
+                                                           "Zenfik aktualisiert sich direkt nach einem Launcher-Update selbst"
                                                        ]
                                             }
                               }
