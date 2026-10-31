@@ -6,19 +6,19 @@
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "The secret blue option is now also in launcher.json and in config.json next to the launcher, each set to false by default",
+                                                             "The secret blue option is now",
                                                              "After every update the launcher shows a What\u0027s new window, also after a silent update"
                                                          ],
                                                   "pl":  [
-                                                             "Tajna niebieska opcja jest teraz też w launcher.json i w config.json obok launchera, domyślnie ustawiona na false",
+                                                             "Tajna niebieska opcja jest teraz",
                                                              "Po każdej aktualizacji launcher pokazuje okienko Co nowego, także po cichej aktualizacji"
                                                          ],
                                                   "es":  [
-                                                             "La opción azul secreta ahora también está en launcher.json y en config.json junto al launcher, en false por defecto",
+                                                             "La opción azul secreta ahora también",
                                                              "Tras cada actualización el launcher muestra una ventana de novedades, también tras una actualización silenciosa"
                                                          ],
                                                   "de":  [
-                                                             "Die geheime blaue Option steckt jetzt auch in launcher.json und in config.json neben dem Launcher, standardmäßig auf false",
+                                                             "Die geheime blaue Option steckt jetzt",
                                                              "Nach jedem Update zeigt der Launcher ein Fenster mit den Neuerungen, auch nach einem stillen Update"
                                                          ]
                                               }
@@ -31,19 +31,19 @@
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "The secret blue option is now also in launcher.json and in config.json next to the launcher, each set to false by default",
+                                                           "The secret blue option is now",
                                                            "After every update the launcher shows a What\u0027s new window, also after a silent update"
                                                        ],
                                                 "pl":  [
-                                                           "Tajna niebieska opcja jest teraz też w launcher.json i w config.json obok launchera, domyślnie ustawiona na false",
+                                                           "Tajna niebieska opcja jest teraz",
                                                            "Po każdej aktualizacji launcher pokazuje okienko Co nowego, także po cichej aktualizacji"
                                                        ],
                                                 "es":  [
-                                                           "La opción azul secreta ahora también está en launcher.json y en config.json junto al launcher, en false por defecto",
+                                                           "La opción azul secreta ahora también",
                                                            "Tras cada actualización el launcher muestra una ventana de novedades, también tras una actualización silenciosa"
                                                        ],
                                                 "de":  [
-                                                           "Die geheime blaue Option steckt jetzt auch in launcher.json und in config.json neben dem Launcher, standardmäßig auf false",
+                                                           "Die geheime blaue Option steckt jetzt auch",
                                                            "Nach jedem Update zeigt der Launcher ein Fenster mit den Neuerungen, auch nach einem stillen Update"
                                                        ]
                                             }
