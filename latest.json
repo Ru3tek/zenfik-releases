@@ -1,40 +1,56 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.12-1.5.12/Zenfik-Setup.exe",
-                                    "version":  "1.4.12",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.13-1.5.13/Zenfik-Setup.exe",
+                                    "version":  "1.4.13",
                                     "notes":  {
                                                   "en":  [
-                                                             "Something small and blue is hiding somewhere in the launcher files…"
+                                                             "Silent updates: from now on new versions of the launcher and Zenfik install by themselves in the background, right away and without any window or question",
+                                                             "Even when the launcher is closed, Zenfik checks for updates a few minutes after start and then every 3 hours, and installs them quietly",
+                                                             "You can turn it off in Updates → Silent updates"
                                                          ],
                                                   "pl":  [
-                                                             "Coś małego i niebieskiego ukryło się gdzieś w plikach launchera…"
+                                                             "Ciche aktualizacje: od teraz nowe wersje launchera i Zenfika instalują się same w tle, od razu i bez żadnego okienka czy pytania",
+                                                             "Nawet gdy launcher jest zamknięty, Zenfik sprawdza aktualizacje kilka minut po starcie, a potem co 3 godziny, i po cichu je instaluje",
+                                                             "Można to wyłączyć w Aktualizacje → Ciche aktualizacje"
                                                          ],
                                                   "es":  [
-                                                             "Algo pequeño y azul se esconde en algún lugar de los archivos del launcher…"
+                                                             "Actualizaciones silenciosas: a partir de ahora las nuevas versiones del launcher y de Zenfik se instalan solas en segundo plano, al momento y sin ventanas ni preguntas",
+                                                             "Incluso con el launcher cerrado, Zenfik busca actualizaciones unos minutos después de arrancar y luego cada 3 horas, y las instala sin avisar",
+                                                             "Puedes desactivarlo en Actualizaciones → Actualizaciones silenciosas"
                                                          ],
                                                   "de":  [
-                                                             "Etwas Kleines und Blaues versteckt sich irgendwo in den Launcher-Dateien…"
+                                                             "Stille Updates: ab jetzt installieren sich neue Versionen von Launcher und Zenfik von selbst im Hintergrund, sofort und ohne Fenster oder Nachfrage",
+                                                             "Auch bei geschlossenem Launcher sucht Zenfik ein paar Minuten nach dem Start und dann alle 3 Stunden nach Updates und installiert sie leise",
+                                                             "Abschalten kannst du das unter Updates → Stille Updates"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.12-1.5.12/Zenfik-Setup.exe",
-                                  "version":  "1.4.12",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.13-1.5.13/Zenfik-Setup.exe",
+                                  "version":  "1.4.13",
                                   "notes":  {
                                                 "en":  [
-                                                           "Something small and blue is hiding somewhere in the launcher files…"
+                                                           "Silent updates: from now on new versions of the launcher and Zenfik install by themselves in the background, right away and without any window or question",
+                                                           "Even when the launcher is closed, Zenfik checks for updates a few minutes after start and then every 3 hours, and installs them quietly",
+                                                           "You can turn it off in Updates → Silent updates"
                                                        ],
                                                 "pl":  [
-                                                           "Coś małego i niebieskiego ukryło się gdzieś w plikach launchera…"
+                                                           "Ciche aktualizacje: od teraz nowe wersje launchera i Zenfika instalują się same w tle, od razu i bez żadnego okienka czy pytania",
+                                                           "Nawet gdy launcher jest zamknięty, Zenfik sprawdza aktualizacje kilka minut po starcie, a potem co 3 godziny, i po cichu je instaluje",
+                                                           "Można to wyłączyć w Aktualizacje → Ciche aktualizacje"
                                                        ],
                                                 "es":  [
-                                                           "Algo pequeño y azul se esconde en algún lugar de los archivos del launcher…"
+                                                           "Actualizaciones silenciosas: a partir de ahora las nuevas versiones del launcher y de Zenfik se instalan solas en segundo plano, al momento y sin ventanas ni preguntas",
+                                                           "Incluso con el launcher cerrado, Zenfik busca actualizaciones unos minutos después de arrancar y luego cada 3 horas, y las instala sin avisar",
+                                                           "Puedes desactivarlo en Actualizaciones → Actualizaciones silenciosas"
                                                        ],
                                                 "de":  [
-                                                           "Etwas Kleines und Blaues versteckt sich irgendwo in den Launcher-Dateien…"
+                                                           "Stille Updates: ab jetzt installieren sich neue Versionen von Launcher und Zenfik von selbst im Hintergrund, sofort und ohne Fenster oder Nachfrage",
+                                                           "Auch bei geschlossenem Launcher sucht Zenfik ein paar Minuten nach dem Start und dann alle 3 Stunden nach Updates und installiert sie leise",
+                                                           "Abschalten kannst du das unter Updates → Stille Updates"
                                                        ]
                                             }
                               }
