@@ -1,72 +1,56 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.5-1.5.5/Zenfik-Setup.exe",
-                                    "version":  "1.4.5",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.6-1.5.6/Zenfik-Setup.exe",
+                                    "version":  "1.4.6",
                                     "notes":  {
                                                   "en":  [
-                                                             "Desktop widgets now use the real Liquid Glass from the notch: your wallpaper blurred behind them, refraction with RGB split on the edges and a light rim that glows on hover",
-                                                             "New outline option with its own color and width",
-                                                             "35 fonts to choose from",
-                                                             "Digital clock: seconds can be as big as the time, and the date size is adjustable",
-                                                             "While editing the layout every widget shows a Done button, so you don\u0027t need the notch to finish"
+                                                             "Desktop widgets work without installing Zenfik: the launcher runs a tiny widgets-only process. When Zenfik is on, it takes the widgets over and both share the same layout",
+                                                             "Glow from the bottom for every widget, like in the notch: accent color, the color of the playing music cover or your own color, with adjustable strength",
+                                                             "No more pencil when you hover a widget. Change the layout only from the launcher with Edit layout"
                                                          ],
                                                   "pl":  [
-                                                             "Widżety na pulpicie mają teraz prawdziwe Liquid Glass z notcha: rozmyta tapeta pod spodem, załamanie z rozszczepieniem RGB na krawędziach i świetlny obrys, który świeci po najechaniu",
-                                                             "Nowa opcja obrysku z własnym kolorem i grubością",
-                                                             "35 czcionek do wyboru",
-                                                             "Zegar cyfrowy: sekundy mogą być tak duże jak godzina, a rozmiar daty można ustawić",
-                                                             "Podczas edycji układu każdy widżet ma przycisk Gotowe, więc notch nie jest potrzebny"
+                                                             "Widżety na pulpicie działają bez instalowania Zenfika: launcher uruchamia malutki proces tylko z widżetami. Gdy Zenfik jest włączony, przejmuje widżety i oba mają ten sam układ",
+                                                             "Poświata od dołu dla każdego widżetu jak w notchu: kolor akcentu, kolor okładki grającej muzyki albo własny kolor, z regulowaną siłą",
+                                                             "Koniec z ołówkiem po najechaniu na widżet. Układ zmieniasz tylko w launcherze przez Edytuj układ"
                                                          ],
                                                   "es":  [
-                                                             "Los widgets del escritorio usan ahora el Liquid Glass real del notch: tu fondo desenfocado detrás, refracción con separación RGB en los bordes y un borde de luz que brilla al pasar el ratón",
-                                                             "Nueva opción de contorno con color y grosor propios",
-                                                             "35 fuentes para elegir",
-                                                             "Reloj digital: los segundos pueden ser tan grandes como la hora y el tamaño de la fecha es ajustable",
-                                                             "Al editar el diseño cada widget muestra un botón Listo, así no necesitas el notch"
+                                                             "Los widgets del escritorio funcionan sin instalar Zenfik: el launcher ejecuta un proceso mínimo solo con widgets. Con Zenfik activo, él toma los widgets y ambos comparten el mismo diseño",
+                                                             "Brillo desde abajo para cada widget como en el notch: color de acento, color de la portada de la música o tu propio color, con intensidad ajustable",
+                                                             "Ya no aparece un lápiz al pasar el ratón por un widget. El diseño se cambia solo desde el launcher con Editar diseño"
                                                          ],
                                                   "de":  [
-                                                             "Desktop-Widgets nutzen jetzt das echte Liquid Glass der Notch: dein Hintergrundbild unscharf dahinter, Lichtbrechung mit RGB-Versatz an den Kanten und ein Lichtrand, der beim Überfahren leuchtet",
-                                                             "Neue Umriss-Option mit eigener Farbe und Stärke",
-                                                             "35 Schriften zur Auswahl",
-                                                             "Digitaluhr: Sekunden können so groß wie die Uhrzeit sein, die Datumsgröße ist einstellbar",
-                                                             "Beim Bearbeiten des Layouts zeigt jedes Widget eine Fertig-Taste, die Notch wird nicht gebraucht"
+                                                             "Desktop-Widgets laufen ohne Zenfik-Installation: der Launcher startet einen winzigen Prozess nur für Widgets. Ist Zenfik an, übernimmt es die Widgets und beide teilen dasselbe Layout",
+                                                             "Leuchten von unten für jedes Widget wie in der Notch: Akzentfarbe, Farbe des Musik-Covers oder eigene Farbe, mit einstellbarer Stärke",
+                                                             "Kein Stift mehr beim Überfahren eines Widgets. Das Layout änderst du nur im Launcher mit Layout bearbeiten"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.5-1.5.5/Zenfik-Setup.exe",
-                                  "version":  "1.4.5",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.6-1.5.6/Zenfik-Setup.exe",
+                                  "version":  "1.4.6",
                                   "notes":  {
                                                 "en":  [
-                                                           "Desktop widgets now use the real Liquid Glass from the notch: your wallpaper blurred behind them, refraction with RGB split on the edges and a light rim that glows on hover",
-                                                           "New outline option with its own color and width",
-                                                           "35 fonts to choose from",
-                                                           "Digital clock: seconds can be as big as the time, and the date size is adjustable",
-                                                           "While editing the layout every widget shows a Done button, so you don\u0027t need the notch to finish"
+                                                           "Desktop widgets work without installing Zenfik: the launcher runs a tiny widgets-only process. When Zenfik is on, it takes the widgets over and both share the same layout",
+                                                           "Glow from the bottom for every widget, like in the notch: accent color, the color of the playing music cover or your own color, with adjustable strength",
+                                                           "No more pencil when you hover a widget. Change the layout only from the launcher with Edit layout"
                                                        ],
                                                 "pl":  [
-                                                           "Widżety na pulpicie mają teraz prawdziwe Liquid Glass z notcha: rozmyta tapeta pod spodem, załamanie z rozszczepieniem RGB na krawędziach i świetlny obrys, który świeci po najechaniu",
-                                                           "Nowa opcja obrysku z własnym kolorem i grubością",
-                                                           "35 czcionek do wyboru",
-                                                           "Zegar cyfrowy: sekundy mogą być tak duże jak godzina, a rozmiar daty można ustawić",
-                                                           "Podczas edycji układu każdy widżet ma przycisk Gotowe, więc notch nie jest potrzebny"
+                                                           "Widżety na pulpicie działają bez instalowania Zenfika: launcher uruchamia malutki proces tylko z widżetami. Gdy Zenfik jest włączony, przejmuje widżety i oba mają ten sam układ",
+                                                           "Poświata od dołu dla każdego widżetu jak w notchu: kolor akcentu, kolor okładki grającej muzyki albo własny kolor, z regulowaną siłą",
+                                                           "Koniec z ołówkiem po najechaniu na widżet. Układ zmieniasz tylko w launcherze przez Edytuj układ"
                                                        ],
                                                 "es":  [
-                                                           "Los widgets del escritorio usan ahora el Liquid Glass real del notch: tu fondo desenfocado detrás, refracción con separación RGB en los bordes y un borde de luz que brilla al pasar el ratón",
-                                                           "Nueva opción de contorno con color y grosor propios",
-                                                           "35 fuentes para elegir",
-                                                           "Reloj digital: los segundos pueden ser tan grandes como la hora y el tamaño de la fecha es ajustable",
-                                                           "Al editar el diseño cada widget muestra un botón Listo, así no necesitas el notch"
+                                                           "Los widgets del escritorio funcionan sin instalar Zenfik: el launcher ejecuta un proceso mínimo solo con widgets. Con Zenfik activo, él toma los widgets y ambos comparten el mismo diseño",
+                                                           "Brillo desde abajo para cada widget como en el notch: color de acento, color de la portada de la música o tu propio color, con intensidad ajustable",
+                                                           "Ya no aparece un lápiz al pasar el ratón por un widget. El diseño se cambia solo desde el launcher con Editar diseño"
                                                        ],
                                                 "de":  [
-                                                           "Desktop-Widgets nutzen jetzt das echte Liquid Glass der Notch: dein Hintergrundbild unscharf dahinter, Lichtbrechung mit RGB-Versatz an den Kanten und ein Lichtrand, der beim Überfahren leuchtet",
-                                                           "Neue Umriss-Option mit eigener Farbe und Stärke",
-                                                           "35 Schriften zur Auswahl",
-                                                           "Digitaluhr: Sekunden können so groß wie die Uhrzeit sein, die Datumsgröße ist einstellbar",
-                                                           "Beim Bearbeiten des Layouts zeigt jedes Widget eine Fertig-Taste, die Notch wird nicht gebraucht"
+                                                           "Desktop-Widgets laufen ohne Zenfik-Installation: der Launcher startet einen winzigen Prozess nur für Widgets. Ist Zenfik an, übernimmt es die Widgets und beide teilen dasselbe Layout",
+                                                           "Leuchten von unten für jedes Widget wie in der Notch: Akzentfarbe, Farbe des Musik-Covers oder eigene Farbe, mit einstellbarer Stärke",
+                                                           "Kein Stift mehr beim Überfahren eines Widgets. Das Layout änderst du nur im Launcher mit Layout bearbeiten"
                                                        ]
                                             }
                               }
