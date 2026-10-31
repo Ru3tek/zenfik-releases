@@ -1,56 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.0-1.5.1/Zenfik-Setup.exe",
-                                    "version":  "1.4.0",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.1-1.5.1/Zenfik-Setup.exe",
+                                    "version":  "1.4.1",
                                     "notes":  {
                                                   "en":  [
-                                                             "Phone charging in the notch: plug your phone in by USB (file transfer mode) and Zenfik shows its name and battery %",
-                                                             "Bluetooth headphones, mice and other devices show their battery when they connect and warn you when it drops below 15%",
-                                                             "New Device battery switch in the launcher (Notifications section)"
+                                                             "Square window buttons in the launcher to match the new look"
                                                          ],
                                                   "pl":  [
-                                                             "Ładowanie telefonu w notchu: podłącz telefon przez USB (tryb przesyłania plików), a Zenfik pokaże jego nazwę i % baterii",
-                                                             "Słuchawki, myszki i inne urządzenia Bluetooth pokazują baterię po połączeniu i ostrzegają, gdy spadnie poniżej 15%",
-                                                             "Nowy przełącznik Bateria urządzeń w launcherze (sekcja Powiadomienia)"
+                                                             "Kwadratowe przyciski okna w launcherze pasujące do nowego wyglądu"
                                                          ],
                                                   "es":  [
-                                                             "Carga del móvil en el notch: conecta el móvil por USB (modo transferencia de archivos) y Zenfik muestra su nombre y % de batería",
-                                                             "Auriculares, ratones y otros dispositivos Bluetooth muestran su batería al conectarse y avisan cuando baja del 15%",
-                                                             "Nuevo interruptor Batería de dispositivos en el launcher (sección Notificaciones)"
+                                                             "Botones de ventana cuadrados en el launcher a juego con el nuevo aspecto"
                                                          ],
                                                   "de":  [
-                                                             "Handy-Laden in der Notch: Handy per USB anschließen (Dateiübertragung) und Zenfik zeigt Name und Akku-%",
-                                                             "Bluetooth-Kopfhörer, -Mäuse und andere Geräte zeigen beim Verbinden ihren Akku und warnen unter 15%",
-                                                             "Neuer Schalter Geräte-Akku im Launcher (Bereich Mitteilungen)"
+                                                             "Eckige Fensterknöpfe im Launcher passend zum neuen Look"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.0-1.5.1/Zenfik-Setup.exe",
-                                  "version":  "1.4.0",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.1-1.5.1/Zenfik-Setup.exe",
+                                  "version":  "1.4.1",
                                   "notes":  {
                                                 "en":  [
-                                                           "Phone charging in the notch: plug your phone in by USB (file transfer mode) and Zenfik shows its name and battery %",
-                                                           "Bluetooth headphones, mice and other devices show their battery when they connect and warn you when it drops below 15%",
-                                                           "New Device battery switch in the launcher (Notifications section)"
+                                                           "Square window buttons in the launcher to match the new look"
                                                        ],
                                                 "pl":  [
-                                                           "Ładowanie telefonu w notchu: podłącz telefon przez USB (tryb przesyłania plików), a Zenfik pokaże jego nazwę i % baterii",
-                                                           "Słuchawki, myszki i inne urządzenia Bluetooth pokazują baterię po połączeniu i ostrzegają, gdy spadnie poniżej 15%",
-                                                           "Nowy przełącznik Bateria urządzeń w launcherze (sekcja Powiadomienia)"
+                                                           "Kwadratowe przyciski okna w launcherze pasujące do nowego wyglądu"
                                                        ],
                                                 "es":  [
-                                                           "Carga del móvil en el notch: conecta el móvil por USB (modo transferencia de archivos) y Zenfik muestra su nombre y % de batería",
-                                                           "Auriculares, ratones y otros dispositivos Bluetooth muestran su batería al conectarse y avisan cuando baja del 15%",
-                                                           "Nuevo interruptor Batería de dispositivos en el launcher (sección Notificaciones)"
+                                                           "Botones de ventana cuadrados en el launcher a juego con el nuevo aspecto"
                                                        ],
                                                 "de":  [
-                                                           "Handy-Laden in der Notch: Handy per USB anschließen (Dateiübertragung) und Zenfik zeigt Name und Akku-%",
-                                                           "Bluetooth-Kopfhörer, -Mäuse und andere Geräte zeigen beim Verbinden ihren Akku und warnen unter 15%",
-                                                           "Neuer Schalter Geräte-Akku im Launcher (Bereich Mitteilungen)"
+                                                           "Eckige Fensterknöpfe im Launcher passend zum neuen Look"
                                                        ]
                                             }
                               }
