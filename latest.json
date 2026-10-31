@@ -1,56 +1,64 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.7-1.5.7/Zenfik-Setup.exe",
-                                    "version":  "1.4.7",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.8-1.5.8/Zenfik-Setup.exe",
+                                    "version":  "1.4.8",
                                     "notes":  {
                                                   "en":  [
-                                                             "Move Zenfik anywhere: Zenfik settings → Position → Move Zenfik. Drag it to the top, side or bottom of any screen and click Done",
-                                                             "Away from the top Zenfik becomes a floating pill and opens in the direction that fits, so at the bottom it grows upward",
-                                                             "Center puts it back in the middle at the top. Dragging it close to the top middle also snaps it back"
+                                                             "Desktop buddy (Widgets tab): Zenfik with arms and legs runs after your cursor. After a long run he gets tired, stops and pants",
+                                                             "When your cursor rests he cleans the desktop with a broom or a cloth",
+                                                             "Sometimes he poops and gets scared of it. Grab the poop with your cursor and throw it around the screen, or let him come over and eat it",
+                                                             "Zenfik now sticks to the nearest screen edge in the classic notch shape: top, bottom (flipped) or left/right side. Only in the middle of the screen does he float as a pill"
                                                          ],
                                                   "pl":  [
-                                                             "Przesuwaj Zenfika gdziekolwiek: ustawienia Zenfika → Położenie → Przesuń Zenfika. Przeciągnij go na górę, bok albo dół dowolnego ekranu i kliknij Gotowe",
-                                                             "Poza górną krawędzią Zenfik staje się pływającą pigułką i otwiera się w stronę, gdzie jest miejsce, więc na dole rośnie do góry",
-                                                             "Wyśrodkuj wraca go na środek u góry. Przeciągnięcie blisko środka u góry też go tam przykleja"
+                                                             "Zenfik na pulpicie (zakładka Widżety): Zenfik z rękami i nogami biega za kursorem. Po długim bieganiu się męczy, staje i dyszy",
+                                                             "Gdy kursor stoi, sprząta pulpit miotłą albo ściereczką",
+                                                             "Czasem zrobi kupę i się jej wystraszy. Złap kupę kursorem i rzucaj nią po ekranie albo pozwól mu podejść i ją zjeść",
+                                                             "Zenfik przykleja się teraz do najbliższej krawędzi ekranu w klasycznym kształcie notcha: góra, dół (odwrócony) albo lewy/prawy bok. Tylko na środku ekranu pływa jako pigułka"
                                                          ],
                                                   "es":  [
-                                                             "Mueve Zenfik a cualquier sitio: ajustes de Zenfik → Posición → Mover Zenfik. Arrástralo arriba, a un lado o abajo de cualquier pantalla y pulsa Listo",
-                                                             "Fuera del borde superior Zenfik se vuelve una píldora flotante y se abre hacia donde hay espacio, así abajo crece hacia arriba",
-                                                             "Centrar lo devuelve al centro de arriba. Arrastrarlo cerca del centro superior también lo pega ahí"
+                                                             "Mascota de escritorio (pestaña Widgets): Zenfik con brazos y piernas corre tras tu cursor. Tras correr mucho se cansa, se para y jadea",
+                                                             "Cuando el cursor está quieto limpia el escritorio con una escoba o un trapo",
+                                                             "A veces hace caca y se asusta. Agárrala con el cursor y lánzala por la pantalla, o deja que se acerque y se la coma",
+                                                             "Zenfik ahora se pega al borde más cercano con la forma clásica del notch: arriba, abajo (invertido) o a un lado. Solo en el centro flota como píldora"
                                                          ],
                                                   "de":  [
-                                                             "Verschiebe Zenfik überallhin: Zenfik-Einstellungen → Position → Zenfik verschieben. Zieh es nach oben, an die Seite oder nach unten auf jedem Bildschirm und klick auf Fertig",
-                                                             "Abseits des oberen Rands wird Zenfik zur schwebenden Pille und öffnet sich dorthin, wo Platz ist, unten also nach oben",
-                                                             "Zentrieren setzt es wieder oben in die Mitte. Wenn du es nahe an die Mitte oben ziehst, rastet es dort auch ein"
+                                                             "Desktop-Freund (Tab Widgets): Zenfik mit Armen und Beinen rennt deinem Cursor nach. Nach langem Rennen wird er müde, bleibt stehen und hechelt",
+                                                             "Ruht der Cursor, putzt er den Desktop mit Besen oder Tuch",
+                                                             "Manchmal macht er einen Haufen und erschrickt davor. Schnapp ihn mit dem Cursor und wirf ihn über den Bildschirm oder lass ihn ihn fressen",
+                                                             "Zenfik haftet jetzt in klassischer Notch-Form am nächsten Bildschirmrand: oben, unten (gespiegelt) oder links/rechts. Nur in der Bildschirmmitte schwebt er als Pille"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.7-1.5.7/Zenfik-Setup.exe",
-                                  "version":  "1.4.7",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.8-1.5.8/Zenfik-Setup.exe",
+                                  "version":  "1.4.8",
                                   "notes":  {
                                                 "en":  [
-                                                           "Move Zenfik anywhere: Zenfik settings → Position → Move Zenfik. Drag it to the top, side or bottom of any screen and click Done",
-                                                           "Away from the top Zenfik becomes a floating pill and opens in the direction that fits, so at the bottom it grows upward",
-                                                           "Center puts it back in the middle at the top. Dragging it close to the top middle also snaps it back"
+                                                           "Desktop buddy (Widgets tab): Zenfik with arms and legs runs after your cursor. After a long run he gets tired, stops and pants",
+                                                           "When your cursor rests he cleans the desktop with a broom or a cloth",
+                                                           "Sometimes he poops and gets scared of it. Grab the poop with your cursor and throw it around the screen, or let him come over and eat it",
+                                                           "Zenfik now sticks to the nearest screen edge in the classic notch shape: top, bottom (flipped) or left/right side. Only in the middle of the screen does he float as a pill"
                                                        ],
                                                 "pl":  [
-                                                           "Przesuwaj Zenfika gdziekolwiek: ustawienia Zenfika → Położenie → Przesuń Zenfika. Przeciągnij go na górę, bok albo dół dowolnego ekranu i kliknij Gotowe",
-                                                           "Poza górną krawędzią Zenfik staje się pływającą pigułką i otwiera się w stronę, gdzie jest miejsce, więc na dole rośnie do góry",
-                                                           "Wyśrodkuj wraca go na środek u góry. Przeciągnięcie blisko środka u góry też go tam przykleja"
+                                                           "Zenfik na pulpicie (zakładka Widżety): Zenfik z rękami i nogami biega za kursorem. Po długim bieganiu się męczy, staje i dyszy",
+                                                           "Gdy kursor stoi, sprząta pulpit miotłą albo ściereczką",
+                                                           "Czasem zrobi kupę i się jej wystraszy. Złap kupę kursorem i rzucaj nią po ekranie albo pozwól mu podejść i ją zjeść",
+                                                           "Zenfik przykleja się teraz do najbliższej krawędzi ekranu w klasycznym kształcie notcha: góra, dół (odwrócony) albo lewy/prawy bok. Tylko na środku ekranu pływa jako pigułka"
                                                        ],
                                                 "es":  [
-                                                           "Mueve Zenfik a cualquier sitio: ajustes de Zenfik → Posición → Mover Zenfik. Arrástralo arriba, a un lado o abajo de cualquier pantalla y pulsa Listo",
-                                                           "Fuera del borde superior Zenfik se vuelve una píldora flotante y se abre hacia donde hay espacio, así abajo crece hacia arriba",
-                                                           "Centrar lo devuelve al centro de arriba. Arrastrarlo cerca del centro superior también lo pega ahí"
+                                                           "Mascota de escritorio (pestaña Widgets): Zenfik con brazos y piernas corre tras tu cursor. Tras correr mucho se cansa, se para y jadea",
+                                                           "Cuando el cursor está quieto limpia el escritorio con una escoba o un trapo",
+                                                           "A veces hace caca y se asusta. Agárrala con el cursor y lánzala por la pantalla, o deja que se acerque y se la coma",
+                                                           "Zenfik ahora se pega al borde más cercano con la forma clásica del notch: arriba, abajo (invertido) o a un lado. Solo en el centro flota como píldora"
                                                        ],
                                                 "de":  [
-                                                           "Verschiebe Zenfik überallhin: Zenfik-Einstellungen → Position → Zenfik verschieben. Zieh es nach oben, an die Seite oder nach unten auf jedem Bildschirm und klick auf Fertig",
-                                                           "Abseits des oberen Rands wird Zenfik zur schwebenden Pille und öffnet sich dorthin, wo Platz ist, unten also nach oben",
-                                                           "Zentrieren setzt es wieder oben in die Mitte. Wenn du es nahe an die Mitte oben ziehst, rastet es dort auch ein"
+                                                           "Desktop-Freund (Tab Widgets): Zenfik mit Armen und Beinen rennt deinem Cursor nach. Nach langem Rennen wird er müde, bleibt stehen und hechelt",
+                                                           "Ruht der Cursor, putzt er den Desktop mit Besen oder Tuch",
+                                                           "Manchmal macht er einen Haufen und erschrickt davor. Schnapp ihn mit dem Cursor und wirf ihn über den Bildschirm oder lass ihn ihn fressen",
+                                                           "Zenfik haftet jetzt in klassischer Notch-Form am nächsten Bildschirmrand: oben, unten (gespiegelt) oder links/rechts. Nur in der Bildschirmmitte schwebt er als Pille"
                                                        ]
                                             }
                               }
