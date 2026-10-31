@@ -1,64 +1,48 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.10-1.5.10/Zenfik-Setup.exe",
-                                    "version":  "1.4.10",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.11-1.5.11/Zenfik-Setup.exe",
+                                    "version":  "1.4.11",
                                     "notes":  {
                                                   "en":  [
-                                                             "Grab the desktop Zenfik with your cursor: he dangles, kicks and waves his arms. Throw him and he spins through the air, bounces off the screen edges and lands dizzy with stars around his head",
-                                                             "After landing he is either angry (red, steaming and stomping) or happy (jumping with stars)",
-                                                             "New things to do when your cursor rests: he sits down and swings his legs, waves at you, goes for a walk, or pulls out a sombrero, puts it on and walks around in it for a while",
-                                                             "He now stops next to your cursor instead of under it, so he never blocks what you click"
+                                                             "Lyrics work again. The main lyrics server (lrclib) is often down, so Zenfik now falls back to a second, very large lyrics source with synced lyrics",
+                                                             "Credit lines like composer and lyricist are removed so the lyrics start with the first sung line"
                                                          ],
                                                   "pl":  [
-                                                             "Złap Zenfika na pulpicie kursorem: wisi, macha nogami i rękami. Rzuć nim, a kręci się w powietrzu, odbija od krawędzi ekranu i ląduje oszołomiony z gwiazdkami nad głową",
-                                                             "Po wylądowaniu jest albo zły (czerwony, paruje i tupie), albo się cieszy (skacze z gwiazdkami)",
-                                                             "Nowe zajęcia, gdy kursor stoi: siada i macha nóżkami, macha do Ciebie ręką, idzie na spacer albo wyciąga sombrero, zakłada je i przez chwilę w nim chodzi",
-                                                             "Zatrzymuje się teraz obok kursora, a nie pod nim, więc nie zasłania tego, co klikasz"
+                                                             "Teksty piosenek znów działają. Główny serwer z tekstami (lrclib) często leży, więc Zenfik korzysta teraz z drugiego, bardzo dużego źródła ze zsynchronizowanymi tekstami",
+                                                             "Linijki z autorami tekstu i muzyki są usuwane, więc tekst zaczyna się od pierwszej śpiewanej linijki"
                                                          ],
                                                   "es":  [
-                                                             "Agarra al Zenfik del escritorio con el cursor: cuelga, patalea y agita los brazos. Lánzalo y girará en el aire, rebotará en los bordes y aterrizará mareado con estrellas sobre la cabeza",
-                                                             "Al aterrizar se enfada (rojo, echando vapor y pataleando) o se alegra (salta con estrellas)",
-                                                             "Más cosas cuando el cursor está quieto: se sienta y balancea las piernas, te saluda, da un paseo o saca un sombrero, se lo pone y pasea con él",
-                                                             "Ahora se para junto al cursor y no debajo, así nunca tapa lo que pulsas"
+                                                             "Las letras vuelven a funcionar. El servidor principal (lrclib) falla a menudo, así que Zenfik usa ahora una segunda fuente muy grande con letras sincronizadas",
+                                                             "Se quitan las líneas de créditos como compositor y letrista, así la letra empieza con la primera línea cantada"
                                                          ],
                                                   "de":  [
-                                                             "Schnapp dir den Desktop-Zenfik mit dem Cursor: er baumelt, strampelt und fuchtelt. Wirf ihn, dann dreht er sich durch die Luft, prallt an den Rändern ab und landet benommen mit Sternen über dem Kopf",
-                                                             "Nach der Landung ist er entweder sauer (rot, dampfend und stampfend) oder froh (hüpft mit Sternen)",
-                                                             "Neues, wenn der Cursor ruht: er setzt sich und baumelt mit den Beinen, winkt dir, geht spazieren oder holt einen Sombrero heraus, setzt ihn auf und läuft eine Weile damit herum",
-                                                             "Er bleibt jetzt neben dem Cursor statt darunter stehen und verdeckt nie, was du anklickst"
+                                                             "Songtexte funktionieren wieder. Der Hauptserver (lrclib) fällt oft aus, daher nutzt Zenfik jetzt eine zweite, sehr große Quelle mit synchronisierten Texten",
+                                                             "Zeilen mit Komponist und Texter werden entfernt, sodass der Text mit der ersten gesungenen Zeile beginnt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.10-1.5.10/Zenfik-Setup.exe",
-                                  "version":  "1.4.10",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.11-1.5.11/Zenfik-Setup.exe",
+                                  "version":  "1.4.11",
                                   "notes":  {
                                                 "en":  [
-                                                           "Grab the desktop Zenfik with your cursor: he dangles, kicks and waves his arms. Throw him and he spins through the air, bounces off the screen edges and lands dizzy with stars around his head",
-                                                           "After landing he is either angry (red, steaming and stomping) or happy (jumping with stars)",
-                                                           "New things to do when your cursor rests: he sits down and swings his legs, waves at you, goes for a walk, or pulls out a sombrero, puts it on and walks around in it for a while",
-                                                           "He now stops next to your cursor instead of under it, so he never blocks what you click"
+                                                           "Lyrics work again. The main lyrics server (lrclib) is often down, so Zenfik now falls back to a second, very large lyrics source with synced lyrics",
+                                                           "Credit lines like composer and lyricist are removed so the lyrics start with the first sung line"
                                                        ],
                                                 "pl":  [
-                                                           "Złap Zenfika na pulpicie kursorem: wisi, macha nogami i rękami. Rzuć nim, a kręci się w powietrzu, odbija od krawędzi ekranu i ląduje oszołomiony z gwiazdkami nad głową",
-                                                           "Po wylądowaniu jest albo zły (czerwony, paruje i tupie), albo się cieszy (skacze z gwiazdkami)",
-                                                           "Nowe zajęcia, gdy kursor stoi: siada i macha nóżkami, macha do Ciebie ręką, idzie na spacer albo wyciąga sombrero, zakłada je i przez chwilę w nim chodzi",
-                                                           "Zatrzymuje się teraz obok kursora, a nie pod nim, więc nie zasłania tego, co klikasz"
+                                                           "Teksty piosenek znów działają. Główny serwer z tekstami (lrclib) często leży, więc Zenfik korzysta teraz z drugiego, bardzo dużego źródła ze zsynchronizowanymi tekstami",
+                                                           "Linijki z autorami tekstu i muzyki są usuwane, więc tekst zaczyna się od pierwszej śpiewanej linijki"
                                                        ],
                                                 "es":  [
-                                                           "Agarra al Zenfik del escritorio con el cursor: cuelga, patalea y agita los brazos. Lánzalo y girará en el aire, rebotará en los bordes y aterrizará mareado con estrellas sobre la cabeza",
-                                                           "Al aterrizar se enfada (rojo, echando vapor y pataleando) o se alegra (salta con estrellas)",
-                                                           "Más cosas cuando el cursor está quieto: se sienta y balancea las piernas, te saluda, da un paseo o saca un sombrero, se lo pone y pasea con él",
-                                                           "Ahora se para junto al cursor y no debajo, así nunca tapa lo que pulsas"
+                                                           "Las letras vuelven a funcionar. El servidor principal (lrclib) falla a menudo, así que Zenfik usa ahora una segunda fuente muy grande con letras sincronizadas",
+                                                           "Se quitan las líneas de créditos como compositor y letrista, así la letra empieza con la primera línea cantada"
                                                        ],
                                                 "de":  [
-                                                           "Schnapp dir den Desktop-Zenfik mit dem Cursor: er baumelt, strampelt und fuchtelt. Wirf ihn, dann dreht er sich durch die Luft, prallt an den Rändern ab und landet benommen mit Sternen über dem Kopf",
-                                                           "Nach der Landung ist er entweder sauer (rot, dampfend und stampfend) oder froh (hüpft mit Sternen)",
-                                                           "Neues, wenn der Cursor ruht: er setzt sich und baumelt mit den Beinen, winkt dir, geht spazieren oder holt einen Sombrero heraus, setzt ihn auf und läuft eine Weile damit herum",
-                                                           "Er bleibt jetzt neben dem Cursor statt darunter stehen und verdeckt nie, was du anklickst"
+                                                           "Songtexte funktionieren wieder. Der Hauptserver (lrclib) fällt oft aus, daher nutzt Zenfik jetzt eine zweite, sehr große Quelle mit synchronisierten Texten",
+                                                           "Zeilen mit Komponist und Texter werden entfernt, sodass der Text mit der ersten gesungenen Zeile beginnt"
                                                        ]
                                             }
                               }
