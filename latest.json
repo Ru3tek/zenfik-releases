@@ -1,48 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.11-1.5.11/Zenfik-Setup.exe",
-                                    "version":  "1.4.11",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.12-1.5.12/Zenfik-Setup.exe",
+                                    "version":  "1.4.12",
                                     "notes":  {
                                                   "en":  [
-                                                             "Lyrics work again. The main lyrics server (lrclib) is often down, so Zenfik now falls back to a second, very large lyrics source with synced lyrics",
-                                                             "Credit lines like composer and lyricist are removed so the lyrics start with the first sung line"
+                                                             "Something small and blue is hiding somewhere in the launcher files…"
                                                          ],
                                                   "pl":  [
-                                                             "Teksty piosenek znów działają. Główny serwer z tekstami (lrclib) często leży, więc Zenfik korzysta teraz z drugiego, bardzo dużego źródła ze zsynchronizowanymi tekstami",
-                                                             "Linijki z autorami tekstu i muzyki są usuwane, więc tekst zaczyna się od pierwszej śpiewanej linijki"
+                                                             "Coś małego i niebieskiego ukryło się gdzieś w plikach launchera…"
                                                          ],
                                                   "es":  [
-                                                             "Las letras vuelven a funcionar. El servidor principal (lrclib) falla a menudo, así que Zenfik usa ahora una segunda fuente muy grande con letras sincronizadas",
-                                                             "Se quitan las líneas de créditos como compositor y letrista, así la letra empieza con la primera línea cantada"
+                                                             "Algo pequeño y azul se esconde en algún lugar de los archivos del launcher…"
                                                          ],
                                                   "de":  [
-                                                             "Songtexte funktionieren wieder. Der Hauptserver (lrclib) fällt oft aus, daher nutzt Zenfik jetzt eine zweite, sehr große Quelle mit synchronisierten Texten",
-                                                             "Zeilen mit Komponist und Texter werden entfernt, sodass der Text mit der ersten gesungenen Zeile beginnt"
+                                                             "Etwas Kleines und Blaues versteckt sich irgendwo in den Launcher-Dateien…"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.11-1.5.11/Zenfik-Setup.exe",
-                                  "version":  "1.4.11",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.12-1.5.12/Zenfik-Setup.exe",
+                                  "version":  "1.4.12",
                                   "notes":  {
                                                 "en":  [
-                                                           "Lyrics work again. The main lyrics server (lrclib) is often down, so Zenfik now falls back to a second, very large lyrics source with synced lyrics",
-                                                           "Credit lines like composer and lyricist are removed so the lyrics start with the first sung line"
+                                                           "Something small and blue is hiding somewhere in the launcher files…"
                                                        ],
                                                 "pl":  [
-                                                           "Teksty piosenek znów działają. Główny serwer z tekstami (lrclib) często leży, więc Zenfik korzysta teraz z drugiego, bardzo dużego źródła ze zsynchronizowanymi tekstami",
-                                                           "Linijki z autorami tekstu i muzyki są usuwane, więc tekst zaczyna się od pierwszej śpiewanej linijki"
+                                                           "Coś małego i niebieskiego ukryło się gdzieś w plikach launchera…"
                                                        ],
                                                 "es":  [
-                                                           "Las letras vuelven a funcionar. El servidor principal (lrclib) falla a menudo, así que Zenfik usa ahora una segunda fuente muy grande con letras sincronizadas",
-                                                           "Se quitan las líneas de créditos como compositor y letrista, así la letra empieza con la primera línea cantada"
+                                                           "Algo pequeño y azul se esconde en algún lugar de los archivos del launcher…"
                                                        ],
                                                 "de":  [
-                                                           "Songtexte funktionieren wieder. Der Hauptserver (lrclib) fällt oft aus, daher nutzt Zenfik jetzt eine zweite, sehr große Quelle mit synchronisierten Texten",
-                                                           "Zeilen mit Komponist und Texter werden entfernt, sodass der Text mit der ersten gesungenen Zeile beginnt"
+                                                           "Etwas Kleines und Blaues versteckt sich irgendwo in den Launcher-Dateien…"
                                                        ]
                                             }
                               }
