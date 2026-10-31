@@ -1,40 +1,40 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.8-1.5.0/Zenfik-Setup.exe",
-                                    "version":  "1.3.8",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.9-1.5.0/Zenfik-Setup.exe",
+                                    "version":  "1.3.9",
                                     "notes":  {
                                                   "en":  [
-                                                             "New in Zenfik → Music: Music source. Choose Spotify, Browser or Playing now, so a YouTube video no longer replaces your Spotify song in the notch"
+                                                             "New launcher look matching the Zenfik website: sharp lines, a pink accent, the same fonts and a calmer, minimal layout"
                                                          ],
                                                   "pl":  [
-                                                             "Nowość w Zenfik → Muzyka: Źródło muzyki. Wybierz Spotify, Przeglądarkę albo To, co gra, żeby film z YouTube nie zastępował piosenki ze Spotify w notchu"
+                                                             "Nowy wygląd launchera jak na stronie Zenfika: ostre linie, różowy akcent, te same fonty i spokojny, minimalistyczny układ"
                                                          ],
                                                   "es":  [
-                                                             "Nuevo en Zenfik → Música: Fuente de música. Elige Spotify, Navegador o Lo que suena, para que un vídeo de YouTube no sustituya tu canción de Spotify"
+                                                             "Nuevo aspecto del launcher como la web de Zenfik: líneas rectas, acento rosa, las mismas fuentes y un diseño minimalista"
                                                          ],
                                                   "de":  [
-                                                             "Neu unter Zenfik → Musik: Musikquelle. Wähle Spotify, Browser oder Was gerade läuft, damit ein YouTube-Video deinen Spotify-Song nicht ersetzt"
+                                                             "Neuer Launcher-Look wie die Zenfik-Website: klare Linien, pinker Akzent, dieselben Schriften und ein ruhiges, minimales Layout"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.8-1.5.0/Zenfik-Setup.exe",
-                                  "version":  "1.3.8",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.3.9-1.5.0/Zenfik-Setup.exe",
+                                  "version":  "1.3.9",
                                   "notes":  {
                                                 "en":  [
-                                                           "New in Zenfik → Music: Music source. Choose Spotify, Browser or Playing now, so a YouTube video no longer replaces your Spotify song in the notch"
+                                                           "New launcher look matching the Zenfik website: sharp lines, a pink accent, the same fonts and a calmer, minimal layout"
                                                        ],
                                                 "pl":  [
-                                                           "Nowość w Zenfik → Muzyka: Źródło muzyki. Wybierz Spotify, Przeglądarkę albo To, co gra, żeby film z YouTube nie zastępował piosenki ze Spotify w notchu"
+                                                           "Nowy wygląd launchera jak na stronie Zenfika: ostre linie, różowy akcent, te same fonty i spokojny, minimalistyczny układ"
                                                        ],
                                                 "es":  [
-                                                           "Nuevo en Zenfik → Música: Fuente de música. Elige Spotify, Navegador o Lo que suena, para que un vídeo de YouTube no sustituya tu canción de Spotify"
+                                                           "Nuevo aspecto del launcher como la web de Zenfik: líneas rectas, acento rosa, las mismas fuentes y un diseño minimalista"
                                                        ],
                                                 "de":  [
-                                                           "Neu unter Zenfik → Musik: Musikquelle. Wähle Spotify, Browser oder Was gerade läuft, damit ein YouTube-Video deinen Spotify-Song nicht ersetzt"
+                                                           "Neuer Launcher-Look wie die Zenfik-Website: klare Linien, pinker Akzent, dieselben Schriften und ein ruhiges, minimales Layout"
                                                        ]
                                             }
                               }
