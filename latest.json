@@ -1,50 +1,74 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.16-1.5.16/Zenfik-Setup.exe",
-                                    "version":  "1.4.16",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.17-1.5.17/Zenfik-Setup.exe",
+                                    "version":  "1.4.17",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Updates are simpler now: important fixes install by themselves in the background, while new features and regular improvements come with the normal update window",
-                                                             "The Silent updates switch is gone, there is nothing to set"
+                                                             "Fixed a crash: Zenfik could close itself with the weather widget during the first 25 minutes after starting the computer",
+                                                             "Widget statistics (CPU, RAM, network, disk) are now read in the background, so widgets, the notch and the buddy no longer freeze for up to almost a second under heavy load",
+                                                             "The desktop buddy runs on a precise clock: smooth movement instead of stuttering, and dragging him or his poop no longer redraws on every mouse movement",
+                                                             "Small notch animations run at 30 fps, widget glass is no longer recalculated on hover and frees its memory after drawing",
+                                                             "Zenfik\u0027s interface thread gets a slightly higher priority, so it stays smooth even when a game loads the CPU"
                                                          ],
                                                   "pl":  [
-                                                             "Prostsze aktualizacje: ważne poprawki instalują się same w tle, a nowe funkcje i zwykłe ulepszenia przychodzą przez normalne okienko aktualizacji",
-                                                             "Przełącznik Ciche aktualizacje zniknął, nie trzeba nic ustawiać"
+                                                             "Naprawiono wysypywanie się: Zenfik z widżetem pogody mógł się sam zamykać przez pierwsze 25 minut po włączeniu komputera",
+                                                             "Statystyki widżetów (procesor, RAM, sieć, dysk) są teraz odczytywane w tle, więc widżety, notch i zwierzak nie zamarzają już pod dużym obciążeniem nawet na prawie sekundę",
+                                                             "Zwierzak chodzi na precyzyjnym zegarze: płynny ruch zamiast szarpania, a przeciąganie jego albo kupy nie przerysowuje się przy każdym ruchu myszy",
+                                                             "Drobne animacje notcha idą w 30 kl./s, szkło widżetów nie przelicza się przy najechaniu i zwalnia pamięć po narysowaniu",
+                                                             "Wątek interfejsu Zenfika ma lekko wyższy priorytet, więc działa płynnie nawet gdy gra obciąża procesor"
                                                          ],
                                                   "es":  [
-                                                             "Actualizaciones más simples: las correcciones importantes se instalan solas en segundo plano y las novedades y mejoras llegan con la ventana normal",
-                                                             "El interruptor de Actualizaciones silenciosas ya no existe, no hay nada que configurar"
+                                                             "Corregido un cierre: Zenfik podía cerrarse con el widget del tiempo durante los primeros 25 minutos tras encender el ordenador",
+                                                             "Las estadísticas de los widgets (CPU, RAM, red, disco) se leen ahora en segundo plano, así widgets, notch y mascota ya no se congelan casi un segundo con mucha carga",
+                                                             "La mascota usa un reloj preciso: movimiento fluido sin tirones, y arrastrarla a ella o su caca ya no redibuja con cada movimiento del ratón",
+                                                             "Las pequeñas animaciones del notch van a 30 fps, el cristal de los widgets ya no se recalcula al pasar el ratón y libera memoria tras dibujarse",
+                                                             "El hilo de interfaz de Zenfik tiene una prioridad algo mayor para seguir fluido aunque un juego cargue la CPU"
                                                          ],
                                                   "de":  [
-                                                             "Einfachere Updates: wichtige Korrekturen installieren sich selbst im Hintergrund, Neuerungen und normale Verbesserungen kommen mit dem gewohnten Update-Fenster",
-                                                             "Der Schalter Stille Updates ist weg, es gibt nichts einzustellen"
+                                                             "Absturz behoben: Zenfik konnte sich mit dem Wetter-Widget in den ersten 25 Minuten nach dem Hochfahren selbst schließen",
+                                                             "Widget-Statistiken (CPU, RAM, Netzwerk, Laufwerk) werden jetzt im Hintergrund gelesen, so frieren Widgets, Notch und Freund unter hoher Last nicht mehr fast eine Sekunde ein",
+                                                             "Der Freund läuft auf einem präzisen Takt: flüssige Bewegung statt Ruckeln, und Ziehen von ihm oder seinem Haufen zeichnet nicht mehr bei jeder Mausbewegung neu",
+                                                             "Kleine Notch-Animationen laufen mit 30 fps, das Widget-Glas wird beim Überfahren nicht mehr neu berechnet und gibt nach dem Zeichnen Speicher frei",
+                                                             "Der Oberflächen-Thread von Zenfik hat eine etwas höhere Priorität und bleibt flüssig, auch wenn ein Spiel die CPU auslastet"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.16-1.5.16/Zenfik-Setup.exe",
-                                  "version":  "1.4.16",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.17-1.5.17/Zenfik-Setup.exe",
+                                  "version":  "1.4.17",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Updates are simpler now: important fixes install by themselves in the background, while new features and regular improvements come with the normal update window",
-                                                           "The Silent updates switch is gone, there is nothing to set"
+                                                           "Fixed a crash: Zenfik could close itself with the weather widget during the first 25 minutes after starting the computer",
+                                                           "Widget statistics (CPU, RAM, network, disk) are now read in the background, so widgets, the notch and the buddy no longer freeze for up to almost a second under heavy load",
+                                                           "The desktop buddy runs on a precise clock: smooth movement instead of stuttering, and dragging him or his poop no longer redraws on every mouse movement",
+                                                           "Small notch animations run at 30 fps, widget glass is no longer recalculated on hover and frees its memory after drawing",
+                                                           "Zenfik\u0027s interface thread gets a slightly higher priority, so it stays smooth even when a game loads the CPU"
                                                        ],
                                                 "pl":  [
-                                                           "Prostsze aktualizacje: ważne poprawki instalują się same w tle, a nowe funkcje i zwykłe ulepszenia przychodzą przez normalne okienko aktualizacji",
-                                                           "Przełącznik Ciche aktualizacje zniknął, nie trzeba nic ustawiać"
+                                                           "Naprawiono wysypywanie się: Zenfik z widżetem pogody mógł się sam zamykać przez pierwsze 25 minut po włączeniu komputera",
+                                                           "Statystyki widżetów (procesor, RAM, sieć, dysk) są teraz odczytywane w tle, więc widżety, notch i zwierzak nie zamarzają już pod dużym obciążeniem nawet na prawie sekundę",
+                                                           "Zwierzak chodzi na precyzyjnym zegarze: płynny ruch zamiast szarpania, a przeciąganie jego albo kupy nie przerysowuje się przy każdym ruchu myszy",
+                                                           "Drobne animacje notcha idą w 30 kl./s, szkło widżetów nie przelicza się przy najechaniu i zwalnia pamięć po narysowaniu",
+                                                           "Wątek interfejsu Zenfika ma lekko wyższy priorytet, więc działa płynnie nawet gdy gra obciąża procesor"
                                                        ],
                                                 "es":  [
-                                                           "Actualizaciones más simples: las correcciones importantes se instalan solas en segundo plano y las novedades y mejoras llegan con la ventana normal",
-                                                           "El interruptor de Actualizaciones silenciosas ya no existe, no hay nada que configurar"
+                                                           "Corregido un cierre: Zenfik podía cerrarse con el widget del tiempo durante los primeros 25 minutos tras encender el ordenador",
+                                                           "Las estadísticas de los widgets (CPU, RAM, red, disco) se leen ahora en segundo plano, así widgets, notch y mascota ya no se congelan casi un segundo con mucha carga",
+                                                           "La mascota usa un reloj preciso: movimiento fluido sin tirones, y arrastrarla a ella o su caca ya no redibuja con cada movimiento del ratón",
+                                                           "Las pequeñas animaciones del notch van a 30 fps, el cristal de los widgets ya no se recalcula al pasar el ratón y libera memoria tras dibujarse",
+                                                           "El hilo de interfaz de Zenfik tiene una prioridad algo mayor para seguir fluido aunque un juego cargue la CPU"
                                                        ],
                                                 "de":  [
-                                                           "Einfachere Updates: wichtige Korrekturen installieren sich selbst im Hintergrund, Neuerungen und normale Verbesserungen kommen mit dem gewohnten Update-Fenster",
-                                                           "Der Schalter Stille Updates ist weg, es gibt nichts einzustellen"
+                                                           "Absturz behoben: Zenfik konnte sich mit dem Wetter-Widget in den ersten 25 Minuten nach dem Hochfahren selbst schließen",
+                                                           "Widget-Statistiken (CPU, RAM, Netzwerk, Laufwerk) werden jetzt im Hintergrund gelesen, so frieren Widgets, Notch und Freund unter hoher Last nicht mehr fast eine Sekunde ein",
+                                                           "Der Freund läuft auf einem präzisen Takt: flüssige Bewegung statt Ruckeln, und Ziehen von ihm oder seinem Haufen zeichnet nicht mehr bei jeder Mausbewegung neu",
+                                                           "Kleine Notch-Animationen laufen mit 30 fps, das Widget-Glas wird beim Überfahren nicht mehr neu berechnet und gibt nach dem Zeichnen Speicher frei",
+                                                           "Der Oberflächen-Thread von Zenfik hat eine etwas höhere Priorität und bleibt flüssig, auch wenn ein Spiel die CPU auslastet"
                                                        ]
                                             }
                               }
