@@ -1,74 +1,58 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.17-1.5.17/Zenfik-Setup.exe",
-                                    "version":  "1.4.17",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.18-1.5.18/Zenfik-Setup.exe",
+                                    "version":  "1.4.18",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Fixed a crash: Zenfik could close itself with the weather widget during the first 25 minutes after starting the computer",
-                                                             "Widget statistics (CPU, RAM, network, disk) are now read in the background, so widgets, the notch and the buddy no longer freeze for up to almost a second under heavy load",
-                                                             "The desktop buddy runs on a precise clock: smooth movement instead of stuttering, and dragging him or his poop no longer redraws on every mouse movement",
-                                                             "Small notch animations run at 30 fps, widget glass is no longer recalculated on hover and frees its memory after drawing",
-                                                             "Zenfik\u0027s interface thread gets a slightly higher priority, so it stays smooth even when a game loads the CPU"
+                                                             "The weather widget works again. Windows refused the secure connection to the weather service, so Zenfik now has a second, more compatible way to connect (lyrics use it too)",
+                                                             "The network widget now shows speed in Mb/s, the same unit your internet provider uses (600 Mb/s fiber is about 75 MB/s), plus the connection name and its maximum speed",
+                                                             "The network widget shows current usage: when nothing big is downloading it is normal to see only a few kb/s"
                                                          ],
                                                   "pl":  [
-                                                             "Naprawiono wysypywanie się: Zenfik z widżetem pogody mógł się sam zamykać przez pierwsze 25 minut po włączeniu komputera",
-                                                             "Statystyki widżetów (procesor, RAM, sieć, dysk) są teraz odczytywane w tle, więc widżety, notch i zwierzak nie zamarzają już pod dużym obciążeniem nawet na prawie sekundę",
-                                                             "Zwierzak chodzi na precyzyjnym zegarze: płynny ruch zamiast szarpania, a przeciąganie jego albo kupy nie przerysowuje się przy każdym ruchu myszy",
-                                                             "Drobne animacje notcha idą w 30 kl./s, szkło widżetów nie przelicza się przy najechaniu i zwalnia pamięć po narysowaniu",
-                                                             "Wątek interfejsu Zenfika ma lekko wyższy priorytet, więc działa płynnie nawet gdy gra obciąża procesor"
+                                                             "Widżet pogody znów działa. Windows odrzucał bezpieczne połączenie z serwisem pogody, więc Zenfik ma teraz drugi, bardziej zgodny sposób łączenia (korzystają z niego też teksty piosenek)",
+                                                             "Widżet sieci pokazuje teraz prędkość w Mb/s, czyli w tych samych jednostkach co operator (światłowód 600 Mb/s to ok. 75 MB/s), do tego nazwę połączenia i jego maksymalną prędkość",
+                                                             "Widżet sieci pokazuje bieżące użycie: gdy nic dużego się nie pobiera, normalne jest kilka kb/s"
                                                          ],
                                                   "es":  [
-                                                             "Corregido un cierre: Zenfik podía cerrarse con el widget del tiempo durante los primeros 25 minutos tras encender el ordenador",
-                                                             "Las estadísticas de los widgets (CPU, RAM, red, disco) se leen ahora en segundo plano, así widgets, notch y mascota ya no se congelan casi un segundo con mucha carga",
-                                                             "La mascota usa un reloj preciso: movimiento fluido sin tirones, y arrastrarla a ella o su caca ya no redibuja con cada movimiento del ratón",
-                                                             "Las pequeñas animaciones del notch van a 30 fps, el cristal de los widgets ya no se recalcula al pasar el ratón y libera memoria tras dibujarse",
-                                                             "El hilo de interfaz de Zenfik tiene una prioridad algo mayor para seguir fluido aunque un juego cargue la CPU"
+                                                             "El widget del tiempo vuelve a funcionar. Windows rechazaba la conexión segura con el servicio meteorológico, así que Zenfik tiene ahora una segunda forma más compatible de conectarse (también la usan las letras)",
+                                                             "El widget de red muestra ahora la velocidad en Mb/s, la misma unidad que tu proveedor (fibra de 600 Mb/s son unos 75 MB/s), además del nombre de la conexión y su velocidad máxima",
+                                                             "El widget de red muestra el uso actual: si no se descarga nada grande, es normal ver solo unos kb/s"
                                                          ],
                                                   "de":  [
-                                                             "Absturz behoben: Zenfik konnte sich mit dem Wetter-Widget in den ersten 25 Minuten nach dem Hochfahren selbst schließen",
-                                                             "Widget-Statistiken (CPU, RAM, Netzwerk, Laufwerk) werden jetzt im Hintergrund gelesen, so frieren Widgets, Notch und Freund unter hoher Last nicht mehr fast eine Sekunde ein",
-                                                             "Der Freund läuft auf einem präzisen Takt: flüssige Bewegung statt Ruckeln, und Ziehen von ihm oder seinem Haufen zeichnet nicht mehr bei jeder Mausbewegung neu",
-                                                             "Kleine Notch-Animationen laufen mit 30 fps, das Widget-Glas wird beim Überfahren nicht mehr neu berechnet und gibt nach dem Zeichnen Speicher frei",
-                                                             "Der Oberflächen-Thread von Zenfik hat eine etwas höhere Priorität und bleibt flüssig, auch wenn ein Spiel die CPU auslastet"
+                                                             "Das Wetter-Widget funktioniert wieder. Windows lehnte die sichere Verbindung zum Wetterdienst ab, deshalb hat Zenfik jetzt einen zweiten, kompatibleren Verbindungsweg (auch für Songtexte)",
+                                                             "Das Netzwerk-Widget zeigt die Geschwindigkeit jetzt in Mb/s, der Einheit deines Anbieters (600 Mb/s Glasfaser sind etwa 75 MB/s), dazu Verbindungsname und maximale Geschwindigkeit",
+                                                             "Das Netzwerk-Widget zeigt die aktuelle Nutzung: lädt nichts Großes, sind ein paar kb/s normal"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.17-1.5.17/Zenfik-Setup.exe",
-                                  "version":  "1.4.17",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.18-1.5.18/Zenfik-Setup.exe",
+                                  "version":  "1.4.18",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Fixed a crash: Zenfik could close itself with the weather widget during the first 25 minutes after starting the computer",
-                                                           "Widget statistics (CPU, RAM, network, disk) are now read in the background, so widgets, the notch and the buddy no longer freeze for up to almost a second under heavy load",
-                                                           "The desktop buddy runs on a precise clock: smooth movement instead of stuttering, and dragging him or his poop no longer redraws on every mouse movement",
-                                                           "Small notch animations run at 30 fps, widget glass is no longer recalculated on hover and frees its memory after drawing",
-                                                           "Zenfik\u0027s interface thread gets a slightly higher priority, so it stays smooth even when a game loads the CPU"
+                                                           "The weather widget works again. Windows refused the secure connection to the weather service, so Zenfik now has a second, more compatible way to connect (lyrics use it too)",
+                                                           "The network widget now shows speed in Mb/s, the same unit your internet provider uses (600 Mb/s fiber is about 75 MB/s), plus the connection name and its maximum speed",
+                                                           "The network widget shows current usage: when nothing big is downloading it is normal to see only a few kb/s"
                                                        ],
                                                 "pl":  [
-                                                           "Naprawiono wysypywanie się: Zenfik z widżetem pogody mógł się sam zamykać przez pierwsze 25 minut po włączeniu komputera",
-                                                           "Statystyki widżetów (procesor, RAM, sieć, dysk) są teraz odczytywane w tle, więc widżety, notch i zwierzak nie zamarzają już pod dużym obciążeniem nawet na prawie sekundę",
-                                                           "Zwierzak chodzi na precyzyjnym zegarze: płynny ruch zamiast szarpania, a przeciąganie jego albo kupy nie przerysowuje się przy każdym ruchu myszy",
-                                                           "Drobne animacje notcha idą w 30 kl./s, szkło widżetów nie przelicza się przy najechaniu i zwalnia pamięć po narysowaniu",
-                                                           "Wątek interfejsu Zenfika ma lekko wyższy priorytet, więc działa płynnie nawet gdy gra obciąża procesor"
+                                                           "Widżet pogody znów działa. Windows odrzucał bezpieczne połączenie z serwisem pogody, więc Zenfik ma teraz drugi, bardziej zgodny sposób łączenia (korzystają z niego też teksty piosenek)",
+                                                           "Widżet sieci pokazuje teraz prędkość w Mb/s, czyli w tych samych jednostkach co operator (światłowód 600 Mb/s to ok. 75 MB/s), do tego nazwę połączenia i jego maksymalną prędkość",
+                                                           "Widżet sieci pokazuje bieżące użycie: gdy nic dużego się nie pobiera, normalne jest kilka kb/s"
                                                        ],
                                                 "es":  [
-                                                           "Corregido un cierre: Zenfik podía cerrarse con el widget del tiempo durante los primeros 25 minutos tras encender el ordenador",
-                                                           "Las estadísticas de los widgets (CPU, RAM, red, disco) se leen ahora en segundo plano, así widgets, notch y mascota ya no se congelan casi un segundo con mucha carga",
-                                                           "La mascota usa un reloj preciso: movimiento fluido sin tirones, y arrastrarla a ella o su caca ya no redibuja con cada movimiento del ratón",
-                                                           "Las pequeñas animaciones del notch van a 30 fps, el cristal de los widgets ya no se recalcula al pasar el ratón y libera memoria tras dibujarse",
-                                                           "El hilo de interfaz de Zenfik tiene una prioridad algo mayor para seguir fluido aunque un juego cargue la CPU"
+                                                           "El widget del tiempo vuelve a funcionar. Windows rechazaba la conexión segura con el servicio meteorológico, así que Zenfik tiene ahora una segunda forma más compatible de conectarse (también la usan las letras)",
+                                                           "El widget de red muestra ahora la velocidad en Mb/s, la misma unidad que tu proveedor (fibra de 600 Mb/s son unos 75 MB/s), además del nombre de la conexión y su velocidad máxima",
+                                                           "El widget de red muestra el uso actual: si no se descarga nada grande, es normal ver solo unos kb/s"
                                                        ],
                                                 "de":  [
-                                                           "Absturz behoben: Zenfik konnte sich mit dem Wetter-Widget in den ersten 25 Minuten nach dem Hochfahren selbst schließen",
-                                                           "Widget-Statistiken (CPU, RAM, Netzwerk, Laufwerk) werden jetzt im Hintergrund gelesen, so frieren Widgets, Notch und Freund unter hoher Last nicht mehr fast eine Sekunde ein",
-                                                           "Der Freund läuft auf einem präzisen Takt: flüssige Bewegung statt Ruckeln, und Ziehen von ihm oder seinem Haufen zeichnet nicht mehr bei jeder Mausbewegung neu",
-                                                           "Kleine Notch-Animationen laufen mit 30 fps, das Widget-Glas wird beim Überfahren nicht mehr neu berechnet und gibt nach dem Zeichnen Speicher frei",
-                                                           "Der Oberflächen-Thread von Zenfik hat eine etwas höhere Priorität und bleibt flüssig, auch wenn ein Spiel die CPU auslastet"
+                                                           "Das Wetter-Widget funktioniert wieder. Windows lehnte die sichere Verbindung zum Wetterdienst ab, deshalb hat Zenfik jetzt einen zweiten, kompatibleren Verbindungsweg (auch für Songtexte)",
+                                                           "Das Netzwerk-Widget zeigt die Geschwindigkeit jetzt in Mb/s, der Einheit deines Anbieters (600 Mb/s Glasfaser sind etwa 75 MB/s), dazu Verbindungsname und maximale Geschwindigkeit",
+                                                           "Das Netzwerk-Widget zeigt die aktuelle Nutzung: lädt nichts Großes, sind ein paar kb/s normal"
                                                        ]
                                             }
                               }
