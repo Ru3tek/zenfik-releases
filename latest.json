@@ -1,58 +1,50 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.18-1.5.18/Zenfik-Setup.exe",
-                                    "version":  "1.4.18",
-                                    "silent":  false,
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.19-1.5.19/Zenfik-Setup.exe",
+                                    "version":  "1.4.19",
+                                    "silent":  true,
                                     "notes":  {
                                                   "en":  [
-                                                             "The weather widget works again. Windows refused the secure connection to the weather service, so Zenfik now has a second, more compatible way to connect (lyrics use it too)",
-                                                             "The network widget now shows speed in Mb/s, the same unit your internet provider uses (600 Mb/s fiber is about 75 MB/s), plus the connection name and its maximum speed",
-                                                             "The network widget shows current usage: when nothing big is downloading it is normal to see only a few kb/s"
+                                                             "All Zenfik settings and data are now in one folder: %APPDATA%\\Zenfik, with just settings.json (all settings) and data.json (tasks, water, shelf, positions)",
+                                                             "Old scattered files (launcher.json, config.json, desk.json, launcher.txt, version.txt) are moved over automatically and removed"
                                                          ],
                                                   "pl":  [
-                                                             "Widżet pogody znów działa. Windows odrzucał bezpieczne połączenie z serwisem pogody, więc Zenfik ma teraz drugi, bardziej zgodny sposób łączenia (korzystają z niego też teksty piosenek)",
-                                                             "Widżet sieci pokazuje teraz prędkość w Mb/s, czyli w tych samych jednostkach co operator (światłowód 600 Mb/s to ok. 75 MB/s), do tego nazwę połączenia i jego maksymalną prędkość",
-                                                             "Widżet sieci pokazuje bieżące użycie: gdy nic dużego się nie pobiera, normalne jest kilka kb/s"
+                                                             "Wszystkie ustawienia i dane Zenfika są teraz w jednym folderze: %APPDATA%\\Zenfik, tylko settings.json (wszystkie ustawienia) i data.json (zadania, woda, półka, pozycje)",
+                                                             "Stare rozrzucone pliki (launcher.json, config.json, desk.json, launcher.txt, version.txt) są automatycznie przenoszone i usuwane"
                                                          ],
                                                   "es":  [
-                                                             "El widget del tiempo vuelve a funcionar. Windows rechazaba la conexión segura con el servicio meteorológico, así que Zenfik tiene ahora una segunda forma más compatible de conectarse (también la usan las letras)",
-                                                             "El widget de red muestra ahora la velocidad en Mb/s, la misma unidad que tu proveedor (fibra de 600 Mb/s son unos 75 MB/s), además del nombre de la conexión y su velocidad máxima",
-                                                             "El widget de red muestra el uso actual: si no se descarga nada grande, es normal ver solo unos kb/s"
+                                                             "Todos los ajustes y datos de Zenfik están ahora en una carpeta: %APPDATA%\\Zenfik, solo settings.json (ajustes) y data.json (tareas, agua, estante, posiciones)",
+                                                             "Los antiguos archivos dispersos (launcher.json, config.json, desk.json, launcher.txt, version.txt) se trasladan y eliminan automáticamente"
                                                          ],
                                                   "de":  [
-                                                             "Das Wetter-Widget funktioniert wieder. Windows lehnte die sichere Verbindung zum Wetterdienst ab, deshalb hat Zenfik jetzt einen zweiten, kompatibleren Verbindungsweg (auch für Songtexte)",
-                                                             "Das Netzwerk-Widget zeigt die Geschwindigkeit jetzt in Mb/s, der Einheit deines Anbieters (600 Mb/s Glasfaser sind etwa 75 MB/s), dazu Verbindungsname und maximale Geschwindigkeit",
-                                                             "Das Netzwerk-Widget zeigt die aktuelle Nutzung: lädt nichts Großes, sind ein paar kb/s normal"
+                                                             "Alle Zenfik-Einstellungen und -Daten liegen jetzt in einem Ordner: %APPDATA%\\Zenfik, nur settings.json (Einstellungen) und data.json (Aufgaben, Wasser, Ablage, Positionen)",
+                                                             "Alte verstreute Dateien (launcher.json, config.json, desk.json, launcher.txt, version.txt) werden automatisch übernommen und entfernt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.18-1.5.18/Zenfik-Setup.exe",
-                                  "version":  "1.4.18",
-                                  "silent":  false,
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.19-1.5.19/Zenfik-Setup.exe",
+                                  "version":  "1.4.19",
+                                  "silent":  true,
                                   "notes":  {
                                                 "en":  [
-                                                           "The weather widget works again. Windows refused the secure connection to the weather service, so Zenfik now has a second, more compatible way to connect (lyrics use it too)",
-                                                           "The network widget now shows speed in Mb/s, the same unit your internet provider uses (600 Mb/s fiber is about 75 MB/s), plus the connection name and its maximum speed",
-                                                           "The network widget shows current usage: when nothing big is downloading it is normal to see only a few kb/s"
+                                                           "All Zenfik settings and data are now in one folder: %APPDATA%\\Zenfik, with just settings.json (all settings) and data.json (tasks, water, shelf, positions)",
+                                                           "Old scattered files (launcher.json, config.json, desk.json, launcher.txt, version.txt) are moved over automatically and removed"
                                                        ],
                                                 "pl":  [
-                                                           "Widżet pogody znów działa. Windows odrzucał bezpieczne połączenie z serwisem pogody, więc Zenfik ma teraz drugi, bardziej zgodny sposób łączenia (korzystają z niego też teksty piosenek)",
-                                                           "Widżet sieci pokazuje teraz prędkość w Mb/s, czyli w tych samych jednostkach co operator (światłowód 600 Mb/s to ok. 75 MB/s), do tego nazwę połączenia i jego maksymalną prędkość",
-                                                           "Widżet sieci pokazuje bieżące użycie: gdy nic dużego się nie pobiera, normalne jest kilka kb/s"
+                                                           "Wszystkie ustawienia i dane Zenfika są teraz w jednym folderze: %APPDATA%\\Zenfik, tylko settings.json (wszystkie ustawienia) i data.json (zadania, woda, półka, pozycje)",
+                                                           "Stare rozrzucone pliki (launcher.json, config.json, desk.json, launcher.txt, version.txt) są automatycznie przenoszone i usuwane"
                                                        ],
                                                 "es":  [
-                                                           "El widget del tiempo vuelve a funcionar. Windows rechazaba la conexión segura con el servicio meteorológico, así que Zenfik tiene ahora una segunda forma más compatible de conectarse (también la usan las letras)",
-                                                           "El widget de red muestra ahora la velocidad en Mb/s, la misma unidad que tu proveedor (fibra de 600 Mb/s son unos 75 MB/s), además del nombre de la conexión y su velocidad máxima",
-                                                           "El widget de red muestra el uso actual: si no se descarga nada grande, es normal ver solo unos kb/s"
+                                                           "Todos los ajustes y datos de Zenfik están ahora en una carpeta: %APPDATA%\\Zenfik, solo settings.json (ajustes) y data.json (tareas, agua, estante, posiciones)",
+                                                           "Los antiguos archivos dispersos (launcher.json, config.json, desk.json, launcher.txt, version.txt) se trasladan y eliminan automáticamente"
                                                        ],
                                                 "de":  [
-                                                           "Das Wetter-Widget funktioniert wieder. Windows lehnte die sichere Verbindung zum Wetterdienst ab, deshalb hat Zenfik jetzt einen zweiten, kompatibleren Verbindungsweg (auch für Songtexte)",
-                                                           "Das Netzwerk-Widget zeigt die Geschwindigkeit jetzt in Mb/s, der Einheit deines Anbieters (600 Mb/s Glasfaser sind etwa 75 MB/s), dazu Verbindungsname und maximale Geschwindigkeit",
-                                                           "Das Netzwerk-Widget zeigt die aktuelle Nutzung: lädt nichts Großes, sind ein paar kb/s normal"
+                                                           "Alle Zenfik-Einstellungen und -Daten liegen jetzt in einem Ordner: %APPDATA%\\Zenfik, nur settings.json (Einstellungen) und data.json (Aufgaben, Wasser, Ablage, Positionen)",
+                                                           "Alte verstreute Dateien (launcher.json, config.json, desk.json, launcher.txt, version.txt) werden automatisch übernommen und entfernt"
                                                        ]
                                             }
                               }
