@@ -1,50 +1,50 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.19-1.5.19/Zenfik-Setup.exe",
-                                    "version":  "1.4.19",
-                                    "silent":  true,
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.20-1.5.19/Zenfik-Setup.exe",
+                                    "version":  "1.4.20",
+                                    "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "All Zenfik settings and data are now in one folder: %APPDATA%\\Zenfik, with just settings.json (all settings) and data.json (tasks, water, shelf, positions)",
-                                                             "Old scattered files (launcher.json, config.json, desk.json, launcher.txt, version.txt) are moved over automatically and removed"
+                                                             "Desktop widgets and PC Tools are out of beta: they are now in the menu for everyone, without turning on beta features",
+                                                             "The beta switch in Launcher settings is gone, since there are no beta features right now"
                                                          ],
                                                   "pl":  [
-                                                             "Wszystkie ustawienia i dane Zenfika są teraz w jednym folderze: %APPDATA%\\Zenfik, tylko settings.json (wszystkie ustawienia) i data.json (zadania, woda, półka, pozycje)",
-                                                             "Stare rozrzucone pliki (launcher.json, config.json, desk.json, launcher.txt, version.txt) są automatycznie przenoszone i usuwane"
+                                                             "Widżety na pulpit i Narzędzia PC wyszły z bety: są teraz w menu dla wszystkich, bez włączania funkcji beta",
+                                                             "Przełącznik Funkcje beta w ustawieniach launchera zniknął, bo teraz nie ma żadnych funkcji w becie"
                                                          ],
                                                   "es":  [
-                                                             "Todos los ajustes y datos de Zenfik están ahora en una carpeta: %APPDATA%\\Zenfik, solo settings.json (ajustes) y data.json (tareas, agua, estante, posiciones)",
-                                                             "Los antiguos archivos dispersos (launcher.json, config.json, desk.json, launcher.txt, version.txt) se trasladan y eliminan automáticamente"
+                                                             "Los widgets de escritorio y las Herramientas del PC salen de la beta: ya están en el menú para todos, sin activar funciones beta",
+                                                             "El interruptor de funciones beta en los ajustes del launcher desaparece, ya que ahora no hay funciones beta"
                                                          ],
                                                   "de":  [
-                                                             "Alle Zenfik-Einstellungen und -Daten liegen jetzt in einem Ordner: %APPDATA%\\Zenfik, nur settings.json (Einstellungen) und data.json (Aufgaben, Wasser, Ablage, Positionen)",
-                                                             "Alte verstreute Dateien (launcher.json, config.json, desk.json, launcher.txt, version.txt) werden automatisch übernommen und entfernt"
+                                                             "Desktop-Widgets und PC-Tools sind aus der Beta raus: sie stehen jetzt für alle im Menü, ohne Beta-Funktionen einzuschalten",
+                                                             "Der Beta-Schalter in den Launcher-Einstellungen ist weg, da es gerade keine Beta-Funktionen gibt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.19-1.5.19/Zenfik-Setup.exe",
-                                  "version":  "1.4.19",
-                                  "silent":  true,
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.20-1.5.19/Zenfik-Setup.exe",
+                                  "version":  "1.4.20",
+                                  "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "All Zenfik settings and data are now in one folder: %APPDATA%\\Zenfik, with just settings.json (all settings) and data.json (tasks, water, shelf, positions)",
-                                                           "Old scattered files (launcher.json, config.json, desk.json, launcher.txt, version.txt) are moved over automatically and removed"
+                                                           "Desktop widgets and PC Tools are out of beta: they are now in the menu for everyone, without turning on beta features",
+                                                           "The beta switch in Launcher settings is gone, since there are no beta features right now"
                                                        ],
                                                 "pl":  [
-                                                           "Wszystkie ustawienia i dane Zenfika są teraz w jednym folderze: %APPDATA%\\Zenfik, tylko settings.json (wszystkie ustawienia) i data.json (zadania, woda, półka, pozycje)",
-                                                           "Stare rozrzucone pliki (launcher.json, config.json, desk.json, launcher.txt, version.txt) są automatycznie przenoszone i usuwane"
+                                                           "Widżety na pulpit i Narzędzia PC wyszły z bety: są teraz w menu dla wszystkich, bez włączania funkcji beta",
+                                                           "Przełącznik Funkcje beta w ustawieniach launchera zniknął, bo teraz nie ma żadnych funkcji w becie"
                                                        ],
                                                 "es":  [
-                                                           "Todos los ajustes y datos de Zenfik están ahora en una carpeta: %APPDATA%\\Zenfik, solo settings.json (ajustes) y data.json (tareas, agua, estante, posiciones)",
-                                                           "Los antiguos archivos dispersos (launcher.json, config.json, desk.json, launcher.txt, version.txt) se trasladan y eliminan automáticamente"
+                                                           "Los widgets de escritorio y las Herramientas del PC salen de la beta: ya están en el menú para todos, sin activar funciones beta",
+                                                           "El interruptor de funciones beta en los ajustes del launcher desaparece, ya que ahora no hay funciones beta"
                                                        ],
                                                 "de":  [
-                                                           "Alle Zenfik-Einstellungen und -Daten liegen jetzt in einem Ordner: %APPDATA%\\Zenfik, nur settings.json (Einstellungen) und data.json (Aufgaben, Wasser, Ablage, Positionen)",
-                                                           "Alte verstreute Dateien (launcher.json, config.json, desk.json, launcher.txt, version.txt) werden automatisch übernommen und entfernt"
+                                                           "Desktop-Widgets und PC-Tools sind aus der Beta raus: sie stehen jetzt für alle im Menü, ohne Beta-Funktionen einzuschalten",
+                                                           "Der Beta-Schalter in den Launcher-Einstellungen ist weg, da es gerade keine Beta-Funktionen gibt"
                                                        ]
                                             }
                               }
