@@ -1,66 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.22-1.5.21/Zenfik-Setup.exe",
-                                    "version":  "1.4.22",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.23-1.5.22/Zenfik-Setup.exe",
+                                    "version":  "1.4.23",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Discord widget now works fully locally on your PC, just like Vencord: no account linking and no setup. Turn it on in Zenfik settings, then fully quit and reopen Discord",
-                                                             "In a voice channel the notch shows avatars of everyone there, highlights who is speaking, and has mute, deafen and disconnect buttons. The notch keeps its size and only widens when more people join",
-                                                             "New Crypto desktop widget: search any coin by name and see its price, 24h change (up or down) and a chart, refreshed automatically",
-                                                             "The Beta features switch is back in Launcher settings"
+                                                             "Removed the Discord widget"
                                                          ],
                                                   "pl":  [
-                                                             "Widżet Discord działa teraz w pełni lokalnie na Twoim komputerze, tak jak Vencord: bez logowania i konfiguracji. Włącz go w ustawieniach Zenfika, potem zamknij Discorda całkowicie i odpal ponownie",
-                                                             "Na kanale głosowym notch pokazuje awatary osób, podświetla kto mówi i ma przyciski wycisz, wycisz słuchawki i rozłącz. Notch się nie powiększa, poszerza się tylko gdy jest więcej osób",
-                                                             "Nowy widżet Krypto na pulpit: wyszukaj dowolną kryptowalutę po nazwie i zobacz cenę, zmianę z 24h (wzrost lub spadek) oraz wykres, odświeżane automatycznie",
-                                                             "Przełącznik Funkcje beta wrócił do ustawień launchera"
+                                                             "Usunięto widżet Discord"
                                                          ],
                                                   "es":  [
-                                                             "El widget de Discord ahora funciona totalmente en local en tu PC, igual que Vencord: sin vincular cuenta ni configurar. Actívalo en los ajustes de Zenfik y luego cierra Discord por completo y vuelve a abrirlo",
-                                                             "En un canal de voz el notch muestra los avatares de todos, resalta quién habla y tiene botones para silenciar, ensordecer y desconectar. El notch mantiene su tamaño y solo se ensancha con más personas",
-                                                             "Nuevo widget Cripto de escritorio: busca cualquier moneda por nombre y mira su precio, cambio en 24h (sube o baja) y un gráfico, con actualización automática",
-                                                             "El interruptor de funciones beta vuelve a los ajustes del launcher"
+                                                             "Se eliminó el widget de Discord"
                                                          ],
                                                   "de":  [
-                                                             "Das Discord-Widget läuft jetzt komplett lokal auf deinem PC, genau wie Vencord: ohne Kontoverknüpfung und Einrichtung. Aktiviere es in den Zenfik-Einstellungen, beende dann Discord vollständig und öffne es neu",
-                                                             "Im Sprachkanal zeigt die Notch die Avatare aller Personen, hebt hervor wer spricht, und hat Buttons zum Stummschalten, Taubschalten und Trennen. Die Notch bleibt gleich groß und wird nur bei mehr Personen breiter",
-                                                             "Neues Krypto-Desktop-Widget: Coin per Name suchen und Preis, 24h-Änderung (steigt oder fällt) und Chart sehen, automatisch aktualisiert",
-                                                             "Der Beta-Schalter ist zurück in den Launcher-Einstellungen"
+                                                             "Discord-Widget entfernt"
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.22-1.5.21/Zenfik-Setup.exe",
-                                  "version":  "1.4.22",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.23-1.5.22/Zenfik-Setup.exe",
+                                  "version":  "1.4.23",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Discord widget now works fully locally on your PC, just like Vencord: no account linking and no setup. Turn it on in Zenfik settings, then fully quit and reopen Discord",
-                                                           "In a voice channel the notch shows avatars of everyone there, highlights who is speaking, and has mute, deafen and disconnect buttons. The notch keeps its size and only widens when more people join",
-                                                           "New Crypto desktop widget: search any coin by name and see its price, 24h change (up or down) and a chart, refreshed automatically",
-                                                           "The Beta features switch is back in Launcher settings"
+                                                           "Removed the Discord widget"
                                                        ],
                                                 "pl":  [
-                                                           "Widżet Discord działa teraz w pełni lokalnie na Twoim komputerze, tak jak Vencord: bez logowania i konfiguracji. Włącz go w ustawieniach Zenfika, potem zamknij Discorda całkowicie i odpal ponownie",
-                                                           "Na kanale głosowym notch pokazuje awatary osób, podświetla kto mówi i ma przyciski wycisz, wycisz słuchawki i rozłącz. Notch się nie powiększa, poszerza się tylko gdy jest więcej osób",
-                                                           "Nowy widżet Krypto na pulpit: wyszukaj dowolną kryptowalutę po nazwie i zobacz cenę, zmianę z 24h (wzrost lub spadek) oraz wykres, odświeżane automatycznie",
-                                                           "Przełącznik Funkcje beta wrócił do ustawień launchera"
+                                                           "Usunięto widżet Discord"
                                                        ],
                                                 "es":  [
-                                                           "El widget de Discord ahora funciona totalmente en local en tu PC, igual que Vencord: sin vincular cuenta ni configurar. Actívalo en los ajustes de Zenfik y luego cierra Discord por completo y vuelve a abrirlo",
-                                                           "En un canal de voz el notch muestra los avatares de todos, resalta quién habla y tiene botones para silenciar, ensordecer y desconectar. El notch mantiene su tamaño y solo se ensancha con más personas",
-                                                           "Nuevo widget Cripto de escritorio: busca cualquier moneda por nombre y mira su precio, cambio en 24h (sube o baja) y un gráfico, con actualización automática",
-                                                           "El interruptor de funciones beta vuelve a los ajustes del launcher"
+                                                           "Se eliminó el widget de Discord"
                                                        ],
                                                 "de":  [
-                                                           "Das Discord-Widget läuft jetzt komplett lokal auf deinem PC, genau wie Vencord: ohne Kontoverknüpfung und Einrichtung. Aktiviere es in den Zenfik-Einstellungen, beende dann Discord vollständig und öffne es neu",
-                                                           "Im Sprachkanal zeigt die Notch die Avatare aller Personen, hebt hervor wer spricht, und hat Buttons zum Stummschalten, Taubschalten und Trennen. Die Notch bleibt gleich groß und wird nur bei mehr Personen breiter",
-                                                           "Neues Krypto-Desktop-Widget: Coin per Name suchen und Preis, 24h-Änderung (steigt oder fällt) und Chart sehen, automatisch aktualisiert",
-                                                           "Der Beta-Schalter ist zurück in den Launcher-Einstellungen"
+                                                           "Discord-Widget entfernt"
                                                        ]
                                             }
                               }
