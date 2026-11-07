@@ -1,42 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.26-1.5.23/Zenfik-Setup.exe",
-                                    "version":  "1.4.26",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.27-1.5.23/Zenfik-Setup.exe",
+                                    "version":  "1.4.27",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Camera page cleaned up: clear steps for Android (install the app), iPhone (just open the address in Safari — no app needed), and USB (connect the cable and turn on USB tethering). It now lists all your PC\u0027s addresses so you can pick the right one for WiFi or USB."
+                                                             "Fixed the phone camera not opening on iPhone / Safari (it showed a secure-connection error with no way in). The local camera certificate now meets iOS rules, so Safari lets you continue past the one-time warning and the camera works. Android app and WiFi/USB are unaffected."
                                                          ],
                                                   "pl":  [
-                                                             "Uporządkowana strona Kamery: jasne kroki dla Androida (zainstaluj apkę), iPhone (po prostu otwórz adres w Safari — bez apki) i USB (podłącz kabel i włącz Udostępnianie przez USB). Pokazuje teraz wszystkie adresy komputera, żeby wybrać właściwy dla WiFi lub USB."
+                                                             "Naprawiono brak otwierania kamery na iPhone / Safari (pokazywał błąd bezpiecznego połączenia bez możliwości wejścia). Lokalny certyfikat kamery spełnia teraz zasady iOS, więc Safari pozwala przejść przez jednorazowe ostrzeżenie i kamera działa. Apka na Androida oraz WiFi/USB bez zmian."
                                                          ],
                                                   "es":  [
-                                                             "Página de Cámara mejorada: pasos claros para Android (instala la app), iPhone (solo abre la dirección en Safari — sin app) y USB (conecta el cable y activa el anclaje por USB). Ahora lista todas las direcciones del PC para elegir la adecuada para WiFi o USB."
+                                                             "Corregido que la cámara del móvil no abría en iPhone / Safari (mostraba un error de conexión segura sin forma de entrar). El certificado local de la cámara ya cumple las reglas de iOS, así que Safari deja continuar tras el aviso único y la cámara funciona. La app de Android y WiFi/USB no cambian."
                                                          ],
                                                   "de":  [
-                                                             "Kamera-Seite aufgeräumt: klare Schritte für Android (App installieren), iPhone (einfach die Adresse in Safari öffnen — keine App nötig) und USB (Kabel anschließen und USB-Tethering einschalten). Listet jetzt alle PC-Adressen, damit du die richtige für WLAN oder USB wählen kannst."
+                                                             "Behoben, dass die Handy-Kamera auf iPhone / Safari nicht öffnete (Fehler bei sicherer Verbindung ohne Zugang). Das lokale Kamera-Zertifikat erfüllt jetzt die iOS-Regeln, sodass Safari nach der einmaligen Warnung fortfahren lässt und die Kamera läuft. Android-App und WLAN/USB unverändert."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.26-1.5.23/Zenfik-Setup.exe",
-                                  "version":  "1.4.26",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.27-1.5.23/Zenfik-Setup.exe",
+                                  "version":  "1.4.27",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Camera page cleaned up: clear steps for Android (install the app), iPhone (just open the address in Safari — no app needed), and USB (connect the cable and turn on USB tethering). It now lists all your PC\u0027s addresses so you can pick the right one for WiFi or USB."
+                                                           "Fixed the phone camera not opening on iPhone / Safari (it showed a secure-connection error with no way in). The local camera certificate now meets iOS rules, so Safari lets you continue past the one-time warning and the camera works. Android app and WiFi/USB are unaffected."
                                                        ],
                                                 "pl":  [
-                                                           "Uporządkowana strona Kamery: jasne kroki dla Androida (zainstaluj apkę), iPhone (po prostu otwórz adres w Safari — bez apki) i USB (podłącz kabel i włącz Udostępnianie przez USB). Pokazuje teraz wszystkie adresy komputera, żeby wybrać właściwy dla WiFi lub USB."
+                                                           "Naprawiono brak otwierania kamery na iPhone / Safari (pokazywał błąd bezpiecznego połączenia bez możliwości wejścia). Lokalny certyfikat kamery spełnia teraz zasady iOS, więc Safari pozwala przejść przez jednorazowe ostrzeżenie i kamera działa. Apka na Androida oraz WiFi/USB bez zmian."
                                                        ],
                                                 "es":  [
-                                                           "Página de Cámara mejorada: pasos claros para Android (instala la app), iPhone (solo abre la dirección en Safari — sin app) y USB (conecta el cable y activa el anclaje por USB). Ahora lista todas las direcciones del PC para elegir la adecuada para WiFi o USB."
+                                                           "Corregido que la cámara del móvil no abría en iPhone / Safari (mostraba un error de conexión segura sin forma de entrar). El certificado local de la cámara ya cumple las reglas de iOS, así que Safari deja continuar tras el aviso único y la cámara funciona. La app de Android y WiFi/USB no cambian."
                                                        ],
                                                 "de":  [
-                                                           "Kamera-Seite aufgeräumt: klare Schritte für Android (App installieren), iPhone (einfach die Adresse in Safari öffnen — keine App nötig) und USB (Kabel anschließen und USB-Tethering einschalten). Listet jetzt alle PC-Adressen, damit du die richtige für WLAN oder USB wählen kannst."
+                                                           "Behoben, dass die Handy-Kamera auf iPhone / Safari nicht öffnete (Fehler bei sicherer Verbindung ohne Zugang). Das lokale Kamera-Zertifikat erfüllt jetzt die iOS-Regeln, sodass Safari nach der einmaligen Warnung fortfahren lässt und die Kamera läuft. Android-App und WLAN/USB unverändert."
                                                        ]
                                             }
                               }
