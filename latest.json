@@ -1,50 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.24-1.5.23/Zenfik-Setup.exe",
-                                    "version":  "1.4.24",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.25-1.5.23/Zenfik-Setup.exe",
+                                    "version":  "1.4.25",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "New Phone Camera: turn your phone into a camera over the same WiFi. Open the launcher\u0027s Camera tab, start the server, and scan the code with your phone — with filters, front/back switch, mirror, resolution/fps and recording. No app store needed.",
-                                                             "Fixed Zenfik sometimes minimizing fullscreen games (for example when using side mouse buttons): the notch now stays hidden through brief focus changes instead of popping over the game"
+                                                             "Zenfik Camera now has a real Android app you can download and install: launcher Camera tab → Download app (APK). Open it, type the address shown in Zenfik and connect over WiFi — no certificate warning in the app."
                                                          ],
                                                   "pl":  [
-                                                             "Nowa Kamera z telefonu: zrób z telefonu kamerkę przez tę samą sieć WiFi. Wejdź w zakładkę Kamera w launcherze, uruchom serwer i zeskanuj kod telefonem — z filtrami, przełączaniem przód/tył, lustrem, rozdzielczością/fps i nagrywaniem. Bez sklepu z apkami.",
-                                                             "Naprawiono minimalizowanie gier pełnoekranowych przez Zenfika (np. przy bocznych przyciskach myszy): wyspa nie wyskakuje już nad grę przy krótkich zmianach focusu"
+                                                             "Kamera ma teraz prawdziwą apkę na Androida do pobrania i instalacji: w launcherze zakładka Kamera → Pobierz apkę (APK). Otwórz ją, wpisz adres pokazany w Zenfiku i połącz przez WiFi — w apce bez ostrzeżenia o certyfikacie."
                                                          ],
                                                   "es":  [
-                                                             "Nueva Cámara del móvil: convierte tu móvil en una cámara por la misma WiFi. Abre la pestaña Cámara del launcher, inicia el servidor y escanea el código con el móvil — con filtros, cambio frontal/trasera, espejo, resolución/fps y grabación. Sin tienda de apps.",
-                                                             "Corregido que Zenfik minimizara a veces los juegos en pantalla completa (por ejemplo con los botones laterales del ratón): el notch ya no aparece sobre el juego por cambios breves de foco"
+                                                             "La Cámara ahora tiene una app de Android para descargar e instalar: en el launcher, pestaña Cámara → Descargar app (APK). Ábrela, escribe la dirección que muestra Zenfik y conecta por WiFi — sin aviso de certificado en la app."
                                                          ],
                                                   "de":  [
-                                                             "Neue Handy-Kamera: mach dein Handy über dasselbe WLAN zur Kamera. Öffne im Launcher den Tab Kamera, starte den Server und scanne den Code mit dem Handy — mit Filtern, Vorder-/Rückkamera, Spiegeln, Auflösung/FPS und Aufnahme. Kein App-Store nötig.",
-                                                             "Behoben, dass Zenfik manchmal Vollbildspiele minimierte (z. B. bei seitlichen Maustasten): die Notch bleibt bei kurzen Fokuswechseln verborgen statt über dem Spiel aufzutauchen"
+                                                             "Die Kamera hat jetzt eine echte Android-App zum Herunterladen und Installieren: im Launcher Tab Kamera → App (APK) laden. Öffnen, die in Zenfik angezeigte Adresse eingeben und per WLAN verbinden — in der App ohne Zertifikatswarnung."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.24-1.5.23/Zenfik-Setup.exe",
-                                  "version":  "1.4.24",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.25-1.5.23/Zenfik-Setup.exe",
+                                  "version":  "1.4.25",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "New Phone Camera: turn your phone into a camera over the same WiFi. Open the launcher\u0027s Camera tab, start the server, and scan the code with your phone — with filters, front/back switch, mirror, resolution/fps and recording. No app store needed.",
-                                                           "Fixed Zenfik sometimes minimizing fullscreen games (for example when using side mouse buttons): the notch now stays hidden through brief focus changes instead of popping over the game"
+                                                           "Zenfik Camera now has a real Android app you can download and install: launcher Camera tab → Download app (APK). Open it, type the address shown in Zenfik and connect over WiFi — no certificate warning in the app."
                                                        ],
                                                 "pl":  [
-                                                           "Nowa Kamera z telefonu: zrób z telefonu kamerkę przez tę samą sieć WiFi. Wejdź w zakładkę Kamera w launcherze, uruchom serwer i zeskanuj kod telefonem — z filtrami, przełączaniem przód/tył, lustrem, rozdzielczością/fps i nagrywaniem. Bez sklepu z apkami.",
-                                                           "Naprawiono minimalizowanie gier pełnoekranowych przez Zenfika (np. przy bocznych przyciskach myszy): wyspa nie wyskakuje już nad grę przy krótkich zmianach focusu"
+                                                           "Kamera ma teraz prawdziwą apkę na Androida do pobrania i instalacji: w launcherze zakładka Kamera → Pobierz apkę (APK). Otwórz ją, wpisz adres pokazany w Zenfiku i połącz przez WiFi — w apce bez ostrzeżenia o certyfikacie."
                                                        ],
                                                 "es":  [
-                                                           "Nueva Cámara del móvil: convierte tu móvil en una cámara por la misma WiFi. Abre la pestaña Cámara del launcher, inicia el servidor y escanea el código con el móvil — con filtros, cambio frontal/trasera, espejo, resolución/fps y grabación. Sin tienda de apps.",
-                                                           "Corregido que Zenfik minimizara a veces los juegos en pantalla completa (por ejemplo con los botones laterales del ratón): el notch ya no aparece sobre el juego por cambios breves de foco"
+                                                           "La Cámara ahora tiene una app de Android para descargar e instalar: en el launcher, pestaña Cámara → Descargar app (APK). Ábrela, escribe la dirección que muestra Zenfik y conecta por WiFi — sin aviso de certificado en la app."
                                                        ],
                                                 "de":  [
-                                                           "Neue Handy-Kamera: mach dein Handy über dasselbe WLAN zur Kamera. Öffne im Launcher den Tab Kamera, starte den Server und scanne den Code mit dem Handy — mit Filtern, Vorder-/Rückkamera, Spiegeln, Auflösung/FPS und Aufnahme. Kein App-Store nötig.",
-                                                           "Behoben, dass Zenfik manchmal Vollbildspiele minimierte (z. B. bei seitlichen Maustasten): die Notch bleibt bei kurzen Fokuswechseln verborgen statt über dem Spiel aufzutauchen"
+                                                           "Die Kamera hat jetzt eine echte Android-App zum Herunterladen und Installieren: im Launcher Tab Kamera → App (APK) laden. Öffnen, die in Zenfik angezeigte Adresse eingeben und per WLAN verbinden — in der App ohne Zertifikatswarnung."
                                                        ]
                                             }
                               }
