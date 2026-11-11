@@ -1,66 +1,58 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.29-1.5.25/Zenfik-Setup.exe",
-                                    "version":  "1.4.29",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.30-1.5.25/Zenfik-Setup.exe",
+                                    "version":  "1.4.30",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Bug fixes and polish.",
-                                                             "The Camera and the custom taskbar were removed for now — they caused too many problems. They may come back one day.",
-                                                             "Hold Shift while dragging a desktop widget to snap it to a grid and line things up neatly. Moving widgets and the notch was improved — nudge them step by step with the arrow keys.",
-                                                             "New: turn water reminders on or off, and pick a custom glow color for the notch."
+                                                             "New advanced memory view in PC Tools — a “Memory” tab that shows where every gigabyte really goes.",
+                                                             "It breaks your RAM into In use, Compressed, Modified, Cached (standby), Free and Hardware reserved, so you can finally see the memory Task Manager hides. If Task Manager says 7 GB used but you have 16, this shows where the rest is — mostly file cache that’s freed the moment something needs it.",
+                                                             "Also lists memory per app (working set and private), with one-click end task."
                                                          ],
                                                   "pl":  [
-                                                             "Poprawki błędów i dopracowanie.",
-                                                             "Kamera i custom taskbar zostały na razie usunięte — powodowały zbyt wiele błędów. Może kiedyś wrócą.",
-                                                             "Przytrzymaj Shift podczas przeciągania widżetu na pulpicie, aby przyciągać go do siatki i ładnie wyrównać. Poprawiono przesuwanie widżetów i notcha — przesuwaj je krok po kroku strzałkami.",
-                                                             "Nowość: możesz wyłączyć powiadomienia o piciu wody oraz ustawić własny kolor poświaty notcha."
+                                                             "Nowy zaawansowany podgląd pamięci w Narzędziach PC — zakładka „Pamięć”, która pokazuje gdzie naprawdę idzie każdy gigabajt.",
+                                                             "Rozbija RAM na: W użyciu, Skompresowana, Zmodyfikowana, Cache (standby), Wolna i Zarezerwowana sprzętowo — wreszcie widać pamięć, którą ukrywa Menedżer zadań. Jeśli Menedżer pokazuje 7 GB, a masz 16, tu zobaczysz gdzie jest reszta — głównie podręczna pamięć plików, zwalniana w momencie gdy coś jej potrzebuje.",
+                                                             "Dodatkowo lista pamięci wg aplikacji (working set i prywatna), z zakończeniem procesu jednym kliknięciem."
                                                          ],
                                                   "es":  [
-                                                             "Corrección de errores y mejoras.",
-                                                             "La Cámara y la barra de tareas personalizada se eliminaron por ahora — causaban demasiados problemas. Puede que vuelvan algún día.",
-                                                             "Mantén Shift al arrastrar un widget del escritorio para ajustarlo a una cuadrícula y alinearlo de forma limpia. Se mejoró el movimiento de widgets y del notch — muévelos paso a paso con las flechas.",
-                                                             "Nuevo: activa o desactiva los recordatorios de agua y elige un color de brillo personalizado para el notch."
+                                                             "Nueva vista avanzada de memoria en Herramientas de PC — una pestaña “Memoria” que muestra a dónde va realmente cada gigabyte.",
+                                                             "Divide tu RAM en En uso, Comprimida, Modificada, Caché (en espera), Libre y Reservada por hardware, para ver por fin la memoria que oculta el Administrador de tareas. Si dice 7 GB usados pero tienes 16, aquí ves dónde está el resto — sobre todo caché de archivos que se libera en cuanto algo la necesita.",
+                                                             "También lista la memoria por app (working set y privada), con finalizar tarea en un clic."
                                                          ],
                                                   "de":  [
-                                                             "Fehlerbehebungen und Feinschliff.",
-                                                             "Die Kamera und die eigene Taskleiste wurden vorerst entfernt — sie verursachten zu viele Probleme. Vielleicht kommen sie eines Tages zurück.",
-                                                             "Halte Shift beim Ziehen eines Desktop-Widgets, um es an einem Raster auszurichten und sauber zu platzieren. Das Verschieben von Widgets und der Notch wurde verbessert — bewege sie mit den Pfeiltasten Schritt für Schritt.",
-                                                             "Neu: Wassererinnerungen an- oder ausschalten und eine eigene Glow-Farbe für die Notch wählen."
+                                                             "Neue erweiterte Speicheransicht in den PC-Tools — ein „Arbeitsspeicher“-Tab, der zeigt, wohin wirklich jedes Gigabyte geht.",
+                                                             "Er teilt den RAM auf in In Verwendung, Komprimiert, Geändert, Cache (Standby), Frei und Hardware-reserviert — so siehst du endlich den Speicher, den der Task-Manager verbirgt. Wenn er 7 GB zeigt, du aber 16 hast, siehst du hier, wo der Rest ist — meist Datei-Cache, der sofort freigegeben wird, wenn etwas ihn braucht.",
+                                                             "Zeigt außerdem den Speicher pro App (Working Set und privat), mit Task beenden per Klick."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.29-1.5.25/Zenfik-Setup.exe",
-                                  "version":  "1.4.29",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.30-1.5.25/Zenfik-Setup.exe",
+                                  "version":  "1.4.30",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Bug fixes and polish.",
-                                                           "The Camera and the custom taskbar were removed for now — they caused too many problems. They may come back one day.",
-                                                           "Hold Shift while dragging a desktop widget to snap it to a grid and line things up neatly. Moving widgets and the notch was improved — nudge them step by step with the arrow keys.",
-                                                           "New: turn water reminders on or off, and pick a custom glow color for the notch."
+                                                           "New advanced memory view in PC Tools — a “Memory” tab that shows where every gigabyte really goes.",
+                                                           "It breaks your RAM into In use, Compressed, Modified, Cached (standby), Free and Hardware reserved, so you can finally see the memory Task Manager hides. If Task Manager says 7 GB used but you have 16, this shows where the rest is — mostly file cache that’s freed the moment something needs it.",
+                                                           "Also lists memory per app (working set and private), with one-click end task."
                                                        ],
                                                 "pl":  [
-                                                           "Poprawki błędów i dopracowanie.",
-                                                           "Kamera i custom taskbar zostały na razie usunięte — powodowały zbyt wiele błędów. Może kiedyś wrócą.",
-                                                           "Przytrzymaj Shift podczas przeciągania widżetu na pulpicie, aby przyciągać go do siatki i ładnie wyrównać. Poprawiono przesuwanie widżetów i notcha — przesuwaj je krok po kroku strzałkami.",
-                                                           "Nowość: możesz wyłączyć powiadomienia o piciu wody oraz ustawić własny kolor poświaty notcha."
+                                                           "Nowy zaawansowany podgląd pamięci w Narzędziach PC — zakładka „Pamięć”, która pokazuje gdzie naprawdę idzie każdy gigabajt.",
+                                                           "Rozbija RAM na: W użyciu, Skompresowana, Zmodyfikowana, Cache (standby), Wolna i Zarezerwowana sprzętowo — wreszcie widać pamięć, którą ukrywa Menedżer zadań. Jeśli Menedżer pokazuje 7 GB, a masz 16, tu zobaczysz gdzie jest reszta — głównie podręczna pamięć plików, zwalniana w momencie gdy coś jej potrzebuje.",
+                                                           "Dodatkowo lista pamięci wg aplikacji (working set i prywatna), z zakończeniem procesu jednym kliknięciem."
                                                        ],
                                                 "es":  [
-                                                           "Corrección de errores y mejoras.",
-                                                           "La Cámara y la barra de tareas personalizada se eliminaron por ahora — causaban demasiados problemas. Puede que vuelvan algún día.",
-                                                           "Mantén Shift al arrastrar un widget del escritorio para ajustarlo a una cuadrícula y alinearlo de forma limpia. Se mejoró el movimiento de widgets y del notch — muévelos paso a paso con las flechas.",
-                                                           "Nuevo: activa o desactiva los recordatorios de agua y elige un color de brillo personalizado para el notch."
+                                                           "Nueva vista avanzada de memoria en Herramientas de PC — una pestaña “Memoria” que muestra a dónde va realmente cada gigabyte.",
+                                                           "Divide tu RAM en En uso, Comprimida, Modificada, Caché (en espera), Libre y Reservada por hardware, para ver por fin la memoria que oculta el Administrador de tareas. Si dice 7 GB usados pero tienes 16, aquí ves dónde está el resto — sobre todo caché de archivos que se libera en cuanto algo la necesita.",
+                                                           "También lista la memoria por app (working set y privada), con finalizar tarea en un clic."
                                                        ],
                                                 "de":  [
-                                                           "Fehlerbehebungen und Feinschliff.",
-                                                           "Die Kamera und die eigene Taskleiste wurden vorerst entfernt — sie verursachten zu viele Probleme. Vielleicht kommen sie eines Tages zurück.",
-                                                           "Halte Shift beim Ziehen eines Desktop-Widgets, um es an einem Raster auszurichten und sauber zu platzieren. Das Verschieben von Widgets und der Notch wurde verbessert — bewege sie mit den Pfeiltasten Schritt für Schritt.",
-                                                           "Neu: Wassererinnerungen an- oder ausschalten und eine eigene Glow-Farbe für die Notch wählen."
+                                                           "Neue erweiterte Speicheransicht in den PC-Tools — ein „Arbeitsspeicher“-Tab, der zeigt, wohin wirklich jedes Gigabyte geht.",
+                                                           "Er teilt den RAM auf in In Verwendung, Komprimiert, Geändert, Cache (Standby), Frei und Hardware-reserviert — so siehst du endlich den Speicher, den der Task-Manager verbirgt. Wenn er 7 GB zeigt, du aber 16 hast, siehst du hier, wo der Rest ist — meist Datei-Cache, der sofort freigegeben wird, wenn etwas ihn braucht.",
+                                                           "Zeigt außerdem den Speicher pro App (Working Set und privat), mit Task beenden per Klick."
                                                        ]
                                             }
                               }
