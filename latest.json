@@ -1,42 +1,58 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.31-1.5.25/Zenfik-Setup.exe",
-                                    "version":  "1.4.31",
-                                    "silent":  true,
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.32-1.5.25/Zenfik-Setup.exe",
+                                    "version":  "1.4.32",
+                                    "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Small fix in the Memory view text."
+                                                             "Lots of new maintenance and speed-up tools in PC Tools → Optimization for a deep clean.",
+                                                             "New one-click actions: Purge RAM cache (hard-flush standby to free memory for games), Reset network (Winsock + TCP/IP), Rebuild icon cache, Empty Recycle Bin, Reset Windows Update, Reset Store cache, TRIM drives, Clean component store (DISM) and Repair system files (SFC + DISM).",
+                                                             "Each one explains what it does, and admin tasks ask for permission first."
                                                          ],
                                                   "pl":  [
-                                                             "Drobna poprawka tekstu w podglądzie pamięci."
+                                                             "Mnóstwo nowych narzędzi konserwacji i przyspieszania w Narzędzia PC → Optymalizacja do mocnego czyszczenia kompa.",
+                                                             "Nowe akcje jednym kliknięciem: Wyczyść cache RAM (mocny purge standby, zwalnia pamięć pod gry), Resetuj sieć (Winsock + TCP/IP), Przebuduj cache ikon, Opróżnij Kosz, Resetuj Windows Update, Resetuj cache Sklepu, TRIM dysków, Wyczyść magazyn komponentów (DISM) i Napraw pliki systemowe (SFC + DISM).",
+                                                             "Każda opcja opisuje co robi, a zadania wymagające admina najpierw proszą o zgodę."
                                                          ],
                                                   "es":  [
-                                                             "Pequeña corrección de texto en la vista de memoria."
+                                                             "Muchas herramientas nuevas de mantenimiento y optimización en Herramientas de PC → Optimización para una limpieza a fondo.",
+                                                             "Nuevas acciones de un clic: Purgar caché de RAM (vacía la caché en espera para liberar memoria para juegos), Restablecer red (Winsock + TCP/IP), Reconstruir caché de iconos, Vaciar Papelera, Restablecer Windows Update, Restablecer caché de la Tienda, TRIM de discos, Limpiar almacén de componentes (DISM) y Reparar archivos del sistema (SFC + DISM).",
+                                                             "Cada una explica qué hace, y las tareas de administrador piden permiso primero."
                                                          ],
                                                   "de":  [
-                                                             "Kleine Textkorrektur in der Speicheransicht."
+                                                             "Viele neue Wartungs- und Beschleunigungs-Tools in PC-Tools → Optimierung für eine gründliche Reinigung.",
+                                                             "Neue Ein-Klick-Aktionen: RAM-Cache leeren (Standby hart leeren, gibt Speicher für Spiele frei), Netzwerk zurücksetzen (Winsock + TCP/IP), Icon-Cache neu aufbauen, Papierkorb leeren, Windows Update zurücksetzen, Store-Cache zurücksetzen, Laufwerke TRIMmen, Komponentenspeicher bereinigen (DISM) und Systemdateien reparieren (SFC + DISM).",
+                                                             "Jede erklärt, was sie tut, und Admin-Aufgaben fragen zuerst nach Erlaubnis."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.31-1.5.25/Zenfik-Setup.exe",
-                                  "version":  "1.4.31",
-                                  "silent":  true,
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.32-1.5.25/Zenfik-Setup.exe",
+                                  "version":  "1.4.32",
+                                  "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Small fix in the Memory view text."
+                                                           "Lots of new maintenance and speed-up tools in PC Tools → Optimization for a deep clean.",
+                                                           "New one-click actions: Purge RAM cache (hard-flush standby to free memory for games), Reset network (Winsock + TCP/IP), Rebuild icon cache, Empty Recycle Bin, Reset Windows Update, Reset Store cache, TRIM drives, Clean component store (DISM) and Repair system files (SFC + DISM).",
+                                                           "Each one explains what it does, and admin tasks ask for permission first."
                                                        ],
                                                 "pl":  [
-                                                           "Drobna poprawka tekstu w podglądzie pamięci."
+                                                           "Mnóstwo nowych narzędzi konserwacji i przyspieszania w Narzędzia PC → Optymalizacja do mocnego czyszczenia kompa.",
+                                                           "Nowe akcje jednym kliknięciem: Wyczyść cache RAM (mocny purge standby, zwalnia pamięć pod gry), Resetuj sieć (Winsock + TCP/IP), Przebuduj cache ikon, Opróżnij Kosz, Resetuj Windows Update, Resetuj cache Sklepu, TRIM dysków, Wyczyść magazyn komponentów (DISM) i Napraw pliki systemowe (SFC + DISM).",
+                                                           "Każda opcja opisuje co robi, a zadania wymagające admina najpierw proszą o zgodę."
                                                        ],
                                                 "es":  [
-                                                           "Pequeña corrección de texto en la vista de memoria."
+                                                           "Muchas herramientas nuevas de mantenimiento y optimización en Herramientas de PC → Optimización para una limpieza a fondo.",
+                                                           "Nuevas acciones de un clic: Purgar caché de RAM (vacía la caché en espera para liberar memoria para juegos), Restablecer red (Winsock + TCP/IP), Reconstruir caché de iconos, Vaciar Papelera, Restablecer Windows Update, Restablecer caché de la Tienda, TRIM de discos, Limpiar almacén de componentes (DISM) y Reparar archivos del sistema (SFC + DISM).",
+                                                           "Cada una explica qué hace, y las tareas de administrador piden permiso primero."
                                                        ],
                                                 "de":  [
-                                                           "Kleine Textkorrektur in der Speicheransicht."
+                                                           "Viele neue Wartungs- und Beschleunigungs-Tools in PC-Tools → Optimierung für eine gründliche Reinigung.",
+                                                           "Neue Ein-Klick-Aktionen: RAM-Cache leeren (Standby hart leeren, gibt Speicher für Spiele frei), Netzwerk zurücksetzen (Winsock + TCP/IP), Icon-Cache neu aufbauen, Papierkorb leeren, Windows Update zurücksetzen, Store-Cache zurücksetzen, Laufwerke TRIMmen, Komponentenspeicher bereinigen (DISM) und Systemdateien reparieren (SFC + DISM).",
+                                                           "Jede erklärt, was sie tut, und Admin-Aufgaben fragen zuerst nach Erlaubnis."
                                                        ]
                                             }
                               }
