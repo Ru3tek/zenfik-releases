@@ -1,50 +1,66 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.28-1.5.24/Zenfik-Setup.exe",
-                                    "version":  "1.4.28",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.29-1.5.25/Zenfik-Setup.exe",
+                                    "version":  "1.4.29",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "New widget bar: a fully customizable bar of compact widgets on your desktop — clock, date, weather, crypto, now playing, CPU, RAM, network, battery, disk and labels. Choose separate tiles or one solid bar, top or bottom, alignment, offset, glass, size and accent. Set it up in the launcher under Bar.",
-                                                             "Optional: replace the Windows taskbar — hide it and keep the Zenfik bar always on top in its place (it shows widgets, not apps; use the Win key for Start). It hides automatically in fullscreen games and the Windows taskbar comes back when you turn the option off."
+                                                             "Bug fixes and polish.",
+                                                             "The Camera and the custom taskbar were removed for now — they caused too many problems. They may come back one day.",
+                                                             "Hold Shift while dragging a desktop widget to snap it to a grid and line things up neatly. Moving widgets and the notch was improved — nudge them step by step with the arrow keys.",
+                                                             "New: turn water reminders on or off, and pick a custom glow color for the notch."
                                                          ],
                                                   "pl":  [
-                                                             "Nowy pasek widżetów: w pełni konfigurowalny pasek kompaktowych widżetów na pulpicie — zegar, data, pogoda, krypto, teraz gra, CPU, RAM, sieć, bateria, dysk i etykiety. Wybierz osobne kafelki albo jedną bryłę, górę lub dół, wyrównanie, odstęp, szkło, rozmiar i akcent. Ustaw w launcherze w zakładce Pasek.",
-                                                             "Opcjonalnie: zastąp pasek Windows — ukryj go i trzymaj pasek Zenfika zawsze na wierzchu w jego miejscu (pokazuje widżety, nie aplikacje; Start klawiszem Win). W grze pełnoekranowej sam się chowa, a pasek Windows wraca po wyłączeniu opcji."
+                                                             "Poprawki błędów i dopracowanie.",
+                                                             "Kamera i custom taskbar zostały na razie usunięte — powodowały zbyt wiele błędów. Może kiedyś wrócą.",
+                                                             "Przytrzymaj Shift podczas przeciągania widżetu na pulpicie, aby przyciągać go do siatki i ładnie wyrównać. Poprawiono przesuwanie widżetów i notcha — przesuwaj je krok po kroku strzałkami.",
+                                                             "Nowość: możesz wyłączyć powiadomienia o piciu wody oraz ustawić własny kolor poświaty notcha."
                                                          ],
                                                   "es":  [
-                                                             "Nueva barra de widgets: una barra totalmente personalizable de widgets compactos en tu escritorio — reloj, fecha, tiempo, cripto, sonando, CPU, RAM, red, batería, disco y etiquetas. Elige fichas separadas o una barra sólida, arriba o abajo, alineación, separación, cristal, tamaño y acento. Configúrala en el launcher en Barra.",
-                                                             "Opcional: reemplaza la barra de Windows — ocúltala y mantén la barra de Zenfik siempre encima en su lugar (muestra widgets, no apps; usa la tecla Win para Inicio). Se oculta sola en juegos a pantalla completa y la barra de Windows vuelve al desactivar la opción."
+                                                             "Corrección de errores y mejoras.",
+                                                             "La Cámara y la barra de tareas personalizada se eliminaron por ahora — causaban demasiados problemas. Puede que vuelvan algún día.",
+                                                             "Mantén Shift al arrastrar un widget del escritorio para ajustarlo a una cuadrícula y alinearlo de forma limpia. Se mejoró el movimiento de widgets y del notch — muévelos paso a paso con las flechas.",
+                                                             "Nuevo: activa o desactiva los recordatorios de agua y elige un color de brillo personalizado para el notch."
                                                          ],
                                                   "de":  [
-                                                             "Neue Widget-Leiste: eine voll anpassbare Leiste kompakter Widgets auf dem Desktop — Uhr, Datum, Wetter, Krypto, läuft gerade, CPU, RAM, Netzwerk, Akku, Datenträger und Labels. Wähle einzelne Kacheln oder eine Leiste, oben oder unten, Ausrichtung, Abstand, Glas, Größe und Akzent. Einrichtung im Launcher unter Leiste.",
-                                                             "Optional: Windows-Taskleiste ersetzen — ausblenden und die Zenfik-Leiste an ihrer Stelle immer im Vordergrund halten (zeigt Widgets, keine Apps; Start mit der Win-Taste). Im Vollbildspiel blendet sie sich automatisch aus, und die Windows-Taskleiste kehrt beim Ausschalten der Option zurück."
+                                                             "Fehlerbehebungen und Feinschliff.",
+                                                             "Die Kamera und die eigene Taskleiste wurden vorerst entfernt — sie verursachten zu viele Probleme. Vielleicht kommen sie eines Tages zurück.",
+                                                             "Halte Shift beim Ziehen eines Desktop-Widgets, um es an einem Raster auszurichten und sauber zu platzieren. Das Verschieben von Widgets und der Notch wurde verbessert — bewege sie mit den Pfeiltasten Schritt für Schritt.",
+                                                             "Neu: Wassererinnerungen an- oder ausschalten und eine eigene Glow-Farbe für die Notch wählen."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.28-1.5.24/Zenfik-Setup.exe",
-                                  "version":  "1.4.28",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.29-1.5.25/Zenfik-Setup.exe",
+                                  "version":  "1.4.29",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "New widget bar: a fully customizable bar of compact widgets on your desktop — clock, date, weather, crypto, now playing, CPU, RAM, network, battery, disk and labels. Choose separate tiles or one solid bar, top or bottom, alignment, offset, glass, size and accent. Set it up in the launcher under Bar.",
-                                                           "Optional: replace the Windows taskbar — hide it and keep the Zenfik bar always on top in its place (it shows widgets, not apps; use the Win key for Start). It hides automatically in fullscreen games and the Windows taskbar comes back when you turn the option off."
+                                                           "Bug fixes and polish.",
+                                                           "The Camera and the custom taskbar were removed for now — they caused too many problems. They may come back one day.",
+                                                           "Hold Shift while dragging a desktop widget to snap it to a grid and line things up neatly. Moving widgets and the notch was improved — nudge them step by step with the arrow keys.",
+                                                           "New: turn water reminders on or off, and pick a custom glow color for the notch."
                                                        ],
                                                 "pl":  [
-                                                           "Nowy pasek widżetów: w pełni konfigurowalny pasek kompaktowych widżetów na pulpicie — zegar, data, pogoda, krypto, teraz gra, CPU, RAM, sieć, bateria, dysk i etykiety. Wybierz osobne kafelki albo jedną bryłę, górę lub dół, wyrównanie, odstęp, szkło, rozmiar i akcent. Ustaw w launcherze w zakładce Pasek.",
-                                                           "Opcjonalnie: zastąp pasek Windows — ukryj go i trzymaj pasek Zenfika zawsze na wierzchu w jego miejscu (pokazuje widżety, nie aplikacje; Start klawiszem Win). W grze pełnoekranowej sam się chowa, a pasek Windows wraca po wyłączeniu opcji."
+                                                           "Poprawki błędów i dopracowanie.",
+                                                           "Kamera i custom taskbar zostały na razie usunięte — powodowały zbyt wiele błędów. Może kiedyś wrócą.",
+                                                           "Przytrzymaj Shift podczas przeciągania widżetu na pulpicie, aby przyciągać go do siatki i ładnie wyrównać. Poprawiono przesuwanie widżetów i notcha — przesuwaj je krok po kroku strzałkami.",
+                                                           "Nowość: możesz wyłączyć powiadomienia o piciu wody oraz ustawić własny kolor poświaty notcha."
                                                        ],
                                                 "es":  [
-                                                           "Nueva barra de widgets: una barra totalmente personalizable de widgets compactos en tu escritorio — reloj, fecha, tiempo, cripto, sonando, CPU, RAM, red, batería, disco y etiquetas. Elige fichas separadas o una barra sólida, arriba o abajo, alineación, separación, cristal, tamaño y acento. Configúrala en el launcher en Barra.",
-                                                           "Opcional: reemplaza la barra de Windows — ocúltala y mantén la barra de Zenfik siempre encima en su lugar (muestra widgets, no apps; usa la tecla Win para Inicio). Se oculta sola en juegos a pantalla completa y la barra de Windows vuelve al desactivar la opción."
+                                                           "Corrección de errores y mejoras.",
+                                                           "La Cámara y la barra de tareas personalizada se eliminaron por ahora — causaban demasiados problemas. Puede que vuelvan algún día.",
+                                                           "Mantén Shift al arrastrar un widget del escritorio para ajustarlo a una cuadrícula y alinearlo de forma limpia. Se mejoró el movimiento de widgets y del notch — muévelos paso a paso con las flechas.",
+                                                           "Nuevo: activa o desactiva los recordatorios de agua y elige un color de brillo personalizado para el notch."
                                                        ],
                                                 "de":  [
-                                                           "Neue Widget-Leiste: eine voll anpassbare Leiste kompakter Widgets auf dem Desktop — Uhr, Datum, Wetter, Krypto, läuft gerade, CPU, RAM, Netzwerk, Akku, Datenträger und Labels. Wähle einzelne Kacheln oder eine Leiste, oben oder unten, Ausrichtung, Abstand, Glas, Größe und Akzent. Einrichtung im Launcher unter Leiste.",
-                                                           "Optional: Windows-Taskleiste ersetzen — ausblenden und die Zenfik-Leiste an ihrer Stelle immer im Vordergrund halten (zeigt Widgets, keine Apps; Start mit der Win-Taste). Im Vollbildspiel blendet sie sich automatisch aus, und die Windows-Taskleiste kehrt beim Ausschalten der Option zurück."
+                                                           "Fehlerbehebungen und Feinschliff.",
+                                                           "Die Kamera und die eigene Taskleiste wurden vorerst entfernt — sie verursachten zu viele Probleme. Vielleicht kommen sie eines Tages zurück.",
+                                                           "Halte Shift beim Ziehen eines Desktop-Widgets, um es an einem Raster auszurichten und sauber zu platzieren. Das Verschieben von Widgets und der Notch wurde verbessert — bewege sie mit den Pfeiltasten Schritt für Schritt.",
+                                                           "Neu: Wassererinnerungen an- oder ausschalten und eine eigene Glow-Farbe für die Notch wählen."
                                                        ]
                                             }
                               }
