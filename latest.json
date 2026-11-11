@@ -1,58 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.30-1.5.25/Zenfik-Setup.exe",
-                                    "version":  "1.4.30",
-                                    "silent":  false,
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.31-1.5.25/Zenfik-Setup.exe",
+                                    "version":  "1.4.31",
+                                    "silent":  true,
                                     "notes":  {
                                                   "en":  [
-                                                             "New advanced memory view in PC Tools — a “Memory” tab that shows where every gigabyte really goes.",
-                                                             "It breaks your RAM into In use, Compressed, Modified, Cached (standby), Free and Hardware reserved, so you can finally see the memory Task Manager hides. If Task Manager says 7 GB used but you have 16, this shows where the rest is — mostly file cache that’s freed the moment something needs it.",
-                                                             "Also lists memory per app (working set and private), with one-click end task."
+                                                             "Small fix in the Memory view text."
                                                          ],
                                                   "pl":  [
-                                                             "Nowy zaawansowany podgląd pamięci w Narzędziach PC — zakładka „Pamięć”, która pokazuje gdzie naprawdę idzie każdy gigabajt.",
-                                                             "Rozbija RAM na: W użyciu, Skompresowana, Zmodyfikowana, Cache (standby), Wolna i Zarezerwowana sprzętowo — wreszcie widać pamięć, którą ukrywa Menedżer zadań. Jeśli Menedżer pokazuje 7 GB, a masz 16, tu zobaczysz gdzie jest reszta — głównie podręczna pamięć plików, zwalniana w momencie gdy coś jej potrzebuje.",
-                                                             "Dodatkowo lista pamięci wg aplikacji (working set i prywatna), z zakończeniem procesu jednym kliknięciem."
+                                                             "Drobna poprawka tekstu w podglądzie pamięci."
                                                          ],
                                                   "es":  [
-                                                             "Nueva vista avanzada de memoria en Herramientas de PC — una pestaña “Memoria” que muestra a dónde va realmente cada gigabyte.",
-                                                             "Divide tu RAM en En uso, Comprimida, Modificada, Caché (en espera), Libre y Reservada por hardware, para ver por fin la memoria que oculta el Administrador de tareas. Si dice 7 GB usados pero tienes 16, aquí ves dónde está el resto — sobre todo caché de archivos que se libera en cuanto algo la necesita.",
-                                                             "También lista la memoria por app (working set y privada), con finalizar tarea en un clic."
+                                                             "Pequeña corrección de texto en la vista de memoria."
                                                          ],
                                                   "de":  [
-                                                             "Neue erweiterte Speicheransicht in den PC-Tools — ein „Arbeitsspeicher“-Tab, der zeigt, wohin wirklich jedes Gigabyte geht.",
-                                                             "Er teilt den RAM auf in In Verwendung, Komprimiert, Geändert, Cache (Standby), Frei und Hardware-reserviert — so siehst du endlich den Speicher, den der Task-Manager verbirgt. Wenn er 7 GB zeigt, du aber 16 hast, siehst du hier, wo der Rest ist — meist Datei-Cache, der sofort freigegeben wird, wenn etwas ihn braucht.",
-                                                             "Zeigt außerdem den Speicher pro App (Working Set und privat), mit Task beenden per Klick."
+                                                             "Kleine Textkorrektur in der Speicheransicht."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.30-1.5.25/Zenfik-Setup.exe",
-                                  "version":  "1.4.30",
-                                  "silent":  false,
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.31-1.5.25/Zenfik-Setup.exe",
+                                  "version":  "1.4.31",
+                                  "silent":  true,
                                   "notes":  {
                                                 "en":  [
-                                                           "New advanced memory view in PC Tools — a “Memory” tab that shows where every gigabyte really goes.",
-                                                           "It breaks your RAM into In use, Compressed, Modified, Cached (standby), Free and Hardware reserved, so you can finally see the memory Task Manager hides. If Task Manager says 7 GB used but you have 16, this shows where the rest is — mostly file cache that’s freed the moment something needs it.",
-                                                           "Also lists memory per app (working set and private), with one-click end task."
+                                                           "Small fix in the Memory view text."
                                                        ],
                                                 "pl":  [
-                                                           "Nowy zaawansowany podgląd pamięci w Narzędziach PC — zakładka „Pamięć”, która pokazuje gdzie naprawdę idzie każdy gigabajt.",
-                                                           "Rozbija RAM na: W użyciu, Skompresowana, Zmodyfikowana, Cache (standby), Wolna i Zarezerwowana sprzętowo — wreszcie widać pamięć, którą ukrywa Menedżer zadań. Jeśli Menedżer pokazuje 7 GB, a masz 16, tu zobaczysz gdzie jest reszta — głównie podręczna pamięć plików, zwalniana w momencie gdy coś jej potrzebuje.",
-                                                           "Dodatkowo lista pamięci wg aplikacji (working set i prywatna), z zakończeniem procesu jednym kliknięciem."
+                                                           "Drobna poprawka tekstu w podglądzie pamięci."
                                                        ],
                                                 "es":  [
-                                                           "Nueva vista avanzada de memoria en Herramientas de PC — una pestaña “Memoria” que muestra a dónde va realmente cada gigabyte.",
-                                                           "Divide tu RAM en En uso, Comprimida, Modificada, Caché (en espera), Libre y Reservada por hardware, para ver por fin la memoria que oculta el Administrador de tareas. Si dice 7 GB usados pero tienes 16, aquí ves dónde está el resto — sobre todo caché de archivos que se libera en cuanto algo la necesita.",
-                                                           "También lista la memoria por app (working set y privada), con finalizar tarea en un clic."
+                                                           "Pequeña corrección de texto en la vista de memoria."
                                                        ],
                                                 "de":  [
-                                                           "Neue erweiterte Speicheransicht in den PC-Tools — ein „Arbeitsspeicher“-Tab, der zeigt, wohin wirklich jedes Gigabyte geht.",
-                                                           "Er teilt den RAM auf in In Verwendung, Komprimiert, Geändert, Cache (Standby), Frei und Hardware-reserviert — so siehst du endlich den Speicher, den der Task-Manager verbirgt. Wenn er 7 GB zeigt, du aber 16 hast, siehst du hier, wo der Rest ist — meist Datei-Cache, der sofort freigegeben wird, wenn etwas ihn braucht.",
-                                                           "Zeigt außerdem den Speicher pro App (Working Set und privat), mit Task beenden per Klick."
+                                                           "Kleine Textkorrektur in der Speicheransicht."
                                                        ]
                                             }
                               }
