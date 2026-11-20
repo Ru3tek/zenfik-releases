@@ -1,66 +1,66 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.35-1.5.28/Zenfik-Setup.exe",
-                                    "version":  "1.4.35",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.36-1.5.29/Zenfik-Setup.exe",
+                                    "version":  "1.4.36",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Taskbar: way more customization.",
-                                                             "Hover effects for app icons: Dock (magnifies like on a Mac), Grow, Lift or Glow, with adjustable strength. Pick the open-app indicator (dot, line, pill or none) and its color, the active-app highlight, and a slide or fade hide animation.",
-                                                             "Every module can now be styled like a widget: glass, solid, light, accent, none or your own color, plus opacity, corner radius and border. New bar backgrounds: Accent and None.",
-                                                             "The ^ hidden-icons menu now opens right above its button."
+                                                             "Taskbar fixes and more control.",
+                                                             "Adding or removing widgets no longer makes the bar blink and the Windows taskbar flash. The ^ hidden-icons menu opens without the Windows taskbar flashing. A bar on the top edge no longer rearranges desktop icons.",
+                                                             "Height now only changes the bar height; icon and text size have their own settings. New: right alignment, a 1:1 Windows 11 Start logo you can recolor, a Jump hover effect, and hover animation style (smooth, bouncy, linear, instant) with its own speed.",
+                                                             "Reordering modules by dragging the handle works again."
                                                          ],
                                                   "pl":  [
-                                                             "Pasek zadań: dużo więcej personalizacji.",
-                                                             "Efekty najechania na ikony aplikacji: Dock (powiększanie jak na Macu), Powiększ, Unieś albo Poświata, z regulowaną siłą. Do wyboru wskaźnik otwartej aplikacji (kropka, linia, pigułka lub brak) i jego kolor, podświetlenie aktywnej aplikacji oraz animacja chowania: wysuwanie albo zanikanie.",
-                                                             "Każdy moduł można teraz ostylować jak widżet: szkło, jednolite, jasne, akcent, brak albo własny kolor, do tego przezroczystość, zaokrąglenie i obramowanie. Nowe tła paska: Akcent i Brak.",
-                                                             "Menu ^ z ukrytymi ikonami otwiera się teraz dokładnie nad swoim przyciskiem."
+                                                             "Poprawki paska zadań i więcej ustawień.",
+                                                             "Dodawanie i usuwanie widżetów nie powoduje już znikania paska i mignięcia paska Windows. Menu ^ z ukrytymi ikonami otwiera się bez mignięcia paska Windows. Pasek u góry ekranu nie rozsuwa już ikon na pulpicie.",
+                                                             "Wysokość zmienia teraz tylko wysokość paska, a rozmiar ikon i tekstu ma własne ustawienia. Nowe: wyrównanie do prawej, logo Start 1:1 jak w Windows 11 z możliwością zmiany koloru, efekt Podskok oraz styl animacji najechania (płynna, sprężysta, liniowa, natychmiast) z osobną szybkością.",
+                                                             "Znowu działa przeciąganie modułów za uchwyt, żeby zmienić kolejność."
                                                          ],
                                                   "es":  [
-                                                             "Barra de tareas: mucha más personalización.",
-                                                             "Efectos al pasar el ratón por los iconos: Dock (se amplían como en un Mac), Crecer, Elevar o Brillo, con intensidad ajustable. Elige el indicador de apps abiertas (punto, línea, píldora o ninguno) y su color, el resaltado de la app activa y la animación de ocultar: deslizar o desvanecer.",
-                                                             "Cada módulo se puede personalizar como un widget: cristal, sólido, claro, acento, ninguno o tu color, además de opacidad, redondeo y borde. Nuevos fondos de barra: Acento y Ninguno.",
-                                                             "El menú ^ de iconos ocultos ahora se abre justo encima de su botón."
+                                                             "Correcciones de la barra y más ajustes.",
+                                                             "Añadir o quitar widgets ya no hace que la barra parpadee ni que aparezca la barra de Windows. El menú ^ de iconos ocultos se abre sin parpadeo. Una barra arriba ya no reordena los iconos del escritorio.",
+                                                             "La altura ahora solo cambia la altura de la barra; los iconos y el texto tienen su propio tamaño. Nuevo: alineación a la derecha, logo de Inicio de Windows 11 recoloreable, efecto Salto y estilo de animación al pasar el ratón (suave, elástica, lineal, instantánea) con su propia velocidad.",
+                                                             "Vuelve a funcionar reordenar módulos arrastrando el asa."
                                                          ],
                                                   "de":  [
-                                                             "Taskleiste: viel mehr Anpassung.",
-                                                             "Hover-Effekte für App-Symbole: Dock (vergrößert wie am Mac), Wachsen, Anheben oder Leuchten, mit einstellbarer Stärke. Wähle die Anzeige für offene Apps (Punkt, Linie, Pille oder keine) und ihre Farbe, die Hervorhebung der aktiven App und eine Gleit- oder Ausblend-Animation.",
-                                                             "Jedes Modul lässt sich jetzt wie ein Widget gestalten: Glas, einfarbig, hell, Akzent, keins oder eigene Farbe, dazu Deckkraft, Eckenradius und Rahmen. Neue Leistenhintergründe: Akzent und Keiner.",
-                                                             "Das ^-Menü mit ausgeblendeten Symbolen öffnet sich jetzt direkt über seiner Taste."
+                                                             "Taskleisten-Fixes und mehr Einstellungen.",
+                                                             "Widgets hinzufügen oder entfernen lässt die Leiste nicht mehr verschwinden und die Windows-Taskleiste nicht mehr aufblitzen. Das ^-Menü öffnet sich ohne Aufblitzen. Eine Leiste oben sortiert die Desktopsymbole nicht mehr um.",
+                                                             "Die Höhe ändert jetzt nur die Leistenhöhe; Symbol- und Textgröße haben eigene Einstellungen. Neu: Rechtsausrichtung, 1:1 Windows-11-Startlogo mit eigener Farbe, Hüpf-Effekt und Hover-Animationsstil (weich, federnd, linear, sofort) mit eigener Geschwindigkeit.",
+                                                             "Module lassen sich wieder am Griff ziehen und umsortieren."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.35-1.5.28/Zenfik-Setup.exe",
-                                  "version":  "1.4.35",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.36-1.5.29/Zenfik-Setup.exe",
+                                  "version":  "1.4.36",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Taskbar: way more customization.",
-                                                           "Hover effects for app icons: Dock (magnifies like on a Mac), Grow, Lift or Glow, with adjustable strength. Pick the open-app indicator (dot, line, pill or none) and its color, the active-app highlight, and a slide or fade hide animation.",
-                                                           "Every module can now be styled like a widget: glass, solid, light, accent, none or your own color, plus opacity, corner radius and border. New bar backgrounds: Accent and None.",
-                                                           "The ^ hidden-icons menu now opens right above its button."
+                                                           "Taskbar fixes and more control.",
+                                                           "Adding or removing widgets no longer makes the bar blink and the Windows taskbar flash. The ^ hidden-icons menu opens without the Windows taskbar flashing. A bar on the top edge no longer rearranges desktop icons.",
+                                                           "Height now only changes the bar height; icon and text size have their own settings. New: right alignment, a 1:1 Windows 11 Start logo you can recolor, a Jump hover effect, and hover animation style (smooth, bouncy, linear, instant) with its own speed.",
+                                                           "Reordering modules by dragging the handle works again."
                                                        ],
                                                 "pl":  [
-                                                           "Pasek zadań: dużo więcej personalizacji.",
-                                                           "Efekty najechania na ikony aplikacji: Dock (powiększanie jak na Macu), Powiększ, Unieś albo Poświata, z regulowaną siłą. Do wyboru wskaźnik otwartej aplikacji (kropka, linia, pigułka lub brak) i jego kolor, podświetlenie aktywnej aplikacji oraz animacja chowania: wysuwanie albo zanikanie.",
-                                                           "Każdy moduł można teraz ostylować jak widżet: szkło, jednolite, jasne, akcent, brak albo własny kolor, do tego przezroczystość, zaokrąglenie i obramowanie. Nowe tła paska: Akcent i Brak.",
-                                                           "Menu ^ z ukrytymi ikonami otwiera się teraz dokładnie nad swoim przyciskiem."
+                                                           "Poprawki paska zadań i więcej ustawień.",
+                                                           "Dodawanie i usuwanie widżetów nie powoduje już znikania paska i mignięcia paska Windows. Menu ^ z ukrytymi ikonami otwiera się bez mignięcia paska Windows. Pasek u góry ekranu nie rozsuwa już ikon na pulpicie.",
+                                                           "Wysokość zmienia teraz tylko wysokość paska, a rozmiar ikon i tekstu ma własne ustawienia. Nowe: wyrównanie do prawej, logo Start 1:1 jak w Windows 11 z możliwością zmiany koloru, efekt Podskok oraz styl animacji najechania (płynna, sprężysta, liniowa, natychmiast) z osobną szybkością.",
+                                                           "Znowu działa przeciąganie modułów za uchwyt, żeby zmienić kolejność."
                                                        ],
                                                 "es":  [
-                                                           "Barra de tareas: mucha más personalización.",
-                                                           "Efectos al pasar el ratón por los iconos: Dock (se amplían como en un Mac), Crecer, Elevar o Brillo, con intensidad ajustable. Elige el indicador de apps abiertas (punto, línea, píldora o ninguno) y su color, el resaltado de la app activa y la animación de ocultar: deslizar o desvanecer.",
-                                                           "Cada módulo se puede personalizar como un widget: cristal, sólido, claro, acento, ninguno o tu color, además de opacidad, redondeo y borde. Nuevos fondos de barra: Acento y Ninguno.",
-                                                           "El menú ^ de iconos ocultos ahora se abre justo encima de su botón."
+                                                           "Correcciones de la barra y más ajustes.",
+                                                           "Añadir o quitar widgets ya no hace que la barra parpadee ni que aparezca la barra de Windows. El menú ^ de iconos ocultos se abre sin parpadeo. Una barra arriba ya no reordena los iconos del escritorio.",
+                                                           "La altura ahora solo cambia la altura de la barra; los iconos y el texto tienen su propio tamaño. Nuevo: alineación a la derecha, logo de Inicio de Windows 11 recoloreable, efecto Salto y estilo de animación al pasar el ratón (suave, elástica, lineal, instantánea) con su propia velocidad.",
+                                                           "Vuelve a funcionar reordenar módulos arrastrando el asa."
                                                        ],
                                                 "de":  [
-                                                           "Taskleiste: viel mehr Anpassung.",
-                                                           "Hover-Effekte für App-Symbole: Dock (vergrößert wie am Mac), Wachsen, Anheben oder Leuchten, mit einstellbarer Stärke. Wähle die Anzeige für offene Apps (Punkt, Linie, Pille oder keine) und ihre Farbe, die Hervorhebung der aktiven App und eine Gleit- oder Ausblend-Animation.",
-                                                           "Jedes Modul lässt sich jetzt wie ein Widget gestalten: Glas, einfarbig, hell, Akzent, keins oder eigene Farbe, dazu Deckkraft, Eckenradius und Rahmen. Neue Leistenhintergründe: Akzent und Keiner.",
-                                                           "Das ^-Menü mit ausgeblendeten Symbolen öffnet sich jetzt direkt über seiner Taste."
+                                                           "Taskleisten-Fixes und mehr Einstellungen.",
+                                                           "Widgets hinzufügen oder entfernen lässt die Leiste nicht mehr verschwinden und die Windows-Taskleiste nicht mehr aufblitzen. Das ^-Menü öffnet sich ohne Aufblitzen. Eine Leiste oben sortiert die Desktopsymbole nicht mehr um.",
+                                                           "Die Höhe ändert jetzt nur die Leistenhöhe; Symbol- und Textgröße haben eigene Einstellungen. Neu: Rechtsausrichtung, 1:1 Windows-11-Startlogo mit eigener Farbe, Hüpf-Effekt und Hover-Animationsstil (weich, federnd, linear, sofort) mit eigener Geschwindigkeit.",
+                                                           "Module lassen sich wieder am Griff ziehen und umsortieren."
                                                        ]
                                             }
                               }
