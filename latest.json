@@ -1,66 +1,66 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.34-1.5.27/Zenfik-Setup.exe",
-                                    "version":  "1.4.34",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.35-1.5.28/Zenfik-Setup.exe",
+                                    "version":  "1.4.35",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Zenfik Taskbar got a big update.",
-                                                             "Desktop icons no longer get rearranged when the bar turns on, the dark box behind the bar is gone, app icons are sharp, and the bar no longer covers screenshots.",
-                                                             "New: app search, a Zenfik-style right-click menu, your own Wi-Fi/sound panel with a volume slider, a notifications panel, and the ^ button for apps running in the background. All panels open and close with smooth animations.",
-                                                             "The Taskbar tab now looks and works like the Widgets tab: module gallery, your modules as cards, presets with previews."
+                                                             "Taskbar: way more customization.",
+                                                             "Hover effects for app icons: Dock (magnifies like on a Mac), Grow, Lift or Glow, with adjustable strength. Pick the open-app indicator (dot, line, pill or none) and its color, the active-app highlight, and a slide or fade hide animation.",
+                                                             "Every module can now be styled like a widget: glass, solid, light, accent, none or your own color, plus opacity, corner radius and border. New bar backgrounds: Accent and None.",
+                                                             "The ^ hidden-icons menu now opens right above its button."
                                                          ],
                                                   "pl":  [
-                                                             "Pasek zadań Zenfik dostał dużą aktualizację.",
-                                                             "Ikony na pulpicie już się nie rozjeżdżają po włączeniu paska, zniknęło ciemne tło za paskiem, ikony aplikacji są ostre, a pasek nie wchodzi już na zrzuty ekranu.",
-                                                             "Nowe: wyszukiwarka aplikacji, menu pod prawym przyciskiem w stylu Zenfika, własny panel Wi-Fi i dźwięku z suwakiem głośności, panel powiadomień oraz przycisk ^ z aplikacjami działającymi w tle. Wszystkie panele otwierają się i zamykają z płynną animacją.",
-                                                             "Zakładka Pasek zadań wygląda i działa teraz jak zakładka Widżety: galeria modułów, Twoje moduły jako karty, presety z podglądem."
+                                                             "Pasek zadań: dużo więcej personalizacji.",
+                                                             "Efekty najechania na ikony aplikacji: Dock (powiększanie jak na Macu), Powiększ, Unieś albo Poświata, z regulowaną siłą. Do wyboru wskaźnik otwartej aplikacji (kropka, linia, pigułka lub brak) i jego kolor, podświetlenie aktywnej aplikacji oraz animacja chowania: wysuwanie albo zanikanie.",
+                                                             "Każdy moduł można teraz ostylować jak widżet: szkło, jednolite, jasne, akcent, brak albo własny kolor, do tego przezroczystość, zaokrąglenie i obramowanie. Nowe tła paska: Akcent i Brak.",
+                                                             "Menu ^ z ukrytymi ikonami otwiera się teraz dokładnie nad swoim przyciskiem."
                                                          ],
                                                   "es":  [
-                                                             "La Barra de tareas Zenfik recibe una gran actualización.",
-                                                             "Los iconos del escritorio ya no se reordenan al activar la barra, desapareció el fondo oscuro detrás de la barra, los iconos son nítidos y la barra ya no tapa las capturas.",
-                                                             "Nuevo: búsqueda de apps, menú contextual estilo Zenfik, panel propio de Wi-Fi y sonido con control de volumen, panel de notificaciones y el botón ^ con apps en segundo plano. Todos los paneles se abren y cierran con animaciones suaves.",
-                                                             "La pestaña Barra de tareas ahora se ve y funciona como la de Widgets: galería de módulos, tus módulos como tarjetas y preajustes con vista previa."
+                                                             "Barra de tareas: mucha más personalización.",
+                                                             "Efectos al pasar el ratón por los iconos: Dock (se amplían como en un Mac), Crecer, Elevar o Brillo, con intensidad ajustable. Elige el indicador de apps abiertas (punto, línea, píldora o ninguno) y su color, el resaltado de la app activa y la animación de ocultar: deslizar o desvanecer.",
+                                                             "Cada módulo se puede personalizar como un widget: cristal, sólido, claro, acento, ninguno o tu color, además de opacidad, redondeo y borde. Nuevos fondos de barra: Acento y Ninguno.",
+                                                             "El menú ^ de iconos ocultos ahora se abre justo encima de su botón."
                                                          ],
                                                   "de":  [
-                                                             "Die Zenfik-Taskleiste bekommt ein großes Update.",
-                                                             "Desktopsymbole werden beim Einschalten nicht mehr umsortiert, der dunkle Kasten hinter der Leiste ist weg, App-Symbole sind scharf und die Leiste verdeckt keine Screenshots mehr.",
-                                                             "Neu: App-Suche, Rechtsklickmenü im Zenfik-Stil, eigenes WLAN-/Ton-Panel mit Lautstärkeregler, Mitteilungs-Panel und die ^-Taste für Apps im Hintergrund. Alle Panels öffnen und schließen mit flüssigen Animationen.",
-                                                             "Der Taskleisten-Tab sieht jetzt aus und funktioniert wie der Widgets-Tab: Modulgalerie, deine Module als Karten, Vorlagen mit Vorschau."
+                                                             "Taskleiste: viel mehr Anpassung.",
+                                                             "Hover-Effekte für App-Symbole: Dock (vergrößert wie am Mac), Wachsen, Anheben oder Leuchten, mit einstellbarer Stärke. Wähle die Anzeige für offene Apps (Punkt, Linie, Pille oder keine) und ihre Farbe, die Hervorhebung der aktiven App und eine Gleit- oder Ausblend-Animation.",
+                                                             "Jedes Modul lässt sich jetzt wie ein Widget gestalten: Glas, einfarbig, hell, Akzent, keins oder eigene Farbe, dazu Deckkraft, Eckenradius und Rahmen. Neue Leistenhintergründe: Akzent und Keiner.",
+                                                             "Das ^-Menü mit ausgeblendeten Symbolen öffnet sich jetzt direkt über seiner Taste."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.34-1.5.27/Zenfik-Setup.exe",
-                                  "version":  "1.4.34",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.35-1.5.28/Zenfik-Setup.exe",
+                                  "version":  "1.4.35",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Zenfik Taskbar got a big update.",
-                                                           "Desktop icons no longer get rearranged when the bar turns on, the dark box behind the bar is gone, app icons are sharp, and the bar no longer covers screenshots.",
-                                                           "New: app search, a Zenfik-style right-click menu, your own Wi-Fi/sound panel with a volume slider, a notifications panel, and the ^ button for apps running in the background. All panels open and close with smooth animations.",
-                                                           "The Taskbar tab now looks and works like the Widgets tab: module gallery, your modules as cards, presets with previews."
+                                                           "Taskbar: way more customization.",
+                                                           "Hover effects for app icons: Dock (magnifies like on a Mac), Grow, Lift or Glow, with adjustable strength. Pick the open-app indicator (dot, line, pill or none) and its color, the active-app highlight, and a slide or fade hide animation.",
+                                                           "Every module can now be styled like a widget: glass, solid, light, accent, none or your own color, plus opacity, corner radius and border. New bar backgrounds: Accent and None.",
+                                                           "The ^ hidden-icons menu now opens right above its button."
                                                        ],
                                                 "pl":  [
-                                                           "Pasek zadań Zenfik dostał dużą aktualizację.",
-                                                           "Ikony na pulpicie już się nie rozjeżdżają po włączeniu paska, zniknęło ciemne tło za paskiem, ikony aplikacji są ostre, a pasek nie wchodzi już na zrzuty ekranu.",
-                                                           "Nowe: wyszukiwarka aplikacji, menu pod prawym przyciskiem w stylu Zenfika, własny panel Wi-Fi i dźwięku z suwakiem głośności, panel powiadomień oraz przycisk ^ z aplikacjami działającymi w tle. Wszystkie panele otwierają się i zamykają z płynną animacją.",
-                                                           "Zakładka Pasek zadań wygląda i działa teraz jak zakładka Widżety: galeria modułów, Twoje moduły jako karty, presety z podglądem."
+                                                           "Pasek zadań: dużo więcej personalizacji.",
+                                                           "Efekty najechania na ikony aplikacji: Dock (powiększanie jak na Macu), Powiększ, Unieś albo Poświata, z regulowaną siłą. Do wyboru wskaźnik otwartej aplikacji (kropka, linia, pigułka lub brak) i jego kolor, podświetlenie aktywnej aplikacji oraz animacja chowania: wysuwanie albo zanikanie.",
+                                                           "Każdy moduł można teraz ostylować jak widżet: szkło, jednolite, jasne, akcent, brak albo własny kolor, do tego przezroczystość, zaokrąglenie i obramowanie. Nowe tła paska: Akcent i Brak.",
+                                                           "Menu ^ z ukrytymi ikonami otwiera się teraz dokładnie nad swoim przyciskiem."
                                                        ],
                                                 "es":  [
-                                                           "La Barra de tareas Zenfik recibe una gran actualización.",
-                                                           "Los iconos del escritorio ya no se reordenan al activar la barra, desapareció el fondo oscuro detrás de la barra, los iconos son nítidos y la barra ya no tapa las capturas.",
-                                                           "Nuevo: búsqueda de apps, menú contextual estilo Zenfik, panel propio de Wi-Fi y sonido con control de volumen, panel de notificaciones y el botón ^ con apps en segundo plano. Todos los paneles se abren y cierran con animaciones suaves.",
-                                                           "La pestaña Barra de tareas ahora se ve y funciona como la de Widgets: galería de módulos, tus módulos como tarjetas y preajustes con vista previa."
+                                                           "Barra de tareas: mucha más personalización.",
+                                                           "Efectos al pasar el ratón por los iconos: Dock (se amplían como en un Mac), Crecer, Elevar o Brillo, con intensidad ajustable. Elige el indicador de apps abiertas (punto, línea, píldora o ninguno) y su color, el resaltado de la app activa y la animación de ocultar: deslizar o desvanecer.",
+                                                           "Cada módulo se puede personalizar como un widget: cristal, sólido, claro, acento, ninguno o tu color, además de opacidad, redondeo y borde. Nuevos fondos de barra: Acento y Ninguno.",
+                                                           "El menú ^ de iconos ocultos ahora se abre justo encima de su botón."
                                                        ],
                                                 "de":  [
-                                                           "Die Zenfik-Taskleiste bekommt ein großes Update.",
-                                                           "Desktopsymbole werden beim Einschalten nicht mehr umsortiert, der dunkle Kasten hinter der Leiste ist weg, App-Symbole sind scharf und die Leiste verdeckt keine Screenshots mehr.",
-                                                           "Neu: App-Suche, Rechtsklickmenü im Zenfik-Stil, eigenes WLAN-/Ton-Panel mit Lautstärkeregler, Mitteilungs-Panel und die ^-Taste für Apps im Hintergrund. Alle Panels öffnen und schließen mit flüssigen Animationen.",
-                                                           "Der Taskleisten-Tab sieht jetzt aus und funktioniert wie der Widgets-Tab: Modulgalerie, deine Module als Karten, Vorlagen mit Vorschau."
+                                                           "Taskleiste: viel mehr Anpassung.",
+                                                           "Hover-Effekte für App-Symbole: Dock (vergrößert wie am Mac), Wachsen, Anheben oder Leuchten, mit einstellbarer Stärke. Wähle die Anzeige für offene Apps (Punkt, Linie, Pille oder keine) und ihre Farbe, die Hervorhebung der aktiven App und eine Gleit- oder Ausblend-Animation.",
+                                                           "Jedes Modul lässt sich jetzt wie ein Widget gestalten: Glas, einfarbig, hell, Akzent, keins oder eigene Farbe, dazu Deckkraft, Eckenradius und Rahmen. Neue Leistenhintergründe: Akzent und Keiner.",
+                                                           "Das ^-Menü mit ausgeblendeten Symbolen öffnet sich jetzt direkt über seiner Taste."
                                                        ]
                                             }
                               }
