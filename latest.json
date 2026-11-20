@@ -1,66 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.36-1.5.29/Zenfik-Setup.exe",
-                                    "version":  "1.4.36",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.37-1.5.30/Zenfik-Setup.exe",
+                                    "version":  "1.4.37",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Taskbar fixes and more control.",
-                                                             "Adding or removing widgets no longer makes the bar blink and the Windows taskbar flash. The ^ hidden-icons menu opens without the Windows taskbar flashing. A bar on the top edge no longer rearranges desktop icons.",
-                                                             "Height now only changes the bar height; icon and text size have their own settings. New: right alignment, a 1:1 Windows 11 Start logo you can recolor, a Jump hover effect, and hover animation style (smooth, bouncy, linear, instant) with its own speed.",
-                                                             "Reordering modules by dragging the handle works again."
+                                                             "Taskbar: new Size setting scales everything on the bar (icons, text, modules). Height now only changes how tall the bar is; the content stays the same size and centered."
                                                          ],
                                                   "pl":  [
-                                                             "Poprawki paska zadań i więcej ustawień.",
-                                                             "Dodawanie i usuwanie widżetów nie powoduje już znikania paska i mignięcia paska Windows. Menu ^ z ukrytymi ikonami otwiera się bez mignięcia paska Windows. Pasek u góry ekranu nie rozsuwa już ikon na pulpicie.",
-                                                             "Wysokość zmienia teraz tylko wysokość paska, a rozmiar ikon i tekstu ma własne ustawienia. Nowe: wyrównanie do prawej, logo Start 1:1 jak w Windows 11 z możliwością zmiany koloru, efekt Podskok oraz styl animacji najechania (płynna, sprężysta, liniowa, natychmiast) z osobną szybkością.",
-                                                             "Znowu działa przeciąganie modułów za uchwyt, żeby zmienić kolejność."
+                                                             "Pasek zadań: nowe ustawienie Wielkość skaluje wszystko na pasku (ikony, tekst, moduły). Wysokość zmienia teraz tylko wysokość paska, a zawartość zostaje tej samej wielkości i jest wyśrodkowana."
                                                          ],
                                                   "es":  [
-                                                             "Correcciones de la barra y más ajustes.",
-                                                             "Añadir o quitar widgets ya no hace que la barra parpadee ni que aparezca la barra de Windows. El menú ^ de iconos ocultos se abre sin parpadeo. Una barra arriba ya no reordena los iconos del escritorio.",
-                                                             "La altura ahora solo cambia la altura de la barra; los iconos y el texto tienen su propio tamaño. Nuevo: alineación a la derecha, logo de Inicio de Windows 11 recoloreable, efecto Salto y estilo de animación al pasar el ratón (suave, elástica, lineal, instantánea) con su propia velocidad.",
-                                                             "Vuelve a funcionar reordenar módulos arrastrando el asa."
+                                                             "Barra de tareas: nuevo ajuste Tamaño que escala todo (iconos, texto, módulos). La altura ahora solo cambia lo alta que es la barra; el contenido mantiene su tamaño y queda centrado."
                                                          ],
                                                   "de":  [
-                                                             "Taskleisten-Fixes und mehr Einstellungen.",
-                                                             "Widgets hinzufügen oder entfernen lässt die Leiste nicht mehr verschwinden und die Windows-Taskleiste nicht mehr aufblitzen. Das ^-Menü öffnet sich ohne Aufblitzen. Eine Leiste oben sortiert die Desktopsymbole nicht mehr um.",
-                                                             "Die Höhe ändert jetzt nur die Leistenhöhe; Symbol- und Textgröße haben eigene Einstellungen. Neu: Rechtsausrichtung, 1:1 Windows-11-Startlogo mit eigener Farbe, Hüpf-Effekt und Hover-Animationsstil (weich, federnd, linear, sofort) mit eigener Geschwindigkeit.",
-                                                             "Module lassen sich wieder am Griff ziehen und umsortieren."
+                                                             "Taskleiste: neue Einstellung Größe skaliert alles auf der Leiste (Symbole, Text, Module). Die Höhe ändert jetzt nur die Leistenhöhe; der Inhalt behält seine Größe und bleibt zentriert."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.36-1.5.29/Zenfik-Setup.exe",
-                                  "version":  "1.4.36",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.37-1.5.30/Zenfik-Setup.exe",
+                                  "version":  "1.4.37",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Taskbar fixes and more control.",
-                                                           "Adding or removing widgets no longer makes the bar blink and the Windows taskbar flash. The ^ hidden-icons menu opens without the Windows taskbar flashing. A bar on the top edge no longer rearranges desktop icons.",
-                                                           "Height now only changes the bar height; icon and text size have their own settings. New: right alignment, a 1:1 Windows 11 Start logo you can recolor, a Jump hover effect, and hover animation style (smooth, bouncy, linear, instant) with its own speed.",
-                                                           "Reordering modules by dragging the handle works again."
+                                                           "Taskbar: new Size setting scales everything on the bar (icons, text, modules). Height now only changes how tall the bar is; the content stays the same size and centered."
                                                        ],
                                                 "pl":  [
-                                                           "Poprawki paska zadań i więcej ustawień.",
-                                                           "Dodawanie i usuwanie widżetów nie powoduje już znikania paska i mignięcia paska Windows. Menu ^ z ukrytymi ikonami otwiera się bez mignięcia paska Windows. Pasek u góry ekranu nie rozsuwa już ikon na pulpicie.",
-                                                           "Wysokość zmienia teraz tylko wysokość paska, a rozmiar ikon i tekstu ma własne ustawienia. Nowe: wyrównanie do prawej, logo Start 1:1 jak w Windows 11 z możliwością zmiany koloru, efekt Podskok oraz styl animacji najechania (płynna, sprężysta, liniowa, natychmiast) z osobną szybkością.",
-                                                           "Znowu działa przeciąganie modułów za uchwyt, żeby zmienić kolejność."
+                                                           "Pasek zadań: nowe ustawienie Wielkość skaluje wszystko na pasku (ikony, tekst, moduły). Wysokość zmienia teraz tylko wysokość paska, a zawartość zostaje tej samej wielkości i jest wyśrodkowana."
                                                        ],
                                                 "es":  [
-                                                           "Correcciones de la barra y más ajustes.",
-                                                           "Añadir o quitar widgets ya no hace que la barra parpadee ni que aparezca la barra de Windows. El menú ^ de iconos ocultos se abre sin parpadeo. Una barra arriba ya no reordena los iconos del escritorio.",
-                                                           "La altura ahora solo cambia la altura de la barra; los iconos y el texto tienen su propio tamaño. Nuevo: alineación a la derecha, logo de Inicio de Windows 11 recoloreable, efecto Salto y estilo de animación al pasar el ratón (suave, elástica, lineal, instantánea) con su propia velocidad.",
-                                                           "Vuelve a funcionar reordenar módulos arrastrando el asa."
+                                                           "Barra de tareas: nuevo ajuste Tamaño que escala todo (iconos, texto, módulos). La altura ahora solo cambia lo alta que es la barra; el contenido mantiene su tamaño y queda centrado."
                                                        ],
                                                 "de":  [
-                                                           "Taskleisten-Fixes und mehr Einstellungen.",
-                                                           "Widgets hinzufügen oder entfernen lässt die Leiste nicht mehr verschwinden und die Windows-Taskleiste nicht mehr aufblitzen. Das ^-Menü öffnet sich ohne Aufblitzen. Eine Leiste oben sortiert die Desktopsymbole nicht mehr um.",
-                                                           "Die Höhe ändert jetzt nur die Leistenhöhe; Symbol- und Textgröße haben eigene Einstellungen. Neu: Rechtsausrichtung, 1:1 Windows-11-Startlogo mit eigener Farbe, Hüpf-Effekt und Hover-Animationsstil (weich, federnd, linear, sofort) mit eigener Geschwindigkeit.",
-                                                           "Module lassen sich wieder am Griff ziehen und umsortieren."
+                                                           "Taskleiste: neue Einstellung Größe skaliert alles auf der Leiste (Symbole, Text, Module). Die Höhe ändert jetzt nur die Leistenhöhe; der Inhalt behält seine Größe und bleibt zentriert."
                                                        ]
                                             }
                               }
