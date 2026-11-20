@@ -1,66 +1,66 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.33-1.5.26/Zenfik-Setup.exe",
-                                    "version":  "1.4.33",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.34-1.5.27/Zenfik-Setup.exe",
+                                    "version":  "1.4.34",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "New: Zenfik Taskbar — replace the Windows taskbar with your own Liquid Glass bar. Turn it on in the new Taskbar tab.",
-                                                             "Start, search, pinned and open apps (active window, window count, right-click to pin/close), Now Playing with album colors, weather with an hourly and 7-day forecast, clock with a calendar and your own events, Wi-Fi/sound/notifications, plus CPU, RAM, disk and more.",
-                                                             "Customize everything with a live preview: floating or full width, top or bottom, size, corners, Liquid Glass/Acrylic/solid/gradient, live blur, border, shadow, colors per module, fonts, drag \u0026 drop modules, auto-hide, all monitors. Presets included, plus your own presets and JSON import/export.",
-                                                             "Safe by design: turning it off or closing Zenfik brings the Windows taskbar back, even after a crash. Maximized windows stay above the bar."
+                                                             "Zenfik Taskbar got a big update.",
+                                                             "Desktop icons no longer get rearranged when the bar turns on, the dark box behind the bar is gone, app icons are sharp, and the bar no longer covers screenshots.",
+                                                             "New: app search, a Zenfik-style right-click menu, your own Wi-Fi/sound panel with a volume slider, a notifications panel, and the ^ button for apps running in the background. All panels open and close with smooth animations.",
+                                                             "The Taskbar tab now looks and works like the Widgets tab: module gallery, your modules as cards, presets with previews."
                                                          ],
                                                   "pl":  [
-                                                             "Nowość: Pasek zadań Zenfik — zastąp pasek Windows własnym paskiem w stylu Liquid Glass. Włączysz go w nowej zakładce Pasek zadań.",
-                                                             "Start, wyszukiwanie, przypięte i otwarte aplikacje (aktywne okno, licznik okien, prawy klik: przypnij/zamknij), Teraz gra z kolorami okładki, pogoda z prognozą godzinową i 7-dniową, zegar z kalendarzem i własnymi wydarzeniami, Wi-Fi/dźwięk/powiadomienia oraz CPU, RAM, dysk i więcej.",
-                                                             "Pełna personalizacja z podglądem na żywo: pływający albo na całą szerokość, góra lub dół, rozmiar, rogi, Liquid Glass/Akryl/jednolity/gradient, rozmycie na żywo, obramowanie, cień, kolory dla każdego modułu, czcionki, przeciąganie modułów, auto-ukrywanie, wszystkie monitory. Gotowe presety, własne presety i import/eksport JSON.",
-                                                             "Bezpiecznie: wyłączenie albo zamknięcie Zenfika przywraca pasek Windows, nawet po crashu. Zmaksymalizowane okna kończą się nad paskiem."
+                                                             "Pasek zadań Zenfik dostał dużą aktualizację.",
+                                                             "Ikony na pulpicie już się nie rozjeżdżają po włączeniu paska, zniknęło ciemne tło za paskiem, ikony aplikacji są ostre, a pasek nie wchodzi już na zrzuty ekranu.",
+                                                             "Nowe: wyszukiwarka aplikacji, menu pod prawym przyciskiem w stylu Zenfika, własny panel Wi-Fi i dźwięku z suwakiem głośności, panel powiadomień oraz przycisk ^ z aplikacjami działającymi w tle. Wszystkie panele otwierają się i zamykają z płynną animacją.",
+                                                             "Zakładka Pasek zadań wygląda i działa teraz jak zakładka Widżety: galeria modułów, Twoje moduły jako karty, presety z podglądem."
                                                          ],
                                                   "es":  [
-                                                             "Nuevo: Barra de tareas Zenfik — sustituye la barra de Windows por tu propia barra Liquid Glass. Actívala en la nueva pestaña Barra de tareas.",
-                                                             "Inicio, búsqueda, apps ancladas y abiertas (ventana activa, contador, clic derecho para anclar/cerrar), Sonando con colores de la portada, tiempo con previsión por horas y de 7 días, reloj con calendario y tus eventos, Wi-Fi/sonido/notificaciones, además de CPU, RAM, disco y más.",
-                                                             "Personalízalo todo con vista previa en vivo: flotante o de ancho completo, arriba o abajo, tamaño, esquinas, Liquid Glass/Acrílico/sólido/degradado, desenfoque en vivo, borde, sombra, colores por módulo, fuentes, módulos arrastrables, ocultar automáticamente y todos los monitores. Con preajustes, los tuyos propios e importación/exportación JSON.",
-                                                             "Seguro: al desactivarla o cerrar Zenfik vuelve la barra de Windows, incluso tras un fallo. Las ventanas maximizadas quedan encima de la barra."
+                                                             "La Barra de tareas Zenfik recibe una gran actualización.",
+                                                             "Los iconos del escritorio ya no se reordenan al activar la barra, desapareció el fondo oscuro detrás de la barra, los iconos son nítidos y la barra ya no tapa las capturas.",
+                                                             "Nuevo: búsqueda de apps, menú contextual estilo Zenfik, panel propio de Wi-Fi y sonido con control de volumen, panel de notificaciones y el botón ^ con apps en segundo plano. Todos los paneles se abren y cierran con animaciones suaves.",
+                                                             "La pestaña Barra de tareas ahora se ve y funciona como la de Widgets: galería de módulos, tus módulos como tarjetas y preajustes con vista previa."
                                                          ],
                                                   "de":  [
-                                                             "Neu: Zenfik-Taskleiste — ersetze die Windows-Taskleiste durch deine eigene Liquid-Glass-Leiste. Einschalten im neuen Tab Taskleiste.",
-                                                             "Start, Suche, angeheftete und offene Apps (aktives Fenster, Fensterzähler, Rechtsklick zum Anheften/Schließen), Läuft gerade mit Coverfarben, Wetter mit Stunden- und 7-Tage-Vorhersage, Uhr mit Kalender und eigenen Terminen, WLAN/Ton/Mitteilungen sowie CPU, RAM, Laufwerk und mehr.",
-                                                             "Alles anpassbar mit Live-Vorschau: schwebend oder volle Breite, oben oder unten, Größe, Ecken, Liquid Glass/Acryl/einfarbig/Verlauf, Live-Unschärfe, Rahmen, Schatten, Farben pro Modul, Schriften, Module per Drag \u0026 Drop, automatisch ausblenden, alle Monitore. Mit Vorlagen, eigenen Vorlagen und JSON-Import/-Export.",
-                                                             "Sicher: Ausschalten oder Beenden von Zenfik bringt die Windows-Taskleiste zurück, auch nach einem Absturz. Maximierte Fenster bleiben über der Leiste."
+                                                             "Die Zenfik-Taskleiste bekommt ein großes Update.",
+                                                             "Desktopsymbole werden beim Einschalten nicht mehr umsortiert, der dunkle Kasten hinter der Leiste ist weg, App-Symbole sind scharf und die Leiste verdeckt keine Screenshots mehr.",
+                                                             "Neu: App-Suche, Rechtsklickmenü im Zenfik-Stil, eigenes WLAN-/Ton-Panel mit Lautstärkeregler, Mitteilungs-Panel und die ^-Taste für Apps im Hintergrund. Alle Panels öffnen und schließen mit flüssigen Animationen.",
+                                                             "Der Taskleisten-Tab sieht jetzt aus und funktioniert wie der Widgets-Tab: Modulgalerie, deine Module als Karten, Vorlagen mit Vorschau."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.33-1.5.26/Zenfik-Setup.exe",
-                                  "version":  "1.4.33",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.34-1.5.27/Zenfik-Setup.exe",
+                                  "version":  "1.4.34",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "New: Zenfik Taskbar — replace the Windows taskbar with your own Liquid Glass bar. Turn it on in the new Taskbar tab.",
-                                                           "Start, search, pinned and open apps (active window, window count, right-click to pin/close), Now Playing with album colors, weather with an hourly and 7-day forecast, clock with a calendar and your own events, Wi-Fi/sound/notifications, plus CPU, RAM, disk and more.",
-                                                           "Customize everything with a live preview: floating or full width, top or bottom, size, corners, Liquid Glass/Acrylic/solid/gradient, live blur, border, shadow, colors per module, fonts, drag \u0026 drop modules, auto-hide, all monitors. Presets included, plus your own presets and JSON import/export.",
-                                                           "Safe by design: turning it off or closing Zenfik brings the Windows taskbar back, even after a crash. Maximized windows stay above the bar."
+                                                           "Zenfik Taskbar got a big update.",
+                                                           "Desktop icons no longer get rearranged when the bar turns on, the dark box behind the bar is gone, app icons are sharp, and the bar no longer covers screenshots.",
+                                                           "New: app search, a Zenfik-style right-click menu, your own Wi-Fi/sound panel with a volume slider, a notifications panel, and the ^ button for apps running in the background. All panels open and close with smooth animations.",
+                                                           "The Taskbar tab now looks and works like the Widgets tab: module gallery, your modules as cards, presets with previews."
                                                        ],
                                                 "pl":  [
-                                                           "Nowość: Pasek zadań Zenfik — zastąp pasek Windows własnym paskiem w stylu Liquid Glass. Włączysz go w nowej zakładce Pasek zadań.",
-                                                           "Start, wyszukiwanie, przypięte i otwarte aplikacje (aktywne okno, licznik okien, prawy klik: przypnij/zamknij), Teraz gra z kolorami okładki, pogoda z prognozą godzinową i 7-dniową, zegar z kalendarzem i własnymi wydarzeniami, Wi-Fi/dźwięk/powiadomienia oraz CPU, RAM, dysk i więcej.",
-                                                           "Pełna personalizacja z podglądem na żywo: pływający albo na całą szerokość, góra lub dół, rozmiar, rogi, Liquid Glass/Akryl/jednolity/gradient, rozmycie na żywo, obramowanie, cień, kolory dla każdego modułu, czcionki, przeciąganie modułów, auto-ukrywanie, wszystkie monitory. Gotowe presety, własne presety i import/eksport JSON.",
-                                                           "Bezpiecznie: wyłączenie albo zamknięcie Zenfika przywraca pasek Windows, nawet po crashu. Zmaksymalizowane okna kończą się nad paskiem."
+                                                           "Pasek zadań Zenfik dostał dużą aktualizację.",
+                                                           "Ikony na pulpicie już się nie rozjeżdżają po włączeniu paska, zniknęło ciemne tło za paskiem, ikony aplikacji są ostre, a pasek nie wchodzi już na zrzuty ekranu.",
+                                                           "Nowe: wyszukiwarka aplikacji, menu pod prawym przyciskiem w stylu Zenfika, własny panel Wi-Fi i dźwięku z suwakiem głośności, panel powiadomień oraz przycisk ^ z aplikacjami działającymi w tle. Wszystkie panele otwierają się i zamykają z płynną animacją.",
+                                                           "Zakładka Pasek zadań wygląda i działa teraz jak zakładka Widżety: galeria modułów, Twoje moduły jako karty, presety z podglądem."
                                                        ],
                                                 "es":  [
-                                                           "Nuevo: Barra de tareas Zenfik — sustituye la barra de Windows por tu propia barra Liquid Glass. Actívala en la nueva pestaña Barra de tareas.",
-                                                           "Inicio, búsqueda, apps ancladas y abiertas (ventana activa, contador, clic derecho para anclar/cerrar), Sonando con colores de la portada, tiempo con previsión por horas y de 7 días, reloj con calendario y tus eventos, Wi-Fi/sonido/notificaciones, además de CPU, RAM, disco y más.",
-                                                           "Personalízalo todo con vista previa en vivo: flotante o de ancho completo, arriba o abajo, tamaño, esquinas, Liquid Glass/Acrílico/sólido/degradado, desenfoque en vivo, borde, sombra, colores por módulo, fuentes, módulos arrastrables, ocultar automáticamente y todos los monitores. Con preajustes, los tuyos propios e importación/exportación JSON.",
-                                                           "Seguro: al desactivarla o cerrar Zenfik vuelve la barra de Windows, incluso tras un fallo. Las ventanas maximizadas quedan encima de la barra."
+                                                           "La Barra de tareas Zenfik recibe una gran actualización.",
+                                                           "Los iconos del escritorio ya no se reordenan al activar la barra, desapareció el fondo oscuro detrás de la barra, los iconos son nítidos y la barra ya no tapa las capturas.",
+                                                           "Nuevo: búsqueda de apps, menú contextual estilo Zenfik, panel propio de Wi-Fi y sonido con control de volumen, panel de notificaciones y el botón ^ con apps en segundo plano. Todos los paneles se abren y cierran con animaciones suaves.",
+                                                           "La pestaña Barra de tareas ahora se ve y funciona como la de Widgets: galería de módulos, tus módulos como tarjetas y preajustes con vista previa."
                                                        ],
                                                 "de":  [
-                                                           "Neu: Zenfik-Taskleiste — ersetze die Windows-Taskleiste durch deine eigene Liquid-Glass-Leiste. Einschalten im neuen Tab Taskleiste.",
-                                                           "Start, Suche, angeheftete und offene Apps (aktives Fenster, Fensterzähler, Rechtsklick zum Anheften/Schließen), Läuft gerade mit Coverfarben, Wetter mit Stunden- und 7-Tage-Vorhersage, Uhr mit Kalender und eigenen Terminen, WLAN/Ton/Mitteilungen sowie CPU, RAM, Laufwerk und mehr.",
-                                                           "Alles anpassbar mit Live-Vorschau: schwebend oder volle Breite, oben oder unten, Größe, Ecken, Liquid Glass/Acryl/einfarbig/Verlauf, Live-Unschärfe, Rahmen, Schatten, Farben pro Modul, Schriften, Module per Drag \u0026 Drop, automatisch ausblenden, alle Monitore. Mit Vorlagen, eigenen Vorlagen und JSON-Import/-Export.",
-                                                           "Sicher: Ausschalten oder Beenden von Zenfik bringt die Windows-Taskleiste zurück, auch nach einem Absturz. Maximierte Fenster bleiben über der Leiste."
+                                                           "Die Zenfik-Taskleiste bekommt ein großes Update.",
+                                                           "Desktopsymbole werden beim Einschalten nicht mehr umsortiert, der dunkle Kasten hinter der Leiste ist weg, App-Symbole sind scharf und die Leiste verdeckt keine Screenshots mehr.",
+                                                           "Neu: App-Suche, Rechtsklickmenü im Zenfik-Stil, eigenes WLAN-/Ton-Panel mit Lautstärkeregler, Mitteilungs-Panel und die ^-Taste für Apps im Hintergrund. Alle Panels öffnen und schließen mit flüssigen Animationen.",
+                                                           "Der Taskleisten-Tab sieht jetzt aus und funktioniert wie der Widgets-Tab: Modulgalerie, deine Module als Karten, Vorlagen mit Vorschau."
                                                        ]
                                             }
                               }
