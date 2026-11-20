@@ -1,58 +1,66 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.32-1.5.25/Zenfik-Setup.exe",
-                                    "version":  "1.4.32",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.33-1.5.26/Zenfik-Setup.exe",
+                                    "version":  "1.4.33",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Lots of new maintenance and speed-up tools in PC Tools → Optimization for a deep clean.",
-                                                             "New one-click actions: Purge RAM cache (hard-flush standby to free memory for games), Reset network (Winsock + TCP/IP), Rebuild icon cache, Empty Recycle Bin, Reset Windows Update, Reset Store cache, TRIM drives, Clean component store (DISM) and Repair system files (SFC + DISM).",
-                                                             "Each one explains what it does, and admin tasks ask for permission first."
+                                                             "New: Zenfik Taskbar — replace the Windows taskbar with your own Liquid Glass bar. Turn it on in the new Taskbar tab.",
+                                                             "Start, search, pinned and open apps (active window, window count, right-click to pin/close), Now Playing with album colors, weather with an hourly and 7-day forecast, clock with a calendar and your own events, Wi-Fi/sound/notifications, plus CPU, RAM, disk and more.",
+                                                             "Customize everything with a live preview: floating or full width, top or bottom, size, corners, Liquid Glass/Acrylic/solid/gradient, live blur, border, shadow, colors per module, fonts, drag \u0026 drop modules, auto-hide, all monitors. Presets included, plus your own presets and JSON import/export.",
+                                                             "Safe by design: turning it off or closing Zenfik brings the Windows taskbar back, even after a crash. Maximized windows stay above the bar."
                                                          ],
                                                   "pl":  [
-                                                             "Mnóstwo nowych narzędzi konserwacji i przyspieszania w Narzędzia PC → Optymalizacja do mocnego czyszczenia kompa.",
-                                                             "Nowe akcje jednym kliknięciem: Wyczyść cache RAM (mocny purge standby, zwalnia pamięć pod gry), Resetuj sieć (Winsock + TCP/IP), Przebuduj cache ikon, Opróżnij Kosz, Resetuj Windows Update, Resetuj cache Sklepu, TRIM dysków, Wyczyść magazyn komponentów (DISM) i Napraw pliki systemowe (SFC + DISM).",
-                                                             "Każda opcja opisuje co robi, a zadania wymagające admina najpierw proszą o zgodę."
+                                                             "Nowość: Pasek zadań Zenfik — zastąp pasek Windows własnym paskiem w stylu Liquid Glass. Włączysz go w nowej zakładce Pasek zadań.",
+                                                             "Start, wyszukiwanie, przypięte i otwarte aplikacje (aktywne okno, licznik okien, prawy klik: przypnij/zamknij), Teraz gra z kolorami okładki, pogoda z prognozą godzinową i 7-dniową, zegar z kalendarzem i własnymi wydarzeniami, Wi-Fi/dźwięk/powiadomienia oraz CPU, RAM, dysk i więcej.",
+                                                             "Pełna personalizacja z podglądem na żywo: pływający albo na całą szerokość, góra lub dół, rozmiar, rogi, Liquid Glass/Akryl/jednolity/gradient, rozmycie na żywo, obramowanie, cień, kolory dla każdego modułu, czcionki, przeciąganie modułów, auto-ukrywanie, wszystkie monitory. Gotowe presety, własne presety i import/eksport JSON.",
+                                                             "Bezpiecznie: wyłączenie albo zamknięcie Zenfika przywraca pasek Windows, nawet po crashu. Zmaksymalizowane okna kończą się nad paskiem."
                                                          ],
                                                   "es":  [
-                                                             "Muchas herramientas nuevas de mantenimiento y optimización en Herramientas de PC → Optimización para una limpieza a fondo.",
-                                                             "Nuevas acciones de un clic: Purgar caché de RAM (vacía la caché en espera para liberar memoria para juegos), Restablecer red (Winsock + TCP/IP), Reconstruir caché de iconos, Vaciar Papelera, Restablecer Windows Update, Restablecer caché de la Tienda, TRIM de discos, Limpiar almacén de componentes (DISM) y Reparar archivos del sistema (SFC + DISM).",
-                                                             "Cada una explica qué hace, y las tareas de administrador piden permiso primero."
+                                                             "Nuevo: Barra de tareas Zenfik — sustituye la barra de Windows por tu propia barra Liquid Glass. Actívala en la nueva pestaña Barra de tareas.",
+                                                             "Inicio, búsqueda, apps ancladas y abiertas (ventana activa, contador, clic derecho para anclar/cerrar), Sonando con colores de la portada, tiempo con previsión por horas y de 7 días, reloj con calendario y tus eventos, Wi-Fi/sonido/notificaciones, además de CPU, RAM, disco y más.",
+                                                             "Personalízalo todo con vista previa en vivo: flotante o de ancho completo, arriba o abajo, tamaño, esquinas, Liquid Glass/Acrílico/sólido/degradado, desenfoque en vivo, borde, sombra, colores por módulo, fuentes, módulos arrastrables, ocultar automáticamente y todos los monitores. Con preajustes, los tuyos propios e importación/exportación JSON.",
+                                                             "Seguro: al desactivarla o cerrar Zenfik vuelve la barra de Windows, incluso tras un fallo. Las ventanas maximizadas quedan encima de la barra."
                                                          ],
                                                   "de":  [
-                                                             "Viele neue Wartungs- und Beschleunigungs-Tools in PC-Tools → Optimierung für eine gründliche Reinigung.",
-                                                             "Neue Ein-Klick-Aktionen: RAM-Cache leeren (Standby hart leeren, gibt Speicher für Spiele frei), Netzwerk zurücksetzen (Winsock + TCP/IP), Icon-Cache neu aufbauen, Papierkorb leeren, Windows Update zurücksetzen, Store-Cache zurücksetzen, Laufwerke TRIMmen, Komponentenspeicher bereinigen (DISM) und Systemdateien reparieren (SFC + DISM).",
-                                                             "Jede erklärt, was sie tut, und Admin-Aufgaben fragen zuerst nach Erlaubnis."
+                                                             "Neu: Zenfik-Taskleiste — ersetze die Windows-Taskleiste durch deine eigene Liquid-Glass-Leiste. Einschalten im neuen Tab Taskleiste.",
+                                                             "Start, Suche, angeheftete und offene Apps (aktives Fenster, Fensterzähler, Rechtsklick zum Anheften/Schließen), Läuft gerade mit Coverfarben, Wetter mit Stunden- und 7-Tage-Vorhersage, Uhr mit Kalender und eigenen Terminen, WLAN/Ton/Mitteilungen sowie CPU, RAM, Laufwerk und mehr.",
+                                                             "Alles anpassbar mit Live-Vorschau: schwebend oder volle Breite, oben oder unten, Größe, Ecken, Liquid Glass/Acryl/einfarbig/Verlauf, Live-Unschärfe, Rahmen, Schatten, Farben pro Modul, Schriften, Module per Drag \u0026 Drop, automatisch ausblenden, alle Monitore. Mit Vorlagen, eigenen Vorlagen und JSON-Import/-Export.",
+                                                             "Sicher: Ausschalten oder Beenden von Zenfik bringt die Windows-Taskleiste zurück, auch nach einem Absturz. Maximierte Fenster bleiben über der Leiste."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.32-1.5.25/Zenfik-Setup.exe",
-                                  "version":  "1.4.32",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.33-1.5.26/Zenfik-Setup.exe",
+                                  "version":  "1.4.33",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Lots of new maintenance and speed-up tools in PC Tools → Optimization for a deep clean.",
-                                                           "New one-click actions: Purge RAM cache (hard-flush standby to free memory for games), Reset network (Winsock + TCP/IP), Rebuild icon cache, Empty Recycle Bin, Reset Windows Update, Reset Store cache, TRIM drives, Clean component store (DISM) and Repair system files (SFC + DISM).",
-                                                           "Each one explains what it does, and admin tasks ask for permission first."
+                                                           "New: Zenfik Taskbar — replace the Windows taskbar with your own Liquid Glass bar. Turn it on in the new Taskbar tab.",
+                                                           "Start, search, pinned and open apps (active window, window count, right-click to pin/close), Now Playing with album colors, weather with an hourly and 7-day forecast, clock with a calendar and your own events, Wi-Fi/sound/notifications, plus CPU, RAM, disk and more.",
+                                                           "Customize everything with a live preview: floating or full width, top or bottom, size, corners, Liquid Glass/Acrylic/solid/gradient, live blur, border, shadow, colors per module, fonts, drag \u0026 drop modules, auto-hide, all monitors. Presets included, plus your own presets and JSON import/export.",
+                                                           "Safe by design: turning it off or closing Zenfik brings the Windows taskbar back, even after a crash. Maximized windows stay above the bar."
                                                        ],
                                                 "pl":  [
-                                                           "Mnóstwo nowych narzędzi konserwacji i przyspieszania w Narzędzia PC → Optymalizacja do mocnego czyszczenia kompa.",
-                                                           "Nowe akcje jednym kliknięciem: Wyczyść cache RAM (mocny purge standby, zwalnia pamięć pod gry), Resetuj sieć (Winsock + TCP/IP), Przebuduj cache ikon, Opróżnij Kosz, Resetuj Windows Update, Resetuj cache Sklepu, TRIM dysków, Wyczyść magazyn komponentów (DISM) i Napraw pliki systemowe (SFC + DISM).",
-                                                           "Każda opcja opisuje co robi, a zadania wymagające admina najpierw proszą o zgodę."
+                                                           "Nowość: Pasek zadań Zenfik — zastąp pasek Windows własnym paskiem w stylu Liquid Glass. Włączysz go w nowej zakładce Pasek zadań.",
+                                                           "Start, wyszukiwanie, przypięte i otwarte aplikacje (aktywne okno, licznik okien, prawy klik: przypnij/zamknij), Teraz gra z kolorami okładki, pogoda z prognozą godzinową i 7-dniową, zegar z kalendarzem i własnymi wydarzeniami, Wi-Fi/dźwięk/powiadomienia oraz CPU, RAM, dysk i więcej.",
+                                                           "Pełna personalizacja z podglądem na żywo: pływający albo na całą szerokość, góra lub dół, rozmiar, rogi, Liquid Glass/Akryl/jednolity/gradient, rozmycie na żywo, obramowanie, cień, kolory dla każdego modułu, czcionki, przeciąganie modułów, auto-ukrywanie, wszystkie monitory. Gotowe presety, własne presety i import/eksport JSON.",
+                                                           "Bezpiecznie: wyłączenie albo zamknięcie Zenfika przywraca pasek Windows, nawet po crashu. Zmaksymalizowane okna kończą się nad paskiem."
                                                        ],
                                                 "es":  [
-                                                           "Muchas herramientas nuevas de mantenimiento y optimización en Herramientas de PC → Optimización para una limpieza a fondo.",
-                                                           "Nuevas acciones de un clic: Purgar caché de RAM (vacía la caché en espera para liberar memoria para juegos), Restablecer red (Winsock + TCP/IP), Reconstruir caché de iconos, Vaciar Papelera, Restablecer Windows Update, Restablecer caché de la Tienda, TRIM de discos, Limpiar almacén de componentes (DISM) y Reparar archivos del sistema (SFC + DISM).",
-                                                           "Cada una explica qué hace, y las tareas de administrador piden permiso primero."
+                                                           "Nuevo: Barra de tareas Zenfik — sustituye la barra de Windows por tu propia barra Liquid Glass. Actívala en la nueva pestaña Barra de tareas.",
+                                                           "Inicio, búsqueda, apps ancladas y abiertas (ventana activa, contador, clic derecho para anclar/cerrar), Sonando con colores de la portada, tiempo con previsión por horas y de 7 días, reloj con calendario y tus eventos, Wi-Fi/sonido/notificaciones, además de CPU, RAM, disco y más.",
+                                                           "Personalízalo todo con vista previa en vivo: flotante o de ancho completo, arriba o abajo, tamaño, esquinas, Liquid Glass/Acrílico/sólido/degradado, desenfoque en vivo, borde, sombra, colores por módulo, fuentes, módulos arrastrables, ocultar automáticamente y todos los monitores. Con preajustes, los tuyos propios e importación/exportación JSON.",
+                                                           "Seguro: al desactivarla o cerrar Zenfik vuelve la barra de Windows, incluso tras un fallo. Las ventanas maximizadas quedan encima de la barra."
                                                        ],
                                                 "de":  [
-                                                           "Viele neue Wartungs- und Beschleunigungs-Tools in PC-Tools → Optimierung für eine gründliche Reinigung.",
-                                                           "Neue Ein-Klick-Aktionen: RAM-Cache leeren (Standby hart leeren, gibt Speicher für Spiele frei), Netzwerk zurücksetzen (Winsock + TCP/IP), Icon-Cache neu aufbauen, Papierkorb leeren, Windows Update zurücksetzen, Store-Cache zurücksetzen, Laufwerke TRIMmen, Komponentenspeicher bereinigen (DISM) und Systemdateien reparieren (SFC + DISM).",
-                                                           "Jede erklärt, was sie tut, und Admin-Aufgaben fragen zuerst nach Erlaubnis."
+                                                           "Neu: Zenfik-Taskleiste — ersetze die Windows-Taskleiste durch deine eigene Liquid-Glass-Leiste. Einschalten im neuen Tab Taskleiste.",
+                                                           "Start, Suche, angeheftete und offene Apps (aktives Fenster, Fensterzähler, Rechtsklick zum Anheften/Schließen), Läuft gerade mit Coverfarben, Wetter mit Stunden- und 7-Tage-Vorhersage, Uhr mit Kalender und eigenen Terminen, WLAN/Ton/Mitteilungen sowie CPU, RAM, Laufwerk und mehr.",
+                                                           "Alles anpassbar mit Live-Vorschau: schwebend oder volle Breite, oben oder unten, Größe, Ecken, Liquid Glass/Acryl/einfarbig/Verlauf, Live-Unschärfe, Rahmen, Schatten, Farben pro Modul, Schriften, Module per Drag \u0026 Drop, automatisch ausblenden, alle Monitore. Mit Vorlagen, eigenen Vorlagen und JSON-Import/-Export.",
+                                                           "Sicher: Ausschalten oder Beenden von Zenfik bringt die Windows-Taskleiste zurück, auch nach einem Absturz. Maximierte Fenster bleiben über der Leiste."
                                                        ]
                                             }
                               }
