@@ -1,42 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.37-1.5.30/Zenfik-Setup.exe",
-                                    "version":  "1.4.37",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.38-1.5.31/Zenfik-Setup.exe",
+                                    "version":  "1.4.38",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Taskbar: new Size setting scales everything on the bar (icons, text, modules). Height now only changes how tall the bar is; the content stays the same size and centered."
+                                                             "Taskbar now behaves like the Windows taskbar: it hides while a fullscreen game, video or app is open on its monitor and comes back when you leave it, and it no longer flickers with the Windows taskbar on a second monitor."
                                                          ],
                                                   "pl":  [
-                                                             "Pasek zadań: nowe ustawienie Wielkość skaluje wszystko na pasku (ikony, tekst, moduły). Wysokość zmienia teraz tylko wysokość paska, a zawartość zostaje tej samej wielkości i jest wyśrodkowana."
+                                                             "Pasek zadań zachowuje się teraz jak pasek Windows: chowa się, gdy na jego monitorze jest gra, film albo aplikacja na pełnym ekranie, i wraca, gdy z niej wyjdziesz. Na drugim monitorze już nie miga na zmianę z paskiem Windows."
                                                          ],
                                                   "es":  [
-                                                             "Barra de tareas: nuevo ajuste Tamaño que escala todo (iconos, texto, módulos). La altura ahora solo cambia lo alta que es la barra; el contenido mantiene su tamaño y queda centrado."
+                                                             "La barra de tareas ahora se comporta como la de Windows: se oculta mientras hay un juego, vídeo o app a pantalla completa en su monitor y vuelve al salir, y ya no parpadea con la barra de Windows en un segundo monitor."
                                                          ],
                                                   "de":  [
-                                                             "Taskleiste: neue Einstellung Größe skaliert alles auf der Leiste (Symbole, Text, Module). Die Höhe ändert jetzt nur die Leistenhöhe; der Inhalt behält seine Größe und bleibt zentriert."
+                                                             "Die Taskleiste verhält sich jetzt wie die von Windows: Sie blendet sich aus, solange auf ihrem Monitor ein Spiel, Video oder eine App im Vollbild läuft, kommt danach zurück und flackert auf einem zweiten Monitor nicht mehr mit der Windows-Taskleiste."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.37-1.5.30/Zenfik-Setup.exe",
-                                  "version":  "1.4.37",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.38-1.5.31/Zenfik-Setup.exe",
+                                  "version":  "1.4.38",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Taskbar: new Size setting scales everything on the bar (icons, text, modules). Height now only changes how tall the bar is; the content stays the same size and centered."
+                                                           "Taskbar now behaves like the Windows taskbar: it hides while a fullscreen game, video or app is open on its monitor and comes back when you leave it, and it no longer flickers with the Windows taskbar on a second monitor."
                                                        ],
                                                 "pl":  [
-                                                           "Pasek zadań: nowe ustawienie Wielkość skaluje wszystko na pasku (ikony, tekst, moduły). Wysokość zmienia teraz tylko wysokość paska, a zawartość zostaje tej samej wielkości i jest wyśrodkowana."
+                                                           "Pasek zadań zachowuje się teraz jak pasek Windows: chowa się, gdy na jego monitorze jest gra, film albo aplikacja na pełnym ekranie, i wraca, gdy z niej wyjdziesz. Na drugim monitorze już nie miga na zmianę z paskiem Windows."
                                                        ],
                                                 "es":  [
-                                                           "Barra de tareas: nuevo ajuste Tamaño que escala todo (iconos, texto, módulos). La altura ahora solo cambia lo alta que es la barra; el contenido mantiene su tamaño y queda centrado."
+                                                           "La barra de tareas ahora se comporta como la de Windows: se oculta mientras hay un juego, vídeo o app a pantalla completa en su monitor y vuelve al salir, y ya no parpadea con la barra de Windows en un segundo monitor."
                                                        ],
                                                 "de":  [
-                                                           "Taskleiste: neue Einstellung Größe skaliert alles auf der Leiste (Symbole, Text, Module). Die Höhe ändert jetzt nur die Leistenhöhe; der Inhalt behält seine Größe und bleibt zentriert."
+                                                           "Die Taskleiste verhält sich jetzt wie die von Windows: Sie blendet sich aus, solange auf ihrem Monitor ein Spiel, Video oder eine App im Vollbild läuft, kommt danach zurück und flackert auf einem zweiten Monitor nicht mehr mit der Windows-Taskleiste."
                                                        ]
                                             }
                               }
