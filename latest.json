@@ -1,74 +1,58 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.39-1.5.32/Zenfik-Setup.exe",
-                                    "version":  "1.4.39",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.40-1.5.33/Zenfik-Setup.exe",
+                                    "version":  "1.4.40",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "New Start menu on the Zenfik taskbar: search, pinned apps, recommended files, all apps, plus lock, sleep, restart and shut down.",
-                                                             "Hovering an open app shows live window previews; click one to switch to it or close it with X.",
-                                                             "A pinned app you launch now lights up its pinned icon instead of showing up a second time.",
-                                                             "Menus and panels close when you click anywhere else.",
-                                                             "Each part (Start, search, right-click menu, Wi-Fi \u0026 sound, notifications, calendar, weather, previews) can be switched back to the normal Windows version."
+                                                             "The ^ hidden icons on the Zenfik taskbar are now Zenfik\u0027s own panel: click an icon to open the app, right-click for its menu.",
+                                                             "New Panels \u0026 menus settings: open animation (slide, fade, zoom, pop, drop or none), speed, background, opacity, corners, border, accent, text and font for Start, the right-click menu, Wi-Fi \u0026 sound, notifications, calendar and the tray.",
+                                                             "The Start power menu (lock, sleep, restart, shut down) now animates in and out."
                                                          ],
                                                   "pl":  [
-                                                             "Nowe menu Start na pasku Zenfik: wyszukiwarka, przypięte aplikacje, polecane pliki, wszystkie aplikacje oraz blokada, uśpienie, restart i wyłączanie.",
-                                                             "Po najechaniu na otwartą aplikację widać podgląd okien na żywo; kliknij, żeby przejść do okna, albo zamknij je krzyżykiem.",
-                                                             "Uruchomiona przypięta aplikacja podświetla teraz swoją przypiętą ikonę, zamiast pojawiać się drugi raz.",
-                                                             "Menu i panele zamykają się po kliknięciu gdziekolwiek indziej.",
-                                                             "Każdą część (Start, wyszukiwarka, menu pod prawym, Wi-Fi i dźwięk, powiadomienia, kalendarz, pogoda, podgląd okien) można przełączyć z powrotem na zwykłą wersję z Windows."
+                                                             "Ukryte ikony pod ^ na pasku Zenfik to teraz własny panel Zenfika: kliknij ikonę, żeby otworzyć aplikację, prawym, żeby zobaczyć jej menu.",
+                                                             "Nowe ustawienia Panele i menu: animacja otwierania (wysuń, zanik, powiększ, wyskok, opadnij albo brak), szybkość, tło, przezroczystość, zaokrąglenie, ramka, akcent, tekst i czcionka dla Startu, menu pod prawym, Wi-Fi i dźwięku, powiadomień, kalendarza i ukrytych ikon.",
+                                                             "Menu zasilania w Starcie (zablokuj, uśpij, uruchom ponownie, zamknij) ma teraz animację pojawiania i znikania."
                                                          ],
                                                   "es":  [
-                                                             "Nuevo menú Inicio en la barra de Zenfik: búsqueda, apps ancladas, archivos recomendados, todas las apps y bloquear, suspender, reiniciar y apagar.",
-                                                             "Al pasar el ratón sobre una app abierta verás vistas previas en vivo de sus ventanas; haz clic para cambiar o ciérrala con la X.",
-                                                             "Una app anclada que abres ahora ilumina su icono anclado en lugar de aparecer dos veces.",
-                                                             "Los menús y paneles se cierran al hacer clic en cualquier otro sitio.",
-                                                             "Cada parte (Inicio, búsqueda, menú contextual, Wi-Fi y sonido, notificaciones, calendario, tiempo, vistas previas) puede volver a la versión normal de Windows."
+                                                             "Los iconos ocultos del ^ en la barra de Zenfik ahora son un panel propio: haz clic en un icono para abrir la app o clic derecho para su menú.",
+                                                             "Nuevos ajustes de Paneles y menús: animación de apertura (deslizar, desvanecer, zoom, rebote, caída o ninguna), velocidad, fondo, opacidad, esquinas, borde, acento, texto y fuente para Inicio, el menú contextual, Wi-Fi y sonido, notificaciones, calendario y la bandeja.",
+                                                             "El menú de energía de Inicio (bloquear, suspender, reiniciar, apagar) ahora aparece y desaparece con animación."
                                                          ],
                                                   "de":  [
-                                                             "Neues Startmenü in der Zenfik-Taskleiste: Suche, angeheftete Apps, empfohlene Dateien, alle Apps sowie Sperren, Energie sparen, Neustart und Herunterfahren.",
-                                                             "Beim Überfahren einer geöffneten App erscheinen Live-Vorschauen ihrer Fenster; klicke zum Wechseln oder schließe sie mit X.",
-                                                             "Eine gestartete angeheftete App hebt jetzt ihr angeheftetes Symbol hervor, statt ein zweites Mal zu erscheinen.",
-                                                             "Menüs und Panels schließen sich, wenn du woanders hinklickst.",
-                                                             "Jeder Teil (Start, Suche, Kontextmenü, WLAN \u0026 Ton, Mitteilungen, Kalender, Wetter, Vorschauen) lässt sich auf die normale Windows-Version zurückstellen."
+                                                             "Die ausgeblendeten Symbole unter ^ in der Zenfik-Taskleiste sind jetzt ein eigenes Zenfik-Panel: Klick öffnet die App, Rechtsklick ihr Menü.",
+                                                             "Neue Einstellungen Panels \u0026 Menüs: Öffnungsanimation (Schieben, Einblenden, Zoom, Pop, Fallen oder keine), Tempo, Hintergrund, Deckkraft, Ecken, Rahmen, Akzent, Text und Schrift für Start, Kontextmenü, WLAN \u0026 Ton, Mitteilungen, Kalender und Infobereich.",
+                                                             "Das Energiemenü im Start (Sperren, Energie sparen, Neu starten, Herunterfahren) ist jetzt animiert."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.39-1.5.32/Zenfik-Setup.exe",
-                                  "version":  "1.4.39",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.40-1.5.33/Zenfik-Setup.exe",
+                                  "version":  "1.4.40",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "New Start menu on the Zenfik taskbar: search, pinned apps, recommended files, all apps, plus lock, sleep, restart and shut down.",
-                                                           "Hovering an open app shows live window previews; click one to switch to it or close it with X.",
-                                                           "A pinned app you launch now lights up its pinned icon instead of showing up a second time.",
-                                                           "Menus and panels close when you click anywhere else.",
-                                                           "Each part (Start, search, right-click menu, Wi-Fi \u0026 sound, notifications, calendar, weather, previews) can be switched back to the normal Windows version."
+                                                           "The ^ hidden icons on the Zenfik taskbar are now Zenfik\u0027s own panel: click an icon to open the app, right-click for its menu.",
+                                                           "New Panels \u0026 menus settings: open animation (slide, fade, zoom, pop, drop or none), speed, background, opacity, corners, border, accent, text and font for Start, the right-click menu, Wi-Fi \u0026 sound, notifications, calendar and the tray.",
+                                                           "The Start power menu (lock, sleep, restart, shut down) now animates in and out."
                                                        ],
                                                 "pl":  [
-                                                           "Nowe menu Start na pasku Zenfik: wyszukiwarka, przypięte aplikacje, polecane pliki, wszystkie aplikacje oraz blokada, uśpienie, restart i wyłączanie.",
-                                                           "Po najechaniu na otwartą aplikację widać podgląd okien na żywo; kliknij, żeby przejść do okna, albo zamknij je krzyżykiem.",
-                                                           "Uruchomiona przypięta aplikacja podświetla teraz swoją przypiętą ikonę, zamiast pojawiać się drugi raz.",
-                                                           "Menu i panele zamykają się po kliknięciu gdziekolwiek indziej.",
-                                                           "Każdą część (Start, wyszukiwarka, menu pod prawym, Wi-Fi i dźwięk, powiadomienia, kalendarz, pogoda, podgląd okien) można przełączyć z powrotem na zwykłą wersję z Windows."
+                                                           "Ukryte ikony pod ^ na pasku Zenfik to teraz własny panel Zenfika: kliknij ikonę, żeby otworzyć aplikację, prawym, żeby zobaczyć jej menu.",
+                                                           "Nowe ustawienia Panele i menu: animacja otwierania (wysuń, zanik, powiększ, wyskok, opadnij albo brak), szybkość, tło, przezroczystość, zaokrąglenie, ramka, akcent, tekst i czcionka dla Startu, menu pod prawym, Wi-Fi i dźwięku, powiadomień, kalendarza i ukrytych ikon.",
+                                                           "Menu zasilania w Starcie (zablokuj, uśpij, uruchom ponownie, zamknij) ma teraz animację pojawiania i znikania."
                                                        ],
                                                 "es":  [
-                                                           "Nuevo menú Inicio en la barra de Zenfik: búsqueda, apps ancladas, archivos recomendados, todas las apps y bloquear, suspender, reiniciar y apagar.",
-                                                           "Al pasar el ratón sobre una app abierta verás vistas previas en vivo de sus ventanas; haz clic para cambiar o ciérrala con la X.",
-                                                           "Una app anclada que abres ahora ilumina su icono anclado en lugar de aparecer dos veces.",
-                                                           "Los menús y paneles se cierran al hacer clic en cualquier otro sitio.",
-                                                           "Cada parte (Inicio, búsqueda, menú contextual, Wi-Fi y sonido, notificaciones, calendario, tiempo, vistas previas) puede volver a la versión normal de Windows."
+                                                           "Los iconos ocultos del ^ en la barra de Zenfik ahora son un panel propio: haz clic en un icono para abrir la app o clic derecho para su menú.",
+                                                           "Nuevos ajustes de Paneles y menús: animación de apertura (deslizar, desvanecer, zoom, rebote, caída o ninguna), velocidad, fondo, opacidad, esquinas, borde, acento, texto y fuente para Inicio, el menú contextual, Wi-Fi y sonido, notificaciones, calendario y la bandeja.",
+                                                           "El menú de energía de Inicio (bloquear, suspender, reiniciar, apagar) ahora aparece y desaparece con animación."
                                                        ],
                                                 "de":  [
-                                                           "Neues Startmenü in der Zenfik-Taskleiste: Suche, angeheftete Apps, empfohlene Dateien, alle Apps sowie Sperren, Energie sparen, Neustart und Herunterfahren.",
-                                                           "Beim Überfahren einer geöffneten App erscheinen Live-Vorschauen ihrer Fenster; klicke zum Wechseln oder schließe sie mit X.",
-                                                           "Eine gestartete angeheftete App hebt jetzt ihr angeheftetes Symbol hervor, statt ein zweites Mal zu erscheinen.",
-                                                           "Menüs und Panels schließen sich, wenn du woanders hinklickst.",
-                                                           "Jeder Teil (Start, Suche, Kontextmenü, WLAN \u0026 Ton, Mitteilungen, Kalender, Wetter, Vorschauen) lässt sich auf die normale Windows-Version zurückstellen."
+                                                           "Die ausgeblendeten Symbole unter ^ in der Zenfik-Taskleiste sind jetzt ein eigenes Zenfik-Panel: Klick öffnet die App, Rechtsklick ihr Menü.",
+                                                           "Neue Einstellungen Panels \u0026 Menüs: Öffnungsanimation (Schieben, Einblenden, Zoom, Pop, Fallen oder keine), Tempo, Hintergrund, Deckkraft, Ecken, Rahmen, Akzent, Text und Schrift für Start, Kontextmenü, WLAN \u0026 Ton, Mitteilungen, Kalender und Infobereich.",
+                                                           "Das Energiemenü im Start (Sperren, Energie sparen, Neu starten, Herunterfahren) ist jetzt animiert."
                                                        ]
                                             }
                               }
