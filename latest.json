@@ -1,42 +1,74 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.38-1.5.31/Zenfik-Setup.exe",
-                                    "version":  "1.4.38",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.39-1.5.32/Zenfik-Setup.exe",
+                                    "version":  "1.4.39",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Taskbar now behaves like the Windows taskbar: it hides while a fullscreen game, video or app is open on its monitor and comes back when you leave it, and it no longer flickers with the Windows taskbar on a second monitor."
+                                                             "New Start menu on the Zenfik taskbar: search, pinned apps, recommended files, all apps, plus lock, sleep, restart and shut down.",
+                                                             "Hovering an open app shows live window previews; click one to switch to it or close it with X.",
+                                                             "A pinned app you launch now lights up its pinned icon instead of showing up a second time.",
+                                                             "Menus and panels close when you click anywhere else.",
+                                                             "Each part (Start, search, right-click menu, Wi-Fi \u0026 sound, notifications, calendar, weather, previews) can be switched back to the normal Windows version."
                                                          ],
                                                   "pl":  [
-                                                             "Pasek zadań zachowuje się teraz jak pasek Windows: chowa się, gdy na jego monitorze jest gra, film albo aplikacja na pełnym ekranie, i wraca, gdy z niej wyjdziesz. Na drugim monitorze już nie miga na zmianę z paskiem Windows."
+                                                             "Nowe menu Start na pasku Zenfik: wyszukiwarka, przypięte aplikacje, polecane pliki, wszystkie aplikacje oraz blokada, uśpienie, restart i wyłączanie.",
+                                                             "Po najechaniu na otwartą aplikację widać podgląd okien na żywo; kliknij, żeby przejść do okna, albo zamknij je krzyżykiem.",
+                                                             "Uruchomiona przypięta aplikacja podświetla teraz swoją przypiętą ikonę, zamiast pojawiać się drugi raz.",
+                                                             "Menu i panele zamykają się po kliknięciu gdziekolwiek indziej.",
+                                                             "Każdą część (Start, wyszukiwarka, menu pod prawym, Wi-Fi i dźwięk, powiadomienia, kalendarz, pogoda, podgląd okien) można przełączyć z powrotem na zwykłą wersję z Windows."
                                                          ],
                                                   "es":  [
-                                                             "La barra de tareas ahora se comporta como la de Windows: se oculta mientras hay un juego, vídeo o app a pantalla completa en su monitor y vuelve al salir, y ya no parpadea con la barra de Windows en un segundo monitor."
+                                                             "Nuevo menú Inicio en la barra de Zenfik: búsqueda, apps ancladas, archivos recomendados, todas las apps y bloquear, suspender, reiniciar y apagar.",
+                                                             "Al pasar el ratón sobre una app abierta verás vistas previas en vivo de sus ventanas; haz clic para cambiar o ciérrala con la X.",
+                                                             "Una app anclada que abres ahora ilumina su icono anclado en lugar de aparecer dos veces.",
+                                                             "Los menús y paneles se cierran al hacer clic en cualquier otro sitio.",
+                                                             "Cada parte (Inicio, búsqueda, menú contextual, Wi-Fi y sonido, notificaciones, calendario, tiempo, vistas previas) puede volver a la versión normal de Windows."
                                                          ],
                                                   "de":  [
-                                                             "Die Taskleiste verhält sich jetzt wie die von Windows: Sie blendet sich aus, solange auf ihrem Monitor ein Spiel, Video oder eine App im Vollbild läuft, kommt danach zurück und flackert auf einem zweiten Monitor nicht mehr mit der Windows-Taskleiste."
+                                                             "Neues Startmenü in der Zenfik-Taskleiste: Suche, angeheftete Apps, empfohlene Dateien, alle Apps sowie Sperren, Energie sparen, Neustart und Herunterfahren.",
+                                                             "Beim Überfahren einer geöffneten App erscheinen Live-Vorschauen ihrer Fenster; klicke zum Wechseln oder schließe sie mit X.",
+                                                             "Eine gestartete angeheftete App hebt jetzt ihr angeheftetes Symbol hervor, statt ein zweites Mal zu erscheinen.",
+                                                             "Menüs und Panels schließen sich, wenn du woanders hinklickst.",
+                                                             "Jeder Teil (Start, Suche, Kontextmenü, WLAN \u0026 Ton, Mitteilungen, Kalender, Wetter, Vorschauen) lässt sich auf die normale Windows-Version zurückstellen."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.38-1.5.31/Zenfik-Setup.exe",
-                                  "version":  "1.4.38",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.39-1.5.32/Zenfik-Setup.exe",
+                                  "version":  "1.4.39",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Taskbar now behaves like the Windows taskbar: it hides while a fullscreen game, video or app is open on its monitor and comes back when you leave it, and it no longer flickers with the Windows taskbar on a second monitor."
+                                                           "New Start menu on the Zenfik taskbar: search, pinned apps, recommended files, all apps, plus lock, sleep, restart and shut down.",
+                                                           "Hovering an open app shows live window previews; click one to switch to it or close it with X.",
+                                                           "A pinned app you launch now lights up its pinned icon instead of showing up a second time.",
+                                                           "Menus and panels close when you click anywhere else.",
+                                                           "Each part (Start, search, right-click menu, Wi-Fi \u0026 sound, notifications, calendar, weather, previews) can be switched back to the normal Windows version."
                                                        ],
                                                 "pl":  [
-                                                           "Pasek zadań zachowuje się teraz jak pasek Windows: chowa się, gdy na jego monitorze jest gra, film albo aplikacja na pełnym ekranie, i wraca, gdy z niej wyjdziesz. Na drugim monitorze już nie miga na zmianę z paskiem Windows."
+                                                           "Nowe menu Start na pasku Zenfik: wyszukiwarka, przypięte aplikacje, polecane pliki, wszystkie aplikacje oraz blokada, uśpienie, restart i wyłączanie.",
+                                                           "Po najechaniu na otwartą aplikację widać podgląd okien na żywo; kliknij, żeby przejść do okna, albo zamknij je krzyżykiem.",
+                                                           "Uruchomiona przypięta aplikacja podświetla teraz swoją przypiętą ikonę, zamiast pojawiać się drugi raz.",
+                                                           "Menu i panele zamykają się po kliknięciu gdziekolwiek indziej.",
+                                                           "Każdą część (Start, wyszukiwarka, menu pod prawym, Wi-Fi i dźwięk, powiadomienia, kalendarz, pogoda, podgląd okien) można przełączyć z powrotem na zwykłą wersję z Windows."
                                                        ],
                                                 "es":  [
-                                                           "La barra de tareas ahora se comporta como la de Windows: se oculta mientras hay un juego, vídeo o app a pantalla completa en su monitor y vuelve al salir, y ya no parpadea con la barra de Windows en un segundo monitor."
+                                                           "Nuevo menú Inicio en la barra de Zenfik: búsqueda, apps ancladas, archivos recomendados, todas las apps y bloquear, suspender, reiniciar y apagar.",
+                                                           "Al pasar el ratón sobre una app abierta verás vistas previas en vivo de sus ventanas; haz clic para cambiar o ciérrala con la X.",
+                                                           "Una app anclada que abres ahora ilumina su icono anclado en lugar de aparecer dos veces.",
+                                                           "Los menús y paneles se cierran al hacer clic en cualquier otro sitio.",
+                                                           "Cada parte (Inicio, búsqueda, menú contextual, Wi-Fi y sonido, notificaciones, calendario, tiempo, vistas previas) puede volver a la versión normal de Windows."
                                                        ],
                                                 "de":  [
-                                                           "Die Taskleiste verhält sich jetzt wie die von Windows: Sie blendet sich aus, solange auf ihrem Monitor ein Spiel, Video oder eine App im Vollbild läuft, kommt danach zurück und flackert auf einem zweiten Monitor nicht mehr mit der Windows-Taskleiste."
+                                                           "Neues Startmenü in der Zenfik-Taskleiste: Suche, angeheftete Apps, empfohlene Dateien, alle Apps sowie Sperren, Energie sparen, Neustart und Herunterfahren.",
+                                                           "Beim Überfahren einer geöffneten App erscheinen Live-Vorschauen ihrer Fenster; klicke zum Wechseln oder schließe sie mit X.",
+                                                           "Eine gestartete angeheftete App hebt jetzt ihr angeheftetes Symbol hervor, statt ein zweites Mal zu erscheinen.",
+                                                           "Menüs und Panels schließen sich, wenn du woanders hinklickst.",
+                                                           "Jeder Teil (Start, Suche, Kontextmenü, WLAN \u0026 Ton, Mitteilungen, Kalender, Wetter, Vorschauen) lässt sich auf die normale Windows-Version zurückstellen."
                                                        ]
                                             }
                               }
