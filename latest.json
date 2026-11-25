@@ -1,42 +1,42 @@
 {
     "stable":  {
                    "launcher":  {
-                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.41-1.5.34/Zenfik-Setup.exe",
-                                    "version":  "1.4.41",
+                                    "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.42-1.5.35/Zenfik-Setup.exe",
+                                    "version":  "1.4.42",
                                     "silent":  false,
                                     "notes":  {
                                                   "en":  [
-                                                             "Right-clicking an app in the Zenfik hidden icons now shows its menu in the Zenfik style (with your panel colors and animation) instead of the plain Windows menu, including submenus."
+                                                             "The Zenfik taskbar now stays hidden over a fullscreen window (F11, game, video) on one screen even when you click something on another screen."
                                                          ],
                                                   "pl":  [
-                                                             "Kliknięcie prawym na aplikację w ukrytych ikonach Zenfika pokazuje teraz jej menu w stylu Zenfika (z Twoimi kolorami i animacją paneli) zamiast zwykłego menu Windows, razem z podmenu."
+                                                             "Pasek Zenfik zostaje teraz schowany nad oknem na pełnym ekranie (F11, gra, film) na jednym ekranie, nawet gdy klikniesz coś na drugim ekranie."
                                                          ],
                                                   "es":  [
-                                                             "Al hacer clic derecho en una app de los iconos ocultos de Zenfik, su menú aparece con el estilo de Zenfik (con tus colores y animación de paneles) en lugar del menú normal de Windows, incluidos los submenús."
+                                                             "La barra de Zenfik ahora sigue oculta sobre una ventana a pantalla completa (F11, juego, vídeo) en una pantalla aunque hagas clic en otra pantalla."
                                                          ],
                                                   "de":  [
-                                                             "Ein Rechtsklick auf eine App in den ausgeblendeten Symbolen von Zenfik zeigt ihr Menü jetzt im Zenfik-Stil (mit deinen Panel-Farben und -Animationen) statt des normalen Windows-Menüs, auch mit Untermenüs."
+                                                             "Die Zenfik-Taskleiste bleibt jetzt über einem Vollbildfenster (F11, Spiel, Video) auf einem Bildschirm ausgeblendet, auch wenn du auf einem anderen Bildschirm etwas anklickst."
                                                          ]
                                               }
                                 }
                },
     "beta":  {
                  "launcher":  {
-                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.41-1.5.34/Zenfik-Setup.exe",
-                                  "version":  "1.4.41",
+                                  "url":  "https://github.com/Ru3tek/zenfik-releases/releases/download/v1.4.42-1.5.35/Zenfik-Setup.exe",
+                                  "version":  "1.4.42",
                                   "silent":  false,
                                   "notes":  {
                                                 "en":  [
-                                                           "Right-clicking an app in the Zenfik hidden icons now shows its menu in the Zenfik style (with your panel colors and animation) instead of the plain Windows menu, including submenus."
+                                                           "The Zenfik taskbar now stays hidden over a fullscreen window (F11, game, video) on one screen even when you click something on another screen."
                                                        ],
                                                 "pl":  [
-                                                           "Kliknięcie prawym na aplikację w ukrytych ikonach Zenfika pokazuje teraz jej menu w stylu Zenfika (z Twoimi kolorami i animacją paneli) zamiast zwykłego menu Windows, razem z podmenu."
+                                                           "Pasek Zenfik zostaje teraz schowany nad oknem na pełnym ekranie (F11, gra, film) na jednym ekranie, nawet gdy klikniesz coś na drugim ekranie."
                                                        ],
                                                 "es":  [
-                                                           "Al hacer clic derecho en una app de los iconos ocultos de Zenfik, su menú aparece con el estilo de Zenfik (con tus colores y animación de paneles) en lugar del menú normal de Windows, incluidos los submenús."
+                                                           "La barra de Zenfik ahora sigue oculta sobre una ventana a pantalla completa (F11, juego, vídeo) en una pantalla aunque hagas clic en otra pantalla."
                                                        ],
                                                 "de":  [
-                                                           "Ein Rechtsklick auf eine App in den ausgeblendeten Symbolen von Zenfik zeigt ihr Menü jetzt im Zenfik-Stil (mit deinen Panel-Farben und -Animationen) statt des normalen Windows-Menüs, auch mit Untermenüs."
+                                                           "Die Zenfik-Taskleiste bleibt jetzt über einem Vollbildfenster (F11, Spiel, Video) auf einem Bildschirm ausgeblendet, auch wenn du auf einem anderen Bildschirm etwas anklickst."
                                                        ]
                                             }
                               }
